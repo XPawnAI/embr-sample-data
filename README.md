@@ -11,13 +11,12 @@ Medical data for Generative AI
 - Streamlined, token-efficient for LLMs
 - Preserves essential medical data for high-performance queries
 
-> **Note**: A separate repository for converting FHIR data to EMBR format will be available soon at [xpawnai/embr](https://github.com/XPawnAI/embr).
-
-
 
 ## Downloads
 - 100 Synthetic Patient Records [Download .zip From Release](https://github.com/XPawnAI/embr-sample-data/releases/download/release/100-embr-records.zip)
 - 1000 Synthetic Patient Records (Coming Soon)
+
+> **Note**: A separate repository for converting FHIR data to EMBR format will be available soon at [xpawnai/embr](https://github.com/XPawnAI/embr).
 
 <!-- ## Quick Start
 
@@ -38,9 +37,14 @@ cd embr-sample-data
 
 
 
-## Overview of EMBR
+### Overview of EMBR
 
 The **EMBR (Extracted Medical Bulk Reduction)** format is a custom data reduction approach tailored to healthcare applications, focusing on preserving clinically relevant information while minimizing data bulk. This repository provides a proof of concept for healthcare developers, AI researchers, and LLM engineers who want to leverage synthetic medical data for model training, evaluation, or as a reference resource in developing AI tools for healthcare.
+
+### Why Use EMBR?
+
+- **Token Efficiency**: EMBR files are structured to reduce token count, making them highly suitable for LLM applications where token limitations are a constraint.
+- **Healthcare Context Specificity**: Designed for clinical use cases, this data mirrors the complexity of real-world patient records while ensuring privacy through synthetically generated information.
 
 ### Data Types and Descriptions
 
@@ -62,13 +66,6 @@ The **EMBR (Extracted Medical Bulk Reduction)** format is a custom data reductio
 | Procedure                | Details clinical procedures (e.g., surgeries, therapies) performed on the patient, with outcomes and notes. |
 | SupplyDelivery           | Records the delivery of healthcare-related supplies to the patient, including type and quantity. |
 
-
-### Why Use EMBR?
-
-- **Token Efficiency**: EMBR files are structured to reduce token count, making them highly suitable for LLM applications where token limitations are a constraint.
-- **Healthcare Context Specificity**: Designed for clinical use cases, this data mirrors the complexity of real-world patient records while ensuring privacy through synthetically generated information.
-
-Each `.embr` file can be opened in a text editor or processed programmatically, depending on your project’s needs.
 
 ## License
 
