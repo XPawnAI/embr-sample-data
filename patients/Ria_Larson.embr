@@ -1,0 +1,578 @@
+PT-1 Patient ref={} stat=living codes={} name=Ms. Ria Larson gender=female birthDate=2002-10-29 address=515 Yost Approach, Somerville, MA, 02138 maritalStatus=Never Married multipleBirthBoolean=False communication=English (United States)
+EN-2 Encounter ref={} stat=finished date=2005-12-18T16:49:54 codes={Encounter for symptom,Perennial allergic rhinitis with seasonal variation,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2005-12-18T17:04:54
+EN-11 Encounter ref={} stat=finished date=2005-12-21T18:49:54 codes={Encounter for problem,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2005-12-21T19:24:09
+EN-28 Encounter ref={} stat=finished date=2011-06-21T17:49:54 codes={Encounter for check up,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2011-06-21T18:04:54
+EN-34 Encounter ref={} stat=finished date=2014-11-18T16:49:54 codes={Well child visit,ambulatory} provider=performer Dr. Enriqueta Barton facility=DAVIS SQUARE FAMILY PRACTICE endDate=2014-11-18T17:13:59
+EN-58 Encounter ref={} stat=finished date=2014-12-02T16:49:54 codes={Encounter for check up,Patient referral for dental care,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2014-12-02T20:18:18
+EN-81 Encounter ref={} stat=finished date=2015-11-03T16:49:54 codes={Allergic disorder initial assessment,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2015-11-03T17:13:42
+EN-104 Encounter ref={} stat=finished date=2015-11-10T16:49:54 codes={Encounter for symptom,Acute bacterial sinusitis,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2015-11-10T17:04:54
+EN-113 Encounter ref={} stat=finished date=2015-11-24T16:49:54 codes={Well child visit,ambulatory} provider=performer Dr. Enriqueta Barton facility=DAVIS SQUARE FAMILY PRACTICE endDate=2015-11-24T17:10:07
+EN-135 Encounter ref={} stat=finished date=2015-11-30T17:13:42 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2015-11-30T17:56:56
+EN-141 Encounter ref={} stat=finished date=2015-12-08T16:49:54 codes={Encounter for check up,Gingivitis,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2015-12-08T20:33:18
+EN-164 Encounter ref={} stat=finished date=2015-12-25T17:56:56 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2015-12-25T18:23:34
+EN-170 Encounter ref={} stat=finished date=2016-01-18T18:23:34 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2016-01-18T18:55:30
+EN-176 Encounter ref={} stat=finished date=2016-02-08T18:55:30 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2016-02-08T19:36:36
+EN-182 Encounter ref={} stat=finished date=2016-02-29T19:36:36 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2016-02-29T20:20:14
+EN-188 Encounter ref={} stat=finished date=2016-03-24T21:20:14 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2016-03-24T21:55:22
+EN-194 Encounter ref={} stat=finished date=2016-04-16T21:55:22 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2016-04-16T22:23:25
+EN-200 Encounter ref={} stat=finished date=2016-05-13T22:23:25 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2016-05-13T22:59:37
+EN-206 Encounter ref={} stat=finished date=2016-06-08T22:59:37 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2016-06-08T23:46:30
+EN-212 Encounter ref={} stat=finished date=2016-07-02T23:46:30 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2016-07-03T00:43:47
+EN-218 Encounter ref={} stat=finished date=2016-07-29T00:43:47 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2016-07-29T01:13:12
+EN-224 Encounter ref={} stat=finished date=2016-08-22T01:13:12 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2016-08-22T02:06:27
+EN-230 Encounter ref={} stat=finished date=2016-09-13T02:06:27 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2016-09-13T02:28:25
+EN-236 Encounter ref={} stat=finished date=2016-10-04T02:28:25 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2016-10-04T02:50:52
+EN-242 Encounter ref={} stat=finished date=2016-10-25T02:50:52 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2016-10-25T03:49:41
+EN-248 Encounter ref={} stat=finished date=2016-11-15T02:49:41 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2016-11-15T03:38:42
+EN-254 Encounter ref={} stat=finished date=2016-11-29T16:49:54 codes={Well child visit,ambulatory} provider=performer Dr. Enriqueta Barton facility=DAVIS SQUARE FAMILY PRACTICE endDate=2016-11-29T17:04:54
+EN-276 Encounter ref={} stat=finished date=2016-12-10T03:38:42 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2016-12-10T04:03:00
+EN-282 Encounter ref={} stat=finished date=2016-12-13T16:49:54 codes={Encounter for check up,Patient referral for dental care,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2016-12-13T20:39:16
+EN-305 Encounter ref={} stat=finished date=2017-01-06T04:03:00 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2017-01-06T04:22:14
+EN-311 Encounter ref={} stat=finished date=2017-01-29T04:22:14 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2017-01-29T04:52:08
+EN-317 Encounter ref={} stat=finished date=2017-02-19T04:52:08 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2017-02-19T05:25:28
+EN-323 Encounter ref={} stat=finished date=2017-03-13T06:25:28 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2017-03-13T07:24:29
+EN-329 Encounter ref={} stat=finished date=2017-04-05T07:24:29 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2017-04-05T08:06:03
+EN-335 Encounter ref={} stat=finished date=2017-04-27T08:06:03 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2017-04-27T08:43:25
+EN-341 Encounter ref={} stat=finished date=2017-05-19T08:43:25 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2017-05-19T09:15:40
+EN-347 Encounter ref={} stat=finished date=2017-06-10T09:15:40 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2017-06-10T09:35:46
+EN-353 Encounter ref={} stat=finished date=2017-07-03T09:35:46 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2017-07-03T10:30:04
+EN-359 Encounter ref={} stat=finished date=2017-07-29T10:30:04 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2017-07-29T10:55:43
+EN-365 Encounter ref={} stat=finished date=2017-08-21T10:55:43 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2017-08-21T11:18:16
+EN-371 Encounter ref={} stat=finished date=2017-09-16T11:18:16 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2017-09-16T12:02:39
+EN-377 Encounter ref={} stat=finished date=2017-10-10T12:02:39 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2017-10-10T12:27:36
+EN-383 Encounter ref={} stat=finished date=2017-10-23T17:49:54 codes={Consultation for treatment,Contraception care,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2017-10-23T18:04:54
+EN-394 Encounter ref={} stat=finished date=2017-11-03T12:27:36 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2017-11-03T13:07:51
+EN-400 Encounter ref={} stat=finished date=2017-11-28T12:07:51 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2017-11-28T12:50:47
+EN-406 Encounter ref={} stat=finished date=2017-12-05T16:49:54 codes={Well child visit,ambulatory} provider=performer Dr. Enriqueta Barton facility=DAVIS SQUARE FAMILY PRACTICE endDate=2017-12-05T17:04:54
+EN-424 Encounter ref={} stat=finished date=2017-12-12T16:49:54 codes={Encounter for check up,Patient referral for dental care,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2017-12-12T20:04:18
+EN-447 Encounter ref={} stat=finished date=2017-12-25T12:50:47 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2017-12-25T13:41:41
+EN-453 Encounter ref={} stat=finished date=2018-01-17T13:41:41 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2018-01-17T14:29:25
+EN-459 Encounter ref={} stat=finished date=2018-01-30T16:49:54 codes={Patient encounter procedure,Contraception care,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2018-01-30T17:09:32
+EN-465 Encounter ref={} stat=finished date=2018-02-12T14:29:25 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2018-02-12T15:18:30
+EN-471 Encounter ref={} stat=finished date=2018-03-10T15:18:30 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2018-03-10T15:53:30
+EN-477 Encounter ref={} stat=finished date=2018-04-02T16:53:30 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2018-04-02T17:19:19
+EN-483 Encounter ref={} stat=finished date=2018-04-23T17:19:19 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2018-04-23T17:53:19
+EN-489 Encounter ref={} stat=finished date=2018-05-01T17:49:54 codes={Patient encounter procedure,Contraception care,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2018-05-01T18:06:56
+EN-495 Encounter ref={} stat=finished date=2018-05-17T17:53:19 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2018-05-17T18:49:45
+EN-501 Encounter ref={} stat=finished date=2018-06-07T18:49:45 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2018-06-07T19:15:30
+EN-507 Encounter ref={} stat=finished date=2018-06-30T19:15:30 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2018-06-30T19:34:27
+EN-513 Encounter ref={} stat=finished date=2018-07-09T17:49:54 codes={Encounter for symptom,Acute viral pharyngitis,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2018-07-09T18:04:54
+EN-520 Encounter ref={} stat=finished date=2018-07-17T17:49:54 codes={Urgent care clinic (environment),ambulatory} provider=performer Dr. Yesenia Wilderman facility=MASS GENERAL BRIGHAM URGENT CARE LLC endDate=2018-07-17T18:04:54
+EN-543 Encounter ref={} stat=finished date=2018-07-24T17:49:54 codes={Encounter for check up,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2018-07-24T18:04:54
+EN-549 Encounter ref={} stat=finished date=2018-07-31T17:49:54 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2018-07-31T18:14:32
+EN-555 Encounter ref={} stat=finished date=2018-08-07T17:49:54 codes={Patient encounter procedure,Contraception care,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2018-08-07T18:04:54
+EN-561 Encounter ref={} stat=finished date=2018-08-27T18:14:32 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2018-08-27T18:51:17
+EN-567 Encounter ref={} stat=finished date=2018-09-20T18:51:17 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2018-09-20T19:14:35
+EN-573 Encounter ref={} stat=finished date=2018-10-13T19:14:35 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2018-10-13T19:43:38
+EN-579 Encounter ref={} stat=finished date=2018-10-18T18:04:34 codes={Consultation for treatment,Contraception care,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2018-10-18T18:19:34
+EN-587 Encounter ref={} stat=finished date=2018-11-06T16:49:54 codes={Patient encounter procedure,Contraception care,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2018-11-06T17:05:53
+EN-593 Encounter ref={} stat=finished date=2018-11-20T16:49:54 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2018-11-20T17:45:08
+EN-599 Encounter ref={} stat=finished date=2018-12-11T16:49:54 codes={Well child visit,ambulatory} provider=performer Dr. Enriqueta Barton facility=DAVIS SQUARE FAMILY PRACTICE endDate=2018-12-11T17:13:54
+EN-637 Encounter ref={} stat=finished date=2018-12-17T17:45:08 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2018-12-17T18:43:45
+EN-643 Encounter ref={} stat=finished date=2019-01-10T18:43:45 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2019-01-10T19:22:33
+EN-649 Encounter ref={} stat=finished date=2019-02-01T19:22:33 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2019-02-01T19:56:55
+EN-655 Encounter ref={} stat=finished date=2019-02-05T16:49:54 codes={Patient encounter procedure,Contraception care,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2019-02-05T17:06:11
+EN-661 Encounter ref={} stat=finished date=2019-02-24T19:56:55 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2019-02-24T20:51:33
+EN-667 Encounter ref={} stat=finished date=2019-03-22T21:51:33 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2019-03-22T22:24:01
+EN-673 Encounter ref={} stat=finished date=2019-04-14T22:24:01 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2019-04-14T22:49:59
+EN-679 Encounter ref={} stat=finished date=2019-05-06T22:49:59 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2019-05-06T23:08:19
+EN-685 Encounter ref={} stat=finished date=2019-05-07T17:49:54 codes={Patient encounter procedure,Contraception care,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2019-05-07T18:04:54
+EN-691 Encounter ref={} stat=finished date=2019-05-31T23:08:19 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2019-05-31T23:53:24
+EN-697 Encounter ref={} stat=finished date=2019-06-25T23:53:24 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2019-06-26T00:09:09
+EN-703 Encounter ref={} stat=finished date=2019-07-22T00:09:09 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2019-07-22T00:40:31
+EN-709 Encounter ref={} stat=finished date=2019-08-06T17:49:54 codes={Patient encounter procedure,Contraception care,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2019-08-06T18:06:48
+EN-715 Encounter ref={} stat=finished date=2019-08-20T17:49:54 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2019-08-20T18:18:18
+EN-721 Encounter ref={} stat=finished date=2019-09-15T18:18:18 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2019-09-15T19:08:51
+EN-727 Encounter ref={} stat=finished date=2019-10-09T19:08:51 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2019-10-09T20:08:09
+EN-733 Encounter ref={} stat=finished date=2019-11-05T16:49:54 codes={Patient encounter procedure,Contraception care,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2019-11-05T17:04:54
+EN-739 Encounter ref={} stat=finished date=2019-11-19T16:49:54 codes={Outpatient procedure,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2019-11-19T17:19:52
+EN-745 Encounter ref={} stat=finished date=2019-12-17T16:49:54 codes={Well child visit,ambulatory} provider=performer Dr. Enriqueta Barton facility=DAVIS SQUARE FAMILY PRACTICE endDate=2019-12-17T17:04:54
+EN-769 Encounter ref={} stat=finished date=2019-12-24T16:49:54 codes={Allergic disorder follow-up assessment,Allergy to substance,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2019-12-24T17:13:14
+EN-790 Encounter ref={} stat=finished date=2019-12-31T16:49:54 codes={Encounter for check up,Patient referral for dental care,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2019-12-31T20:04:22
+EN-804 Encounter ref={} stat=finished date=2020-02-04T16:49:54 codes={Patient encounter procedure,Contraception care,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2020-02-04T17:04:54
+EN-810 Encounter ref={} stat=finished date=2020-05-05T17:49:54 codes={Patient encounter procedure,Contraception care,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2020-05-05T18:04:54
+EN-816 Encounter ref={} stat=finished date=2020-08-04T17:49:54 codes={Patient encounter procedure,Contraception care,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2020-08-04T18:07:21
+EN-822 Encounter ref={} stat=finished date=2020-11-03T16:49:54 codes={Patient encounter procedure,Contraception care,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2020-11-03T17:04:54
+EN-828 Encounter ref={} stat=finished date=2020-12-22T16:49:54 codes={General examination of patient,ambulatory} provider=performer Dr. Enriqueta Barton facility=DAVIS SQUARE FAMILY PRACTICE endDate=2020-12-22T17:29:32
+EN-863 Encounter ref={} stat=finished date=2021-02-02T16:49:54 codes={Patient encounter procedure,Contraception care,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2021-02-02T17:06:01
+EN-869 Encounter ref={} stat=finished date=2021-05-11T17:49:54 codes={Prenatal initial visit,Normal pregnancy,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2021-05-11T18:04:54
+EN-897 Encounter ref={} stat=finished date=2021-06-08T17:49:54 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2021-06-08T18:04:54
+EN-906 Encounter ref={} stat=finished date=2021-06-12T17:49:54 codes={Telephone encounter,Acute infective cystitis,v3-ActCode VR} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2021-06-12T19:24:50
+EN-919 Encounter ref={} stat=finished date=2021-07-06T17:49:54 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2021-07-06T18:04:54
+EN-928 Encounter ref={} stat=finished date=2021-08-03T17:49:54 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2021-08-03T18:04:54
+EN-935 Encounter ref={} stat=finished date=2021-08-31T17:49:54 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2021-08-31T18:04:54
+EN-942 Encounter ref={} stat=finished date=2021-09-28T17:49:54 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2021-09-28T18:04:54
+EN-954 Encounter ref={} stat=finished date=2021-10-12T17:49:54 codes={Administration of vaccine to produce active immunity,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2021-10-12T18:04:54
+EN-960 Encounter ref={} stat=finished date=2021-10-26T17:49:54 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2021-10-26T18:04:54
+EN-967 Encounter ref={} stat=finished date=2021-11-02T17:49:54 codes={Administration of vaccine to produce active immunity,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2021-11-02T18:04:54
+EN-973 Encounter ref={} stat=finished date=2021-11-23T16:49:54 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2021-11-23T17:04:54
+EN-981 Encounter ref={} stat=finished date=2021-12-07T16:49:54 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2021-12-07T17:04:54
+EN-988 Encounter ref={} stat=finished date=2021-12-14T16:49:54 codes={Obstetric emergency hospital admission,Normal pregnancy,emergency} provider=performer Dr. Judy Gleason facility=CAMBRIDGE REHABILITATION & NURSING CENTER endDate=2021-12-14T17:49:54
+EN-995 Encounter ref={} stat=finished date=2021-12-28T16:49:54 codes={General examination of patient,ambulatory} provider=performer Dr. Enriqueta Barton facility=DAVIS SQUARE FAMILY PRACTICE endDate=2021-12-28T17:32:35
+EN-1019 Encounter ref={} stat=finished date=2022-01-25T16:49:54 codes={Postnatal visit,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2022-01-25T17:04:54
+EN-1027 Encounter ref={} stat=finished date=2022-02-01T16:49:54 codes={Consultation for treatment,Contraception care,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2022-02-01T17:04:54
+EN-1037 Encounter ref={} stat=finished date=2022-02-05T23:49:54 codes={Patient encounter procedure,Contraception care,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2022-02-06T00:30:49
+EN-1043 Encounter ref={} stat=finished date=2023-02-01T00:30:49 codes={Consultation for treatment,Contraception care,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2023-02-01T00:54:49
+EN-1054 Encounter ref={} stat=finished date=2023-03-08T11:49:54 codes={Encounter for symptom,Viral sinusitis,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2023-03-08T12:04:54
+EN-1063 Encounter ref={} stat=finished date=2023-11-25T15:49:54 codes={Encounter for symptom,Acute viral pharyngitis,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2023-11-25T16:04:54
+EN-1070 Encounter ref={} stat=finished date=2024-01-27T00:54:49 codes={Consultation for treatment,Contraception care,ambulatory} provider=performer Dr. Kim Hyatt facility=SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB endDate=2024-01-27T01:09:49
+CN-3 Condition ref={EN-2} stat=confirmed date=2005-12-18T16:49:54 codes={Perennial allergic rhinitis with seasonal variation} onsetDateTime=2005-12-18T16:49:54 abatementDateTime=2021-11-02T17:49:54
+CN-29 Condition ref={EN-28} stat=confirmed date=2011-06-21T17:49:54 codes={Medication review due} onsetDateTime=2011-06-21T17:49:54 abatementDateTime=2015-11-24T16:49:54
+CN-105 Condition ref={EN-104} stat=confirmed date=2015-11-10T16:49:54 codes={Acute bacterial sinusitis} onsetDateTime=2015-11-10T16:49:54 abatementDateTime=2015-12-05T16:49:54
+CN-114 Condition ref={EN-113} stat=confirmed date=2015-11-24T17:10:07 codes={Gingivitis} onsetDateTime=2015-11-24T17:10:07 abatementDateTime=2015-12-08T19:46:20
+CN-255 Condition ref={EN-254} stat=confirmed date=2016-11-29T16:49:54 codes={Medication review due} onsetDateTime=2016-11-29T16:49:54 abatementDateTime=2016-11-29T16:49:54
+CN-407 Condition ref={EN-406} stat=confirmed date=2017-12-05T16:49:54 codes={Medication review due} onsetDateTime=2017-12-05T16:49:54 abatementDateTime=2017-12-05T16:49:54
+CN-514 Condition ref={EN-513} stat=confirmed date=2018-07-09T17:49:54 codes={Acute viral pharyngitis} onsetDateTime=2018-07-09T17:49:54 abatementDateTime=2018-07-21T10:49:54
+CN-521 Condition ref={EN-520} stat=confirmed date=2018-07-17T17:49:54 codes={Medication review due} onsetDateTime=2018-07-17T17:49:54 abatementDateTime=2018-07-24T17:49:54
+CN-600 Condition ref={EN-599} stat=confirmed date=2018-12-11T16:49:54 codes={Medication review due} onsetDateTime=2018-12-11T16:49:54 abatementDateTime=2019-12-17T16:49:54
+CN-829 Condition ref={EN-828} stat=confirmed date=2020-12-22T16:49:54 codes={Medication review due} onsetDateTime=2020-12-22T16:49:54 abatementDateTime=2020-12-22T16:49:54
+CN-830 Condition ref={EN-828} stat=confirmed date=2020-12-22T17:29:32 codes={Received higher education} onsetDateTime=2020-12-22T17:29:32
+CN-831 Condition ref={EN-828} stat=confirmed date=2020-12-22T17:29:32 codes={Not in labor force} onsetDateTime=2020-12-22T17:29:32 abatementDateTime=2021-12-28T17:32:35
+CN-870 Condition ref={EN-869} stat=confirmed date=2021-05-11T17:49:54 codes={Normal pregnancy} onsetDateTime=2021-05-11T17:49:54 abatementDateTime=2021-12-14T16:49:54
+CN-898 Condition ref={EN-897} stat=confirmed date=2021-06-12T17:49:54 codes={Acute infective cystitis} onsetDateTime=2021-06-12T17:49:54 abatementDateTime=2021-06-14T09:24:50
+CN-996 Condition ref={EN-995} stat=confirmed date=2021-12-28T16:49:54 codes={Medication review due} onsetDateTime=2021-12-28T16:49:54
+CN-997 Condition ref={EN-995} stat=confirmed date=2021-12-28T17:32:35 codes={Full-time employment} onsetDateTime=2021-12-28T17:32:35
+CN-998 Condition ref={EN-995} stat=confirmed date=2021-12-28T17:32:35 codes={Social isolation} onsetDateTime=2021-12-28T17:32:35
+CN-999 Condition ref={EN-995} stat=confirmed date=2021-12-28T17:32:35 codes={Stress} onsetDateTime=2021-12-28T17:32:35
+CN-1055 Condition ref={EN-1054} stat=confirmed date=2023-03-08T11:49:54 codes={Viral sinusitis} onsetDateTime=2023-03-08T11:49:54 abatementDateTime=2023-03-25T12:49:54
+CN-1064 Condition ref={EN-1063} stat=confirmed date=2023-11-25T15:49:54 codes={Acute viral pharyngitis} onsetDateTime=2023-11-25T15:49:54 abatementDateTime=2023-12-08T05:49:54
+DR-52 DiagnosticReport ref={EN-34,OB-44} stat=final date=2014-11-18T17:13:59 codes={Generalized anxiety disorder 7 item} 
+DR-53 DiagnosticReport ref={EN-34,OB-45} stat=final date=2014-11-18T17:53:10 codes={Patient Health Questionnaire-9: Modified for Teens (Reported.PHQ.Teen)} 
+DR-130 DiagnosticReport ref={EN-113,OB-124} stat=final date=2015-11-24T17:10:07 codes={Generalized anxiety disorder 7 item} 
+DR-271 DiagnosticReport ref={EN-254,OB-265} stat=final date=2016-11-29T17:23:18 codes={Patient Health Questionnaire-9: Modified for Teens (Reported.PHQ.Teen)} 
+DR-538 DiagnosticReport ref={EN-520,OB-531} stat=final date=2018-07-17T18:26:30 codes={Patient Health Questionnaire-9: Modified for Teens (Reported.PHQ.Teen)} 
+DR-630 DiagnosticReport ref={EN-599,OB-609,OB-610,OB-611,OB-612,OB-613,OB-614,OB-615,OB-616,OB-617,OB-618,OB-619} stat=final date=2018-12-11T16:49:54 codes={CBC panel - Blood by Automated count} category=['v2-0074:LAB Laboratory'] provider=DAVIS SQUARE FAMILY PRACTICE
+DR-631 DiagnosticReport ref={EN-599,OB-621} stat=final date=2018-12-11T17:13:54 codes={Generalized anxiety disorder 7 item} 
+DR-632 DiagnosticReport ref={EN-599,OB-622} stat=final date=2018-12-11T17:47:20 codes={Patient Health Questionnaire-9: Modified for Teens (Reported.PHQ.Teen)} 
+DR-764 DiagnosticReport ref={EN-745,OB-755} stat=final date=2019-12-17T17:31:06 codes={Patient Health Questionnaire-9: Modified for Teens (Reported.PHQ.Teen)} 
+DR-855 DiagnosticReport ref={EN-828,OB-842} stat=final date=2020-12-22T17:48:29 codes={Generalized anxiety disorder 7 item} 
+DR-856 DiagnosticReport ref={EN-828,OB-843} stat=final date=2020-12-22T18:21:57 codes={Patient Health Questionnaire 2 item (Reported)} 
+DR-857 DiagnosticReport ref={EN-828,OB-844} stat=final date=2020-12-22T18:51:22 codes={PHQ-9 quick depression assessment panel (Reported.PHQ)} 
+DR-858 DiagnosticReport ref={EN-828,OB-845} stat=final date=2020-12-22T19:30:39 codes={Drug Abuse Screening Test-10} 
+DR-1014 DiagnosticReport ref={EN-995,OB-1010} stat=final date=2021-12-28T17:59:25 codes={Generalized anxiety disorder 7 item} 
+DV-67 Device ref={} stat=active codes={Dental x-ray system} deviceName=Dental x-ray system
+DV-150 Device ref={} stat=active codes={Dental x-ray system} deviceName=Dental x-ray system
+DV-291 Device ref={} stat=active codes={Dental x-ray system} deviceName=Dental x-ray system
+DV-433 Device ref={} stat=active codes={Dental x-ray system} deviceName=Dental x-ray system
+SD-68 SupplyDelivery ref={} stat=completed date=2014-12-02T18:00:00 codes={Dental equipment} type=Device quantity=[1]
+SD-69 SupplyDelivery ref={} stat=completed date=2014-12-02T18:00:00 codes={Conventional release periodontal gel} type=Device quantity=[1]
+SD-70 SupplyDelivery ref={} stat=completed date=2014-12-02T18:00:00 codes={Dental floss} type=Device quantity=[1]
+SD-151 SupplyDelivery ref={} stat=completed date=2015-12-08T18:21:04 codes={Dental equipment} type=Device quantity=[1]
+SD-152 SupplyDelivery ref={} stat=completed date=2015-12-08T18:21:04 codes={Conventional release periodontal gel} type=Device quantity=[1]
+SD-153 SupplyDelivery ref={} stat=completed date=2015-12-08T18:21:04 codes={Dental floss} type=Device quantity=[1]
+SD-292 SupplyDelivery ref={} stat=completed date=2016-12-13T18:02:20 codes={Dental equipment} type=Device quantity=[1]
+SD-293 SupplyDelivery ref={} stat=completed date=2016-12-13T18:02:20 codes={Conventional release periodontal gel} type=Device quantity=[1]
+SD-294 SupplyDelivery ref={} stat=completed date=2016-12-13T18:02:20 codes={Dental floss} type=Device quantity=[1]
+SD-434 SupplyDelivery ref={} stat=completed date=2017-12-12T17:47:16 codes={Dental equipment} type=Device quantity=[1]
+SD-435 SupplyDelivery ref={} stat=completed date=2017-12-12T17:47:16 codes={Conventional release periodontal gel} type=Device quantity=[1]
+SD-436 SupplyDelivery ref={} stat=completed date=2017-12-12T17:47:16 codes={Dental floss} type=Device quantity=[1]
+SD-797 SupplyDelivery ref={} stat=completed date=2019-12-31T17:48:16 codes={Dental equipment} type=Device quantity=[1]
+SD-798 SupplyDelivery ref={} stat=completed date=2019-12-31T17:48:16 codes={Conventional release periodontal gel} type=Device quantity=[1]
+SD-799 SupplyDelivery ref={} stat=completed date=2019-12-31T17:48:16 codes={Dental floss} type=Device quantity=[1]
+IS-76 ImagingStudy ref={EN-58} stat=available date=2014-12-02T18:57:49 codes={Dental plain X-ray bitewing,Digital Radiography,Structure of region of internal part of mouth,Digital Intra-Oral X-Ray Image} 
+IS-159 ImagingStudy ref={EN-141} stat=available date=2015-12-08T18:56:00 codes={Dental plain X-ray bitewing,Digital Radiography,Structure of region of internal part of mouth,Digital Intra-Oral X-Ray Image} 
+IS-300 ImagingStudy ref={EN-282} stat=available date=2016-12-13T18:56:33 codes={Dental plain X-ray bitewing,Digital Radiography,Structure of region of internal part of mouth,Digital Intra-Oral X-Ray Image} 
+IS-442 ImagingStudy ref={EN-424} stat=available date=2017-12-12T18:58:47 codes={Dental plain X-ray bitewing,Digital Radiography,Structure of region of internal part of mouth,Digital Intra-Oral X-Ray Image} 
+CP-23 CarePlan ref={EN-11} stat=active date=2005-12-21T19:24:09 codes={Allergy education at SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB,careplan-category assess-plan,Self-care interventions,Allergy education} text=Care Plan for Self-care interventions.Activities: Self-care interventions intent=order
+CP-99 CarePlan ref={EN-81} stat=completed date=2015-11-03T16:49:54 codes={Allergen immunotherapy at SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB,careplan-category assess-plan,Allergic disorder monitoring,Allergen immunotherapy} text=Care Plan for Allergic disorder monitoring.Activities: Allergic disorder monitoring intent=order endDate=2019-12-24T16:49:54
+CP-892 CarePlan ref={EN-869} stat=completed date=2021-05-11T17:49:54 codes={Antenatal education at SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB,Antenatal risk assessment at SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB,Antenatal blood tests at SPAULDING HOSPITAL FOR CONTINUING MED CARE-CAMB,careplan-category assess-plan,Routine antenatal care,Antenatal education,Antenatal risk assessment,Antenatal blood tests} text=Care Plan for Routine antenatal care.Activities: Routine antenatal careRoutine antenatal careRoutine antenatal care intent=order endDate=2021-12-14T16:49:54
+MR-4 MedicationRequest ref={EN-2} stat=active date=2005-12-18T16:49:54 codes={Fexofenadine hydrochloride 30 MG Oral Tablet} intent=order requester=Dr. Kim Hyatt dosageInstruction= Take as needed.
+MR-19 MedicationRequest ref={EN-11} stat=active date=2005-12-21T19:24:09 codes={NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector} intent=order requester=Dr. Kim Hyatt dosageInstruction= Take as needed.
+MR-72 MedicationRequest ref={EN-58,MD-71} stat=stopped date=2014-12-02T19:38:38 codes={} intent=order requester=Dr. Kim Hyatt reasonCode=['sct:103697008 Patient referral for dental care']
+MR-106 MedicationRequest ref={EN-104,CN-105} stat=stopped date=2015-11-10T16:49:54 codes={Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet} intent=order requester=Dr. Kim Hyatt
+MR-155 MedicationRequest ref={EN-141,CN-114,MD-154} stat=stopped date=2015-12-08T19:46:20 codes={} intent=order requester=Dr. Kim Hyatt
+MR-296 MedicationRequest ref={EN-282,MD-295} stat=stopped date=2016-12-13T19:48:42 codes={} intent=order requester=Dr. Kim Hyatt reasonCode=['sct:103697008 Patient referral for dental care']
+MR-386 MedicationRequest ref={EN-383,MD-385} stat=stopped date=2017-10-23T17:49:54 codes={} intent=order requester=Dr. Kim Hyatt
+MR-438 MedicationRequest ref={EN-424,MD-437} stat=stopped date=2017-12-12T19:33:49 codes={} intent=order requester=Dr. Kim Hyatt reasonCode=['sct:103697008 Patient referral for dental care']
+MR-580 MedicationRequest ref={EN-579} stat=stopped date=2018-10-18T18:04:34 codes={Seasonique 91 Day Pack} intent=order requester=Dr. Kim Hyatt
+MR-912 MedicationRequest ref={EN-906,CN-898} stat=stopped date=2021-06-12T19:24:50 codes={ciprofloxacin 250 MG Oral Tablet} intent=order requester=Dr. Kim Hyatt dosageInstruction=1 for 2.0 d
+MR-1029 MedicationRequest ref={EN-1027,MD-1028} stat=stopped date=2022-02-01T16:49:54 codes={} intent=order requester=Dr. Kim Hyatt
+MR-1046 MedicationRequest ref={EN-1043,MD-1045} stat=stopped date=2023-02-01T00:30:49 codes={} intent=order requester=Dr. Kim Hyatt
+MR-1056 MedicationRequest ref={EN-1054,CN-1055} stat=stopped date=2023-03-08T11:49:54 codes={Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet} intent=order requester=Dr. Kim Hyatt
+MR-1071 MedicationRequest ref={EN-1070} stat=active date=2024-01-27T00:54:49 codes={Natazia 28 Day Pack} intent=order requester=Dr. Kim Hyatt
+PR-46 Procedure ref={EN-34} stat=completed date=2014-11-18T16:49:54 codes={Assessment of anxiety} endDate=2014-11-18T17:13:59
+PR-47 Procedure ref={EN-34} stat=completed date=2014-11-18T17:13:59 codes={Depression screening} endDate=2014-11-18T17:25:01
+PR-48 Procedure ref={EN-34} stat=completed date=2014-11-18T17:25:01 codes={Depression screening using Patient Health Questionnaire Nine Item score} endDate=2014-11-18T17:53:10
+PR-49 Procedure ref={EN-34} stat=completed date=2014-11-18T17:53:10 codes={Patient referral for dental care} endDate=2014-11-18T18:07:11
+PR-59 Procedure ref={EN-58} stat=completed date=2014-12-02T16:49:54 codes={Dental consultation and report} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2014-12-02T17:27:38
+PR-60 Procedure ref={EN-58} stat=completed date=2014-12-02T17:27:38 codes={Dental care} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2014-12-02T18:00:00
+PR-61 Procedure ref={EN-58} stat=completed date=2014-12-02T18:00:00 codes={Removal of supragingival plaque and calculus from all teeth using dental instrument} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2014-12-02T18:20:15
+PR-62 Procedure ref={EN-58} stat=completed date=2014-12-02T18:20:15 codes={Removal of subgingival plaque and calculus from all teeth using dental instrument} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2014-12-02T18:57:49
+PR-63 Procedure ref={EN-58} stat=completed date=2014-12-02T18:57:49 codes={Dental plain X-ray bitewing} endDate=2014-12-02T19:27:49
+PR-64 Procedure ref={EN-58} stat=completed date=2014-12-02T18:57:49 codes={Examination of gingivae} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2014-12-02T19:38:38
+PR-65 Procedure ref={EN-58} stat=completed date=2014-12-02T19:38:38 codes={Dental fluoride treatment} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2014-12-02T20:13:05
+PR-66 Procedure ref={EN-58} stat=completed date=2014-12-02T20:13:05 codes={Oral health education} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2014-12-02T20:18:18
+PR-97 Procedure ref={EN-81} stat=completed date=2015-11-03T16:49:54 codes={Allergy screening test} endDate=2015-11-03T17:13:42
+PR-125 Procedure ref={EN-113} stat=completed date=2015-11-24T16:49:54 codes={Medication reconciliation} endDate=2015-11-24T17:04:54
+PR-126 Procedure ref={EN-113} stat=completed date=2015-11-24T16:49:54 codes={Assessment of anxiety} endDate=2015-11-24T17:10:07
+PR-127 Procedure ref={EN-113,CN-114} stat=completed date=2015-11-24T17:10:07 codes={Patient referral for dental care} endDate=2015-11-24T17:16:27
+PR-136 Procedure ref={EN-135} stat=completed date=2015-11-30T17:13:42 codes={Subcutaneous immunotherapy} endDate=2015-11-30T17:56:56
+PR-142 Procedure ref={EN-141,CN-114} stat=completed date=2015-12-08T16:49:54 codes={Dental consultation and report} endDate=2015-12-08T17:28:11
+PR-143 Procedure ref={EN-141,CN-114} stat=completed date=2015-12-08T17:28:11 codes={Dental care} endDate=2015-12-08T18:21:04
+PR-144 Procedure ref={EN-141,CN-114} stat=completed date=2015-12-08T18:21:04 codes={Removal of supragingival plaque and calculus from all teeth using dental instrument} endDate=2015-12-08T18:26:04
+PR-145 Procedure ref={EN-141,CN-114} stat=completed date=2015-12-08T18:26:04 codes={Removal of subgingival plaque and calculus from all teeth using dental instrument} endDate=2015-12-08T18:56:00
+PR-146 Procedure ref={EN-141} stat=completed date=2015-12-08T18:56:00 codes={Dental plain X-ray bitewing} endDate=2015-12-08T19:26:00
+PR-147 Procedure ref={EN-141,CN-114} stat=completed date=2015-12-08T18:56:00 codes={Examination of gingivae} endDate=2015-12-08T19:46:20
+PR-148 Procedure ref={EN-141,CN-114} stat=completed date=2015-12-08T19:46:20 codes={Dental fluoride treatment} endDate=2015-12-08T20:21:59
+PR-149 Procedure ref={EN-141,CN-114} stat=completed date=2015-12-08T20:21:59 codes={Oral health education} endDate=2015-12-08T20:33:18
+PR-165 Procedure ref={EN-164} stat=completed date=2015-12-25T17:56:56 codes={Subcutaneous immunotherapy} endDate=2015-12-25T18:23:34
+PR-171 Procedure ref={EN-170} stat=completed date=2016-01-18T18:23:34 codes={Subcutaneous immunotherapy} endDate=2016-01-18T18:55:30
+PR-177 Procedure ref={EN-176} stat=completed date=2016-02-08T18:55:30 codes={Subcutaneous immunotherapy} endDate=2016-02-08T19:36:36
+PR-183 Procedure ref={EN-182} stat=completed date=2016-02-29T19:36:36 codes={Subcutaneous immunotherapy} endDate=2016-02-29T20:20:14
+PR-189 Procedure ref={EN-188} stat=completed date=2016-03-24T21:20:14 codes={Subcutaneous immunotherapy} endDate=2016-03-24T21:55:22
+PR-195 Procedure ref={EN-194} stat=completed date=2016-04-16T21:55:22 codes={Subcutaneous immunotherapy} endDate=2016-04-16T22:23:25
+PR-201 Procedure ref={EN-200} stat=completed date=2016-05-13T22:23:25 codes={Subcutaneous immunotherapy} endDate=2016-05-13T22:59:37
+PR-207 Procedure ref={EN-206} stat=completed date=2016-06-08T22:59:37 codes={Subcutaneous immunotherapy} endDate=2016-06-08T23:46:30
+PR-213 Procedure ref={EN-212} stat=completed date=2016-07-02T23:46:30 codes={Subcutaneous immunotherapy} endDate=2016-07-03T00:43:47
+PR-219 Procedure ref={EN-218} stat=completed date=2016-07-29T00:43:47 codes={Subcutaneous immunotherapy} endDate=2016-07-29T01:13:12
+PR-225 Procedure ref={EN-224} stat=completed date=2016-08-22T01:13:12 codes={Subcutaneous immunotherapy} endDate=2016-08-22T02:06:27
+PR-231 Procedure ref={EN-230} stat=completed date=2016-09-13T02:06:27 codes={Subcutaneous immunotherapy} endDate=2016-09-13T02:28:25
+PR-237 Procedure ref={EN-236} stat=completed date=2016-10-04T02:28:25 codes={Subcutaneous immunotherapy} endDate=2016-10-04T02:50:52
+PR-243 Procedure ref={EN-242} stat=completed date=2016-10-25T02:50:52 codes={Subcutaneous immunotherapy} endDate=2016-10-25T03:49:41
+PR-249 Procedure ref={EN-248} stat=completed date=2016-11-15T02:49:41 codes={Subcutaneous immunotherapy} endDate=2016-11-15T03:38:42
+PR-266 Procedure ref={EN-254} stat=completed date=2016-11-29T16:49:54 codes={Medication reconciliation} endDate=2016-11-29T17:04:54
+PR-267 Procedure ref={EN-254} stat=completed date=2016-11-29T16:49:54 codes={Depression screening} endDate=2016-11-29T17:00:28
+PR-268 Procedure ref={EN-254} stat=completed date=2016-11-29T17:00:28 codes={Depression screening using Patient Health Questionnaire Nine Item score} endDate=2016-11-29T17:23:18
+PR-269 Procedure ref={EN-254} stat=completed date=2016-11-29T17:23:18 codes={Patient referral for dental care} endDate=2016-11-29T17:33:23
+PR-277 Procedure ref={EN-276} stat=completed date=2016-12-10T03:38:42 codes={Subcutaneous immunotherapy} endDate=2016-12-10T04:03:00
+PR-283 Procedure ref={EN-282} stat=completed date=2016-12-13T16:49:54 codes={Dental consultation and report} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2016-12-13T17:26:38
+PR-284 Procedure ref={EN-282} stat=completed date=2016-12-13T17:26:38 codes={Dental care} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2016-12-13T18:02:20
+PR-285 Procedure ref={EN-282} stat=completed date=2016-12-13T18:02:20 codes={Removal of supragingival plaque and calculus from all teeth using dental instrument} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2016-12-13T18:24:24
+PR-286 Procedure ref={EN-282} stat=completed date=2016-12-13T18:24:24 codes={Removal of subgingival plaque and calculus from all teeth using dental instrument} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2016-12-13T18:56:33
+PR-287 Procedure ref={EN-282} stat=completed date=2016-12-13T18:56:33 codes={Dental plain X-ray bitewing} endDate=2016-12-13T19:26:33
+PR-288 Procedure ref={EN-282} stat=completed date=2016-12-13T18:56:33 codes={Examination of gingivae} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2016-12-13T19:48:42
+PR-289 Procedure ref={EN-282} stat=completed date=2016-12-13T19:48:42 codes={Dental fluoride treatment} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2016-12-13T20:19:09
+PR-290 Procedure ref={EN-282} stat=completed date=2016-12-13T20:19:09 codes={Oral health education} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2016-12-13T20:39:16
+PR-306 Procedure ref={EN-305} stat=completed date=2017-01-06T04:03:00 codes={Subcutaneous immunotherapy} endDate=2017-01-06T04:22:14
+PR-312 Procedure ref={EN-311} stat=completed date=2017-01-29T04:22:14 codes={Subcutaneous immunotherapy} endDate=2017-01-29T04:52:08
+PR-318 Procedure ref={EN-317} stat=completed date=2017-02-19T04:52:08 codes={Subcutaneous immunotherapy} endDate=2017-02-19T05:25:28
+PR-324 Procedure ref={EN-323} stat=completed date=2017-03-13T06:25:28 codes={Subcutaneous immunotherapy} endDate=2017-03-13T07:24:29
+PR-330 Procedure ref={EN-329} stat=completed date=2017-04-05T07:24:29 codes={Subcutaneous immunotherapy} endDate=2017-04-05T08:06:03
+PR-336 Procedure ref={EN-335} stat=completed date=2017-04-27T08:06:03 codes={Subcutaneous immunotherapy} endDate=2017-04-27T08:43:25
+PR-342 Procedure ref={EN-341} stat=completed date=2017-05-19T08:43:25 codes={Subcutaneous immunotherapy} endDate=2017-05-19T09:15:40
+PR-348 Procedure ref={EN-347} stat=completed date=2017-06-10T09:15:40 codes={Subcutaneous immunotherapy} endDate=2017-06-10T09:35:46
+PR-354 Procedure ref={EN-353} stat=completed date=2017-07-03T09:35:46 codes={Subcutaneous immunotherapy} endDate=2017-07-03T10:30:04
+PR-360 Procedure ref={EN-359} stat=completed date=2017-07-29T10:30:04 codes={Subcutaneous immunotherapy} endDate=2017-07-29T10:55:43
+PR-366 Procedure ref={EN-365} stat=completed date=2017-08-21T10:55:43 codes={Subcutaneous immunotherapy} endDate=2017-08-21T11:18:16
+PR-372 Procedure ref={EN-371} stat=completed date=2017-09-16T11:18:16 codes={Subcutaneous immunotherapy} endDate=2017-09-16T12:02:39
+PR-378 Procedure ref={EN-377} stat=completed date=2017-10-10T12:02:39 codes={Subcutaneous immunotherapy} endDate=2017-10-10T12:27:36
+PR-384 Procedure ref={EN-383} stat=completed date=2017-10-23T17:49:54 codes={Intramuscular injection} endDate=2017-10-23T18:04:34
+PR-395 Procedure ref={EN-394} stat=completed date=2017-11-03T12:27:36 codes={Subcutaneous immunotherapy} endDate=2017-11-03T13:07:51
+PR-401 Procedure ref={EN-400} stat=completed date=2017-11-28T12:07:51 codes={Subcutaneous immunotherapy} endDate=2017-11-28T12:50:47
+PR-417 Procedure ref={EN-406} stat=completed date=2017-12-05T16:49:54 codes={Medication reconciliation} endDate=2017-12-05T17:04:54
+PR-418 Procedure ref={EN-406} stat=completed date=2017-12-05T16:49:54 codes={Patient referral for dental care} endDate=2017-12-05T16:57:10
+PR-425 Procedure ref={EN-424} stat=completed date=2017-12-12T16:49:54 codes={Dental consultation and report} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2017-12-12T17:28:46
+PR-426 Procedure ref={EN-424} stat=completed date=2017-12-12T17:28:46 codes={Dental care} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2017-12-12T17:47:16
+PR-427 Procedure ref={EN-424} stat=completed date=2017-12-12T17:47:16 codes={Removal of supragingival plaque and calculus from all teeth using dental instrument} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2017-12-12T18:28:37
+PR-428 Procedure ref={EN-424} stat=completed date=2017-12-12T18:28:37 codes={Removal of subgingival plaque and calculus from all teeth using dental instrument} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2017-12-12T18:58:47
+PR-429 Procedure ref={EN-424} stat=completed date=2017-12-12T18:58:47 codes={Dental plain X-ray bitewing} endDate=2017-12-12T19:28:47
+PR-430 Procedure ref={EN-424} stat=completed date=2017-12-12T18:58:47 codes={Examination of gingivae} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2017-12-12T19:33:49
+PR-431 Procedure ref={EN-424} stat=completed date=2017-12-12T19:33:49 codes={Dental fluoride treatment} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2017-12-12T19:55:42
+PR-432 Procedure ref={EN-424} stat=completed date=2017-12-12T19:55:42 codes={Oral health education} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2017-12-12T20:04:18
+PR-448 Procedure ref={EN-447} stat=completed date=2017-12-25T12:50:47 codes={Subcutaneous immunotherapy} endDate=2017-12-25T13:41:41
+PR-454 Procedure ref={EN-453} stat=completed date=2018-01-17T13:41:41 codes={Subcutaneous immunotherapy} endDate=2018-01-17T14:29:25
+PR-460 Procedure ref={EN-459} stat=completed date=2018-01-30T16:49:54 codes={Intramuscular injection} endDate=2018-01-30T17:09:32
+PR-466 Procedure ref={EN-465} stat=completed date=2018-02-12T14:29:25 codes={Subcutaneous immunotherapy} endDate=2018-02-12T15:18:30
+PR-472 Procedure ref={EN-471} stat=completed date=2018-03-10T15:18:30 codes={Subcutaneous immunotherapy} endDate=2018-03-10T15:53:30
+PR-478 Procedure ref={EN-477} stat=completed date=2018-04-02T16:53:30 codes={Subcutaneous immunotherapy} endDate=2018-04-02T17:19:19
+PR-484 Procedure ref={EN-483} stat=completed date=2018-04-23T17:19:19 codes={Subcutaneous immunotherapy} endDate=2018-04-23T17:53:19
+PR-490 Procedure ref={EN-489} stat=completed date=2018-05-01T17:49:54 codes={Intramuscular injection} endDate=2018-05-01T18:06:56
+PR-496 Procedure ref={EN-495} stat=completed date=2018-05-17T17:53:19 codes={Subcutaneous immunotherapy} endDate=2018-05-17T18:49:45
+PR-502 Procedure ref={EN-501} stat=completed date=2018-06-07T18:49:45 codes={Subcutaneous immunotherapy} endDate=2018-06-07T19:15:30
+PR-508 Procedure ref={EN-507} stat=completed date=2018-06-30T19:15:30 codes={Subcutaneous immunotherapy} endDate=2018-06-30T19:34:27
+PR-532 Procedure ref={EN-520} stat=completed date=2018-07-17T17:49:54 codes={Depression screening} endDate=2018-07-17T18:03:19
+PR-533 Procedure ref={EN-520} stat=completed date=2018-07-17T18:03:19 codes={Depression screening using Patient Health Questionnaire Nine Item score} endDate=2018-07-17T18:26:30
+PR-534 Procedure ref={EN-520} stat=completed date=2018-07-17T18:26:30 codes={Assessment of substance use} endDate=2018-07-17T18:41:14
+PR-535 Procedure ref={EN-520} stat=completed date=2018-07-17T18:41:14 codes={Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test} endDate=2018-07-17T19:03:32
+PR-536 Procedure ref={EN-520} stat=completed date=2018-07-17T19:03:32 codes={Anticipatory guidance} endDate=2018-07-17T19:08:41
+PR-544 Procedure ref={EN-543} stat=completed date=2018-07-24T17:49:54 codes={Medication reconciliation} endDate=2018-07-24T18:04:54
+PR-550 Procedure ref={EN-549} stat=completed date=2018-07-31T17:49:54 codes={Subcutaneous immunotherapy} endDate=2018-07-31T18:14:32
+PR-556 Procedure ref={EN-555} stat=completed date=2018-08-07T17:49:54 codes={Intramuscular injection} endDate=2018-08-07T18:03:14
+PR-562 Procedure ref={EN-561} stat=completed date=2018-08-27T18:14:32 codes={Subcutaneous immunotherapy} endDate=2018-08-27T18:51:17
+PR-568 Procedure ref={EN-567} stat=completed date=2018-09-20T18:51:17 codes={Subcutaneous immunotherapy} endDate=2018-09-20T19:14:35
+PR-574 Procedure ref={EN-573} stat=completed date=2018-10-13T19:14:35 codes={Subcutaneous immunotherapy} endDate=2018-10-13T19:43:38
+PR-588 Procedure ref={EN-587} stat=completed date=2018-11-06T16:49:54 codes={Intramuscular injection} endDate=2018-11-06T17:05:53
+PR-594 Procedure ref={EN-593} stat=completed date=2018-11-20T16:49:54 codes={Subcutaneous immunotherapy} endDate=2018-11-20T17:45:08
+PR-623 Procedure ref={EN-599} stat=completed date=2018-12-11T16:49:54 codes={Assessment of anxiety} endDate=2018-12-11T17:13:54
+PR-624 Procedure ref={EN-599} stat=completed date=2018-12-11T17:13:54 codes={Depression screening} endDate=2018-12-11T17:26:45
+PR-625 Procedure ref={EN-599} stat=completed date=2018-12-11T17:26:45 codes={Depression screening using Patient Health Questionnaire Nine Item score} endDate=2018-12-11T17:47:20
+PR-626 Procedure ref={EN-599} stat=completed date=2018-12-11T17:47:20 codes={Assessment of substance use} endDate=2018-12-11T17:59:51
+PR-627 Procedure ref={EN-599} stat=completed date=2018-12-11T17:59:51 codes={Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test} endDate=2018-12-11T18:27:07
+PR-628 Procedure ref={EN-599} stat=completed date=2018-12-11T18:27:07 codes={Anticipatory guidance} endDate=2018-12-11T18:34:44
+PR-638 Procedure ref={EN-637} stat=completed date=2018-12-17T17:45:08 codes={Subcutaneous immunotherapy} endDate=2018-12-17T18:43:45
+PR-644 Procedure ref={EN-643} stat=completed date=2019-01-10T18:43:45 codes={Subcutaneous immunotherapy} endDate=2019-01-10T19:22:33
+PR-650 Procedure ref={EN-649} stat=completed date=2019-02-01T19:22:33 codes={Subcutaneous immunotherapy} endDate=2019-02-01T19:56:55
+PR-656 Procedure ref={EN-655} stat=completed date=2019-02-05T16:49:54 codes={Intramuscular injection} endDate=2019-02-05T17:06:11
+PR-662 Procedure ref={EN-661} stat=completed date=2019-02-24T19:56:55 codes={Subcutaneous immunotherapy} endDate=2019-02-24T20:51:33
+PR-668 Procedure ref={EN-667} stat=completed date=2019-03-22T21:51:33 codes={Subcutaneous immunotherapy} endDate=2019-03-22T22:24:01
+PR-674 Procedure ref={EN-673} stat=completed date=2019-04-14T22:24:01 codes={Subcutaneous immunotherapy} endDate=2019-04-14T22:49:59
+PR-680 Procedure ref={EN-679} stat=completed date=2019-05-06T22:49:59 codes={Subcutaneous immunotherapy} endDate=2019-05-06T23:08:19
+PR-686 Procedure ref={EN-685} stat=completed date=2019-05-07T17:49:54 codes={Intramuscular injection} endDate=2019-05-07T18:02:24
+PR-692 Procedure ref={EN-691} stat=completed date=2019-05-31T23:08:19 codes={Subcutaneous immunotherapy} endDate=2019-05-31T23:53:24
+PR-698 Procedure ref={EN-697} stat=completed date=2019-06-25T23:53:24 codes={Subcutaneous immunotherapy} endDate=2019-06-26T00:09:09
+PR-704 Procedure ref={EN-703} stat=completed date=2019-07-22T00:09:09 codes={Subcutaneous immunotherapy} endDate=2019-07-22T00:40:31
+PR-710 Procedure ref={EN-709} stat=completed date=2019-08-06T17:49:54 codes={Intramuscular injection} endDate=2019-08-06T18:06:48
+PR-716 Procedure ref={EN-715} stat=completed date=2019-08-20T17:49:54 codes={Subcutaneous immunotherapy} endDate=2019-08-20T18:18:18
+PR-722 Procedure ref={EN-721} stat=completed date=2019-09-15T18:18:18 codes={Subcutaneous immunotherapy} endDate=2019-09-15T19:08:51
+PR-728 Procedure ref={EN-727} stat=completed date=2019-10-09T19:08:51 codes={Subcutaneous immunotherapy} endDate=2019-10-09T20:08:09
+PR-734 Procedure ref={EN-733} stat=completed date=2019-11-05T16:49:54 codes={Intramuscular injection} endDate=2019-11-05T17:02:48
+PR-740 Procedure ref={EN-739} stat=completed date=2019-11-19T16:49:54 codes={Subcutaneous immunotherapy} endDate=2019-11-19T17:19:52
+PR-756 Procedure ref={EN-745} stat=completed date=2019-12-17T16:49:54 codes={Medication reconciliation} endDate=2019-12-17T17:04:54
+PR-757 Procedure ref={EN-745} stat=completed date=2019-12-17T16:49:54 codes={Depression screening} endDate=2019-12-17T17:02:17
+PR-758 Procedure ref={EN-745} stat=completed date=2019-12-17T17:02:17 codes={Depression screening using Patient Health Questionnaire Nine Item score} endDate=2019-12-17T17:31:06
+PR-759 Procedure ref={EN-745} stat=completed date=2019-12-17T17:31:06 codes={Assessment of substance use} endDate=2019-12-17T17:44:24
+PR-760 Procedure ref={EN-745} stat=completed date=2019-12-17T17:44:24 codes={Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test} endDate=2019-12-17T17:55:16
+PR-761 Procedure ref={EN-745} stat=completed date=2019-12-17T17:55:16 codes={Anticipatory guidance} endDate=2019-12-17T18:03:09
+PR-762 Procedure ref={EN-745} stat=completed date=2019-12-17T18:03:09 codes={Patient referral for dental care} endDate=2019-12-17T18:16:47
+PR-785 Procedure ref={EN-769} stat=completed date=2019-12-24T16:49:54 codes={Allergy screening test} endDate=2019-12-24T17:13:14
+PR-791 Procedure ref={EN-790} stat=completed date=2019-12-31T16:49:54 codes={Dental consultation and report} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2019-12-31T17:07:05
+PR-792 Procedure ref={EN-790} stat=completed date=2019-12-31T17:07:05 codes={Dental care} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2019-12-31T17:48:16
+PR-793 Procedure ref={EN-790} stat=completed date=2019-12-31T17:48:16 codes={Removal of supragingival plaque and calculus from all teeth using dental instrument} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2019-12-31T18:26:43
+PR-794 Procedure ref={EN-790} stat=completed date=2019-12-31T18:26:43 codes={Removal of subgingival plaque and calculus from all teeth using dental instrument} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2019-12-31T18:55:35
+PR-795 Procedure ref={EN-790} stat=completed date=2019-12-31T18:55:35 codes={Examination of gingivae} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2019-12-31T19:53:59
+PR-796 Procedure ref={EN-790} stat=completed date=2019-12-31T19:53:59 codes={Oral health education} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2019-12-31T20:04:22
+PR-805 Procedure ref={EN-804} stat=completed date=2020-02-04T16:49:54 codes={Intramuscular injection} endDate=2020-02-04T17:00:40
+PR-811 Procedure ref={EN-810} stat=completed date=2020-05-05T17:49:54 codes={Intramuscular injection} endDate=2020-05-05T18:03:03
+PR-817 Procedure ref={EN-816} stat=completed date=2020-08-04T17:49:54 codes={Intramuscular injection} endDate=2020-08-04T18:07:21
+PR-823 Procedure ref={EN-822} stat=completed date=2020-11-03T16:49:54 codes={Intramuscular injection} endDate=2020-11-03T17:04:48
+PR-846 Procedure ref={EN-828} stat=completed date=2020-12-22T16:49:54 codes={Medication reconciliation} endDate=2020-12-22T17:04:54
+PR-847 Procedure ref={EN-828} stat=completed date=2020-12-22T16:49:54 codes={Assessment of health and social care needs} endDate=2020-12-22T17:29:32
+PR-848 Procedure ref={EN-828} stat=completed date=2020-12-22T17:29:32 codes={Assessment of anxiety} endDate=2020-12-22T17:48:29
+PR-849 Procedure ref={EN-828} stat=completed date=2020-12-22T17:48:29 codes={Depression screening} endDate=2020-12-22T18:01:17
+PR-850 Procedure ref={EN-828} stat=completed date=2020-12-22T18:01:17 codes={Depression screening} endDate=2020-12-22T18:21:57
+PR-851 Procedure ref={EN-828} stat=completed date=2020-12-22T18:21:57 codes={Depression screening using Patient Health Questionnaire Nine Item score} endDate=2020-12-22T18:51:22
+PR-852 Procedure ref={EN-828} stat=completed date=2020-12-22T18:51:22 codes={Assessment of substance use} endDate=2020-12-22T19:01:43
+PR-853 Procedure ref={EN-828} stat=completed date=2020-12-22T19:01:43 codes={Screening for drug abuse} endDate=2020-12-22T19:30:39
+PR-864 Procedure ref={EN-863} stat=completed date=2021-02-02T16:49:54 codes={Intramuscular injection} endDate=2021-02-02T17:06:01
+PR-871 Procedure ref={EN-869,CN-870} stat=completed date=2021-05-11T17:49:54 codes={Standard pregnancy test} endDate=2021-05-11T18:04:54
+PR-872 Procedure ref={EN-869,CN-870} stat=completed date=2021-05-11T17:49:54 codes={Ultrasound scan for fetal viability} endDate=2021-05-11T18:04:54
+PR-873 Procedure ref={EN-869,CN-870} stat=completed date=2021-05-11T17:49:54 codes={Evaluation of uterine fundal height} endDate=2021-05-11T18:04:54
+PR-874 Procedure ref={EN-869,CN-870} stat=completed date=2021-05-11T17:49:54 codes={Auscultation of the fetal heart} endDate=2021-05-11T18:04:54
+PR-875 Procedure ref={EN-869,CN-870} stat=completed date=2021-05-11T17:49:54 codes={Blood group typing} endDate=2021-05-11T18:04:54
+PR-876 Procedure ref={EN-869,CN-870} stat=completed date=2021-05-11T17:49:54 codes={Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential} endDate=2021-05-11T18:04:54
+PR-877 Procedure ref={EN-869,CN-870} stat=completed date=2021-05-11T17:49:54 codes={Hepatitis B surface antigen measurement} endDate=2021-05-11T18:04:54
+PR-878 Procedure ref={EN-869,CN-870} stat=completed date=2021-05-11T17:49:54 codes={Human immunodeficiency virus antigen test} endDate=2021-05-11T18:04:54
+PR-879 Procedure ref={EN-869,CN-870} stat=completed date=2021-05-11T17:49:54 codes={Chlamydia antigen test} endDate=2021-05-11T18:04:54
+PR-880 Procedure ref={EN-869,CN-870} stat=completed date=2021-05-11T17:49:54 codes={Gonorrhea infection titer test} endDate=2021-05-11T18:04:54
+PR-881 Procedure ref={EN-869,CN-870} stat=completed date=2021-05-11T17:49:54 codes={Syphilis infectious titer test} endDate=2021-05-11T18:04:54
+PR-882 Procedure ref={EN-869,CN-870} stat=completed date=2021-05-11T17:49:54 codes={Urine culture} endDate=2021-05-11T18:04:54
+PR-883 Procedure ref={EN-869,CN-870} stat=completed date=2021-05-11T17:49:54 codes={Cytopathology procedure, preparation of smear, genital source} endDate=2021-05-11T18:04:54
+PR-884 Procedure ref={EN-869,CN-870} stat=completed date=2021-05-11T17:49:54 codes={Urine screening test for diabetes} endDate=2021-05-11T18:04:54
+PR-885 Procedure ref={EN-869,CN-870} stat=completed date=2021-05-11T17:49:54 codes={Hepatitis C antibody, confirmatory test} endDate=2021-05-11T18:04:54
+PR-886 Procedure ref={EN-869,CN-870} stat=completed date=2021-05-11T17:49:54 codes={Rubella screening test} endDate=2021-05-11T18:04:54
+PR-887 Procedure ref={EN-869,CN-870} stat=completed date=2021-05-11T17:49:54 codes={Measurement of Varicella-zoster virus antibody} endDate=2021-05-11T18:04:54
+PR-888 Procedure ref={EN-869,CN-870} stat=completed date=2021-05-11T17:49:54 codes={Skin test for tuberculosis, Tine test} endDate=2021-05-11T18:04:54
+PR-889 Procedure ref={EN-869,CN-870} stat=completed date=2021-05-11T17:49:54 codes={Urine protein test} endDate=2021-05-11T18:04:54
+PR-890 Procedure ref={EN-869,CN-870} stat=completed date=2021-05-11T17:49:54 codes={Physical examination procedure} endDate=2021-05-11T18:04:54
+PR-899 Procedure ref={EN-897,CN-870} stat=completed date=2021-06-08T17:49:54 codes={Evaluation of uterine fundal height} endDate=2021-06-08T18:04:54
+PR-900 Procedure ref={EN-897,CN-870} stat=completed date=2021-06-08T17:49:54 codes={Auscultation of the fetal heart} endDate=2021-06-08T18:04:54
+PR-901 Procedure ref={EN-897,CN-870} stat=completed date=2021-06-08T17:49:54 codes={Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique} endDate=2021-06-08T18:04:54
+PR-907 Procedure ref={EN-906} stat=completed date=2021-06-12T17:49:54 codes={Telemedicine consultation with patient} endDate=2021-06-12T18:32:48
+PR-908 Procedure ref={EN-906} stat=completed date=2021-06-12T18:32:48 codes={History taking} endDate=2021-06-12T18:41:51
+PR-909 Procedure ref={EN-906} stat=completed date=2021-06-12T18:41:51 codes={Discussion about signs and symptoms} endDate=2021-06-12T18:54:08
+PR-910 Procedure ref={EN-906} stat=completed date=2021-06-12T18:54:08 codes={Evaluation procedure} endDate=2021-06-12T19:14:50
+PR-911 Procedure ref={EN-906} stat=completed date=2021-06-12T19:14:50 codes={Antibiotic therapy} endDate=2021-06-12T19:24:50
+PR-920 Procedure ref={EN-919,CN-870} stat=completed date=2021-07-06T17:49:54 codes={Fetal anatomy study} endDate=2021-07-06T18:04:54
+PR-921 Procedure ref={EN-919,CN-870} stat=completed date=2021-07-06T17:49:54 codes={Alpha-fetoprotein test - antenatal} endDate=2021-07-06T18:04:54
+PR-922 Procedure ref={EN-919,CN-870} stat=completed date=2021-07-06T17:49:54 codes={Evaluation of uterine fundal height} endDate=2021-07-06T18:04:54
+PR-923 Procedure ref={EN-919,CN-870} stat=completed date=2021-07-06T17:49:54 codes={Auscultation of the fetal heart} endDate=2021-07-06T18:04:54
+PR-929 Procedure ref={EN-928,CN-870} stat=completed date=2021-08-03T17:49:54 codes={Evaluation of uterine fundal height} endDate=2021-08-03T18:04:54
+PR-930 Procedure ref={EN-928,CN-870} stat=completed date=2021-08-03T17:49:54 codes={Auscultation of the fetal heart} endDate=2021-08-03T18:04:54
+PR-936 Procedure ref={EN-935,CN-870} stat=completed date=2021-08-31T17:49:54 codes={Evaluation of uterine fundal height} endDate=2021-08-31T18:04:54
+PR-937 Procedure ref={EN-935,CN-870} stat=completed date=2021-08-31T17:49:54 codes={Auscultation of the fetal heart} endDate=2021-08-31T18:04:54
+PR-943 Procedure ref={EN-942,CN-870} stat=completed date=2021-09-28T17:49:54 codes={Antenatal RhD antibody screening} endDate=2021-09-28T18:04:54
+PR-944 Procedure ref={EN-942,CN-870} stat=completed date=2021-09-28T17:49:54 codes={Passive immunization} endDate=2021-09-28T18:04:54
+PR-945 Procedure ref={EN-942,CN-870} stat=completed date=2021-09-28T17:49:54 codes={Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential} endDate=2021-09-28T18:04:54
+PR-946 Procedure ref={EN-942,CN-870} stat=completed date=2021-09-28T17:49:54 codes={Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens} endDate=2021-09-28T18:04:54
+PR-947 Procedure ref={EN-942,CN-870} stat=completed date=2021-09-28T17:49:54 codes={Urine screening for glucose} endDate=2021-09-28T18:04:54
+PR-948 Procedure ref={EN-942,CN-870} stat=completed date=2021-09-28T17:49:54 codes={Evaluation of uterine fundal height} endDate=2021-09-28T18:04:54
+PR-949 Procedure ref={EN-942,CN-870} stat=completed date=2021-09-28T17:49:54 codes={Auscultation of the fetal heart} endDate=2021-09-28T18:04:54
+PR-961 Procedure ref={EN-960,CN-870} stat=completed date=2021-10-26T17:49:54 codes={Evaluation of uterine fundal height} endDate=2021-10-26T18:04:54
+PR-962 Procedure ref={EN-960,CN-870} stat=completed date=2021-10-26T17:49:54 codes={Auscultation of the fetal heart} endDate=2021-10-26T18:04:54
+PR-974 Procedure ref={EN-973,CN-870} stat=completed date=2021-11-23T16:49:54 codes={Streptococcus pneumoniae group B antigen assay} endDate=2021-11-23T17:04:54
+PR-975 Procedure ref={EN-973,CN-870} stat=completed date=2021-11-23T16:49:54 codes={Evaluation of uterine fundal height} endDate=2021-11-23T17:04:54
+PR-976 Procedure ref={EN-973,CN-870} stat=completed date=2021-11-23T16:49:54 codes={Auscultation of the fetal heart} endDate=2021-11-23T17:04:54
+PR-982 Procedure ref={EN-981,CN-870} stat=completed date=2021-12-07T16:49:54 codes={Evaluation of uterine fundal height} endDate=2021-12-07T17:04:54
+PR-983 Procedure ref={EN-981,CN-870} stat=completed date=2021-12-07T16:49:54 codes={Auscultation of the fetal heart} endDate=2021-12-07T17:04:54
+PR-989 Procedure ref={EN-988,CN-870} stat=completed date=2021-12-14T16:49:54 codes={Medical induction of labor} endDate=2021-12-14T17:04:54
+PR-990 Procedure ref={EN-988,CN-870} stat=completed date=2021-12-14T16:49:54 codes={Childbirth} endDate=2021-12-14T17:04:54
+PR-1011 Procedure ref={EN-995} stat=completed date=2021-12-28T16:49:54 codes={Assessment of health and social care needs} endDate=2021-12-28T17:32:35
+PR-1012 Procedure ref={EN-995} stat=completed date=2021-12-28T17:32:35 codes={Assessment of anxiety} endDate=2021-12-28T17:59:25
+PR-1020 Procedure ref={EN-1019} stat=completed date=2022-01-25T16:49:54 codes={Passive immunization} endDate=2022-01-25T17:04:54
+PR-1021 Procedure ref={EN-1019} stat=completed date=2022-01-25T16:49:54 codes={Physical examination procedure} endDate=2022-01-25T17:04:54
+PR-1022 Procedure ref={EN-1019} stat=completed date=2022-01-25T16:49:54 codes={Depression screening} endDate=2022-01-25T17:04:54
+PR-1038 Procedure ref={EN-1037} stat=completed date=2022-02-05T23:49:54 codes={Insertion of intrauterine contraceptive device} endDate=2022-02-06T00:30:49
+PR-1044 Procedure ref={EN-1043} stat=completed date=2023-02-01T00:30:49 codes={Insertion of subcutaneous contraceptive} endDate=2023-02-01T00:54:49
+OB-35 Observation ref={EN-34} stat=final date=2014-11-18T16:49:54 codes={Body Height (value = 151.1 cm)} category=Vital
+OB-36 Observation ref={EN-34} stat=final date=2014-11-18T16:49:54 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 1 {score})} category=Vital
+OB-37 Observation ref={EN-34} stat=final date=2014-11-18T16:49:54 codes={Body Weight (value = 38.8 kg)} category=Vital
+OB-38 Observation ref={EN-34} stat=final date=2014-11-18T16:49:54 codes={Body mass index (BMI) (value = 16.97 kg/m2)} category=Vital
+OB-39 Observation ref={EN-34} stat=final date=2014-11-18T16:49:54 codes={Body mass index (BMI) Per age and sex (value = 32.169 %)} category=Vital
+OB-40 Observation ref={EN-34} stat=final date=2014-11-18T16:49:54 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 73 mm(Hg),Systolic Blood Pressure 103 mm(Hg)} category=Vital
+OB-41 Observation ref={EN-34} stat=final date=2014-11-18T16:49:54 codes={Heart rate (value = 73 /min)} category=Vital
+OB-42 Observation ref={EN-34} stat=final date=2014-11-18T16:49:54 codes={Respiratory rate (value = 13 /min)} category=Vital
+OB-43 Observation ref={EN-34} stat=final date=2014-11-18T16:49:54 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-44 Observation ref={EN-34} stat=final date=2014-11-18T17:13:59 codes={Generalized anxiety disorder 7 item total score (Reported.PHQ) (value = 1 {score})} category=Survey
+OB-45 Observation ref={EN-34} stat=final date=2014-11-18T17:53:10 codes={Patient Health Questionnaire-9: Modified for Teens total score (Reported.PHQ.Teen) (value = 2 {score})} category=Survey
+OB-82 Observation ref={EN-81} stat=final date=2015-11-03T17:13:42 codes={Peanut IgE Ab (Units/volume) in Serum (value = 0.19411 kU/L)} category=Laboratory
+OB-83 Observation ref={EN-81} stat=final date=2015-11-03T17:13:42 codes={Walnut IgE Ab (Units/volume) in Serum (value = 0.21894 kU/L)} category=Laboratory
+OB-84 Observation ref={EN-81} stat=final date=2015-11-03T17:13:42 codes={Codfish IgE Ab (Units/volume) in Serum (value = 0.16275 kU/L)} category=Laboratory
+OB-85 Observation ref={EN-81} stat=final date=2015-11-03T17:13:42 codes={Shrimp IgE Ab (Units/volume) in Serum (value = 0.0037118 kU/L)} category=Laboratory
+OB-86 Observation ref={EN-81} stat=final date=2015-11-03T17:13:42 codes={Wheat IgE Ab (Units/volume) in Serum (value = 0.2463 kU/L)} category=Laboratory
+OB-87 Observation ref={EN-81} stat=final date=2015-11-03T17:13:42 codes={Egg white IgE Ab (Units/volume) in Serum (value = 0.062635 kU/L)} category=Laboratory
+OB-88 Observation ref={EN-81} stat=final date=2015-11-03T17:13:42 codes={Soybean IgE Ab (Units/volume) in Serum (value = 0.1295 kU/L)} category=Laboratory
+OB-89 Observation ref={EN-81} stat=final date=2015-11-03T17:13:42 codes={Cow milk IgE Ab (Units/volume) in Serum (value = 0.26728 kU/L)} category=Laboratory
+OB-90 Observation ref={EN-81} stat=final date=2015-11-03T17:13:42 codes={White oak IgE Ab (Units/volume) in Serum (value = 0.26962 kU/L)} category=Laboratory
+OB-91 Observation ref={EN-81} stat=final date=2015-11-03T17:13:42 codes={Common Ragweed IgE Ab (Units/volume) in Serum (value = 0.020227 kU/L)} category=Laboratory
+OB-92 Observation ref={EN-81} stat=final date=2015-11-03T17:13:42 codes={Cat dander IgE Ab (Units/volume) in Serum (value = 0.22988 kU/L)} category=Laboratory
+OB-93 Observation ref={EN-81} stat=final date=2015-11-03T17:13:42 codes={American house dust mite IgE Ab (Units/volume) in Serum (value = 0.1395 kU/L)} category=Laboratory
+OB-94 Observation ref={EN-81} stat=final date=2015-11-03T17:13:42 codes={Cladosporium herbarum IgE Ab (Units/volume) in Serum (value = 0.15657 kU/L)} category=Laboratory
+OB-95 Observation ref={EN-81} stat=final date=2015-11-03T17:13:42 codes={Honey bee IgE Ab (Units/volume) in Serum (value = 0.11467 kU/L)} category=Laboratory
+OB-96 Observation ref={EN-81} stat=final date=2015-11-03T17:13:42 codes={Latex IgE Ab (Units/volume) in Serum (value = 0.27202 kU/L)} category=Laboratory
+OB-115 Observation ref={EN-113} stat=final date=2015-11-24T16:49:54 codes={Body Height (value = 157 cm)} category=Vital
+OB-116 Observation ref={EN-113} stat=final date=2015-11-24T16:49:54 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 2 {score})} category=Vital
+OB-117 Observation ref={EN-113} stat=final date=2015-11-24T16:49:54 codes={Body Weight (value = 43.2 kg)} category=Vital
+OB-118 Observation ref={EN-113} stat=final date=2015-11-24T16:49:54 codes={Body mass index (BMI) (value = 17.51 kg/m2)} category=Vital
+OB-119 Observation ref={EN-113} stat=final date=2015-11-24T16:49:54 codes={Body mass index (BMI) Per age and sex (value = 31.628 %)} category=Vital
+OB-120 Observation ref={EN-113} stat=final date=2015-11-24T16:49:54 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 70 mm(Hg),Systolic Blood Pressure 82 mm(Hg)} category=Vital
+OB-121 Observation ref={EN-113} stat=final date=2015-11-24T16:49:54 codes={Heart rate (value = 80 /min)} category=Vital
+OB-122 Observation ref={EN-113} stat=final date=2015-11-24T16:49:54 codes={Respiratory rate (value = 13 /min)} category=Vital
+OB-123 Observation ref={EN-113} stat=final date=2015-11-24T16:49:54 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-124 Observation ref={EN-113} stat=final date=2015-11-24T17:10:07 codes={Generalized anxiety disorder 7 item total score (Reported.PHQ) (value = 12 {score})} category=Survey
+OB-256 Observation ref={EN-254} stat=final date=2016-11-29T16:49:54 codes={Body Height (value = 160.3 cm)} category=Vital
+OB-257 Observation ref={EN-254} stat=final date=2016-11-29T16:49:54 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 1 {score})} category=Vital
+OB-258 Observation ref={EN-254} stat=final date=2016-11-29T16:49:54 codes={Body Weight (value = 46 kg)} category=Vital
+OB-259 Observation ref={EN-254} stat=final date=2016-11-29T16:49:54 codes={Body mass index (BMI) (value = 17.9 kg/m2)} category=Vital
+OB-260 Observation ref={EN-254} stat=final date=2016-11-29T16:49:54 codes={Body mass index (BMI) Per age and sex (value = 28.197 %)} category=Vital
+OB-261 Observation ref={EN-254} stat=final date=2016-11-29T16:49:54 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 70 mm(Hg),Systolic Blood Pressure 103 mm(Hg)} category=Vital
+OB-262 Observation ref={EN-254} stat=final date=2016-11-29T16:49:54 codes={Heart rate (value = 67 /min)} category=Vital
+OB-263 Observation ref={EN-254} stat=final date=2016-11-29T16:49:54 codes={Respiratory rate (value = 16 /min)} category=Vital
+OB-264 Observation ref={EN-254} stat=final date=2016-11-29T16:49:54 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-265 Observation ref={EN-254} stat=final date=2016-11-29T17:23:18 codes={Patient Health Questionnaire-9: Modified for Teens total score (Reported.PHQ.Teen) (value = 2 {score})} category=Survey
+OB-408 Observation ref={EN-406} stat=final date=2017-12-05T16:49:54 codes={Body Height (value = 161.6 cm)} category=Vital
+OB-409 Observation ref={EN-406} stat=final date=2017-12-05T16:49:54 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 3 {score})} category=Vital
+OB-410 Observation ref={EN-406} stat=final date=2017-12-05T16:49:54 codes={Body Weight (value = 50.1 kg)} category=Vital
+OB-411 Observation ref={EN-406} stat=final date=2017-12-05T16:49:54 codes={Body mass index (BMI) (value = 19.15 kg/m2)} category=Vital
+OB-412 Observation ref={EN-406} stat=final date=2017-12-05T16:49:54 codes={Body mass index (BMI) Per age and sex (value = 38.524 %)} category=Vital
+OB-413 Observation ref={EN-406} stat=final date=2017-12-05T16:49:54 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 70 mm(Hg),Systolic Blood Pressure 103 mm(Hg)} category=Vital
+OB-414 Observation ref={EN-406} stat=final date=2017-12-05T16:49:54 codes={Heart rate (value = 88 /min)} category=Vital
+OB-415 Observation ref={EN-406} stat=final date=2017-12-05T16:49:54 codes={Respiratory rate (value = 15 /min)} category=Vital
+OB-416 Observation ref={EN-406} stat=final date=2017-12-05T16:49:54 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-515 Observation ref={EN-513} stat=final date=2018-07-09T17:49:54 codes={Body temperature,Oral temperature} category=Vital valueQuantity=37.659 Cel
+OB-522 Observation ref={EN-520} stat=final date=2018-07-17T17:49:54 codes={Body Height (value = 162.1 cm)} category=Vital
+OB-523 Observation ref={EN-520} stat=final date=2018-07-17T17:49:54 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 2 {score})} category=Vital
+OB-524 Observation ref={EN-520} stat=final date=2018-07-17T17:49:54 codes={Body Weight (value = 53.2 kg)} category=Vital
+OB-525 Observation ref={EN-520} stat=final date=2018-07-17T17:49:54 codes={Body mass index (BMI) (value = 20.25 kg/m2)} category=Vital
+OB-526 Observation ref={EN-520} stat=final date=2018-07-17T17:49:54 codes={Body mass index (BMI) Per age and sex (value = 49.467 %)} category=Vital
+OB-527 Observation ref={EN-520} stat=final date=2018-07-17T17:49:54 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 72 mm(Hg),Systolic Blood Pressure 103 mm(Hg)} category=Vital
+OB-528 Observation ref={EN-520} stat=final date=2018-07-17T17:49:54 codes={Heart rate (value = 62 /min)} category=Vital
+OB-529 Observation ref={EN-520} stat=final date=2018-07-17T17:49:54 codes={Respiratory rate (value = 13 /min)} category=Vital
+OB-530 Observation ref={EN-520} stat=final date=2018-07-17T17:49:54 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-531 Observation ref={EN-520} stat=final date=2018-07-17T18:26:30 codes={Patient Health Questionnaire-9: Modified for Teens total score (Reported.PHQ.Teen) (value = 2 {score})} category=Survey
+OB-601 Observation ref={EN-599} stat=final date=2018-12-11T16:49:54 codes={Body Height (value = 162.3 cm)} category=Vital
+OB-602 Observation ref={EN-599} stat=final date=2018-12-11T16:49:54 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 3 {score})} category=Vital
+OB-603 Observation ref={EN-599} stat=final date=2018-12-11T16:49:54 codes={Body Weight (value = 55.5 kg)} category=Vital
+OB-604 Observation ref={EN-599} stat=final date=2018-12-11T16:49:54 codes={Body mass index (BMI) (value = 21.07 kg/m2)} category=Vital
+OB-605 Observation ref={EN-599} stat=final date=2018-12-11T16:49:54 codes={Body mass index (BMI) Per age and sex (value = 57.176 %)} category=Vital
+OB-606 Observation ref={EN-599} stat=final date=2018-12-11T16:49:54 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 69 mm(Hg),Systolic Blood Pressure 99 mm(Hg)} category=Vital
+OB-607 Observation ref={EN-599} stat=final date=2018-12-11T16:49:54 codes={Heart rate (value = 91 /min)} category=Vital
+OB-608 Observation ref={EN-599} stat=final date=2018-12-11T16:49:54 codes={Respiratory rate (value = 14 /min)} category=Vital
+OB-609 Observation ref={EN-599} stat=final date=2018-12-11T16:49:54 codes={Leukocytes (#/volume) in Blood by Automated count (value = 9.2668 10*3/uL)} category=Laboratory
+OB-610 Observation ref={EN-599} stat=final date=2018-12-11T16:49:54 codes={Erythrocytes (#/volume) in Blood by Automated count (value = 4.7961 10*6/uL)} category=Laboratory
+OB-611 Observation ref={EN-599} stat=final date=2018-12-11T16:49:54 codes={Hemoglobin (Mass/volume) in Blood (value = 16.601 g/dL)} category=Laboratory
+OB-612 Observation ref={EN-599} stat=final date=2018-12-11T16:49:54 codes={Hematocrit (Volume Fraction) of Blood by Automated count (value = 40.687 %)} category=Laboratory
+OB-613 Observation ref={EN-599} stat=final date=2018-12-11T16:49:54 codes={MCV (Entitic volume) by Automated count (value = 94.58 fL)} category=Laboratory
+OB-614 Observation ref={EN-599} stat=final date=2018-12-11T16:49:54 codes={MCH (Entitic mass) by Automated count (value = 28.471 pg)} category=Laboratory
+OB-615 Observation ref={EN-599} stat=final date=2018-12-11T16:49:54 codes={MCHC (Mass/volume) by Automated count (value = 34.396 g/dL)} category=Laboratory
+OB-616 Observation ref={EN-599} stat=final date=2018-12-11T16:49:54 codes={Erythrocyte distribution width (Entitic volume) by Automated count (value = 39.434 fL)} category=Laboratory
+OB-617 Observation ref={EN-599} stat=final date=2018-12-11T16:49:54 codes={Platelets (#/volume) in Blood by Automated count (value = 395.58 10*3/uL)} category=Laboratory
+OB-618 Observation ref={EN-599} stat=final date=2018-12-11T16:49:54 codes={Platelet distribution width (Entitic volume) in Blood by Automated count (value = 503.97 fL)} category=Laboratory
+OB-619 Observation ref={EN-599} stat=final date=2018-12-11T16:49:54 codes={Platelet mean volume (Entitic volume) in Blood by Automated count (value = 11.511 fL)} category=Laboratory
+OB-620 Observation ref={EN-599} stat=final date=2018-12-11T16:49:54 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-621 Observation ref={EN-599} stat=final date=2018-12-11T17:13:54 codes={Generalized anxiety disorder 7 item total score (Reported.PHQ) (value = 13 {score})} category=Survey
+OB-622 Observation ref={EN-599} stat=final date=2018-12-11T17:47:20 codes={Patient Health Questionnaire-9: Modified for Teens total score (Reported.PHQ.Teen) (value = 2 {score})} category=Survey
+OB-746 Observation ref={EN-745} stat=final date=2019-12-17T16:49:54 codes={Body Height (value = 162.6 cm)} category=Vital
+OB-747 Observation ref={EN-745} stat=final date=2019-12-17T16:49:54 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 1 {score})} category=Vital
+OB-748 Observation ref={EN-745} stat=final date=2019-12-17T16:49:54 codes={Body Weight (value = 61.9 kg)} category=Vital
+OB-749 Observation ref={EN-745} stat=final date=2019-12-17T16:49:54 codes={Body mass index (BMI) (value = 23.42 kg/m2)} category=Vital
+OB-750 Observation ref={EN-745} stat=final date=2019-12-17T16:49:54 codes={Body mass index (BMI) Per age and sex (value = 74.912 %)} category=Vital
+OB-751 Observation ref={EN-745} stat=final date=2019-12-17T16:49:54 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 73 mm(Hg),Systolic Blood Pressure 102 mm(Hg)} category=Vital
+OB-752 Observation ref={EN-745} stat=final date=2019-12-17T16:49:54 codes={Heart rate (value = 85 /min)} category=Vital
+OB-753 Observation ref={EN-745} stat=final date=2019-12-17T16:49:54 codes={Respiratory rate (value = 14 /min)} category=Vital
+OB-754 Observation ref={EN-745} stat=final date=2019-12-17T16:49:54 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-755 Observation ref={EN-745} stat=final date=2019-12-17T17:31:06 codes={Patient Health Questionnaire-9: Modified for Teens total score (Reported.PHQ.Teen) (value = 3 {score})} category=Survey
+OB-770 Observation ref={EN-769} stat=final date=2019-12-24T17:13:14 codes={Peanut IgE Ab (Units/volume) in Serum (value = 0.31139 kU/L)} category=Laboratory
+OB-771 Observation ref={EN-769} stat=final date=2019-12-24T17:13:14 codes={Walnut IgE Ab (Units/volume) in Serum (value = 0.11321 kU/L)} category=Laboratory
+OB-772 Observation ref={EN-769} stat=final date=2019-12-24T17:13:14 codes={Codfish IgE Ab (Units/volume) in Serum (value = 0.030058 kU/L)} category=Laboratory
+OB-773 Observation ref={EN-769} stat=final date=2019-12-24T17:13:14 codes={Shrimp IgE Ab (Units/volume) in Serum (value = 0.16136 kU/L)} category=Laboratory
+OB-774 Observation ref={EN-769} stat=final date=2019-12-24T17:13:14 codes={Wheat IgE Ab (Units/volume) in Serum (value = 0.057344 kU/L)} category=Laboratory
+OB-775 Observation ref={EN-769} stat=final date=2019-12-24T17:13:14 codes={Egg white IgE Ab (Units/volume) in Serum (value = 0.20357 kU/L)} category=Laboratory
+OB-776 Observation ref={EN-769} stat=final date=2019-12-24T17:13:14 codes={Soybean IgE Ab (Units/volume) in Serum (value = 0.28902 kU/L)} category=Laboratory
+OB-777 Observation ref={EN-769} stat=final date=2019-12-24T17:13:14 codes={Cow milk IgE Ab (Units/volume) in Serum (value = 0.020284 kU/L)} category=Laboratory
+OB-778 Observation ref={EN-769} stat=final date=2019-12-24T17:13:14 codes={White oak IgE Ab (Units/volume) in Serum (value = 0.34694 kU/L)} category=Laboratory
+OB-779 Observation ref={EN-769} stat=final date=2019-12-24T17:13:14 codes={Common Ragweed IgE Ab (Units/volume) in Serum (value = 0.14181 kU/L)} category=Laboratory
+OB-780 Observation ref={EN-769} stat=final date=2019-12-24T17:13:14 codes={Cat dander IgE Ab (Units/volume) in Serum (value = 0.18948 kU/L)} category=Laboratory
+OB-781 Observation ref={EN-769} stat=final date=2019-12-24T17:13:14 codes={American house dust mite IgE Ab (Units/volume) in Serum (value = 0.33048 kU/L)} category=Laboratory
+OB-782 Observation ref={EN-769} stat=final date=2019-12-24T17:13:14 codes={Cladosporium herbarum IgE Ab (Units/volume) in Serum (value = 0.25876 kU/L)} category=Laboratory
+OB-783 Observation ref={EN-769} stat=final date=2019-12-24T17:13:14 codes={Honey bee IgE Ab (Units/volume) in Serum (value = 0.08186 kU/L)} category=Laboratory
+OB-784 Observation ref={EN-769} stat=final date=2019-12-24T17:13:14 codes={Latex IgE Ab (Units/volume) in Serum (value = 0.27948 kU/L)} category=Laboratory
+OB-832 Observation ref={EN-828} stat=final date=2020-12-22T16:49:54 codes={Body Height (value = 162.8 cm)} category=Vital
+OB-833 Observation ref={EN-828} stat=final date=2020-12-22T16:49:54 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 3 {score})} category=Vital
+OB-834 Observation ref={EN-828} stat=final date=2020-12-22T16:49:54 codes={Body Weight (value = 68.1 kg)} category=Vital
+OB-835 Observation ref={EN-828} stat=final date=2020-12-22T16:49:54 codes={Body mass index (BMI) (value = 25.69 kg/m2)} category=Vital
+OB-836 Observation ref={EN-828} stat=final date=2020-12-22T16:49:54 codes={Body mass index (BMI) Per age and sex (value = 84.899 %)} category=Vital
+OB-837 Observation ref={EN-828} stat=final date=2020-12-22T16:49:54 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 68 mm(Hg),Systolic Blood Pressure 103 mm(Hg)} category=Vital
+OB-838 Observation ref={EN-828} stat=final date=2020-12-22T16:49:54 codes={Heart rate (value = 71 /min)} category=Vital
+OB-839 Observation ref={EN-828} stat=final date=2020-12-22T16:49:54 codes={Respiratory rate (value = 14 /min)} category=Vital
+OB-840 Observation ref={EN-828} stat=final date=2020-12-22T16:49:54 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-841 Observation ref={EN-828} stat=final date=2020-12-22T17:29:32 codes={Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences (PRAPARE),Question= Within the last year, have you been afraid of your partner or ex-partner? Answer= No,Question= Do you feel physically and emotionally safe where you currently live? Answer= Yes,Question= Are you a refugee? Answer= No,Question= In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Answer= No,Question= Stress level Answer= Not at all,Question= How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Answer= 5 or more times a week,Question= Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Answer= No,Question= In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Answer= I choose not to answer this question,What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 14778 /a,Question= Primary insurance Answer= Medicaid,Question= Employment status - current Answer= Otherwise unemployed but not seeking work (ex: student, retired, disabled, unpaid primary care giver),Question= Highest level of education Answer= More than high school,Address 515 Yost Approach,Question= Are you worried about losing your housing? Answer= No,Question= Housing status Answer= I choose not to answer this question,How many people are living or staying at this address? 3 {#},Question= Preferred language Answer= English,Question= Have you been discharged from the armed forces of the United States? Answer= No,Question= At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? Answer= No,Question= Race Answer= White,Question= Do you consider yourself Hispanic/Latino? Answer= No} category=Survey
+OB-842 Observation ref={EN-828} stat=final date=2020-12-22T17:48:29 codes={Generalized anxiety disorder 7 item total score (Reported.PHQ) (value = 7 {score})} category=Survey
+OB-843 Observation ref={EN-828} stat=final date=2020-12-22T18:21:57 codes={Patient Health Questionnaire 2 item total score (Reported) (value = 4 {score})} category=Survey
+OB-844 Observation ref={EN-828} stat=final date=2020-12-22T18:51:22 codes={Patient Health Questionnaire 9 item (PHQ-9) total score (Reported) (value = 22 {score})} category=Survey
+OB-845 Observation ref={EN-828} stat=final date=2020-12-22T19:30:39 codes={Total score (value = 2 {score})} category=Survey
+OB-1000 Observation ref={EN-995} stat=final date=2021-12-28T16:49:54 codes={Body Height (value = 162.9 cm)} category=Vital
+OB-1001 Observation ref={EN-995} stat=final date=2021-12-28T16:49:54 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 3 {score})} category=Vital
+OB-1002 Observation ref={EN-995} stat=final date=2021-12-28T16:49:54 codes={Body Weight (value = 78.6 kg)} category=Vital
+OB-1003 Observation ref={EN-995} stat=final date=2021-12-28T16:49:54 codes={Body mass index (BMI) (value = 29.6 kg/m2)} category=Vital
+OB-1004 Observation ref={EN-995} stat=final date=2021-12-28T16:49:54 codes={Body mass index (BMI) Per age and sex (value = 93.279 %)} category=Vital
+OB-1005 Observation ref={EN-995} stat=final date=2021-12-28T16:49:54 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 73 mm(Hg),Systolic Blood Pressure 99 mm(Hg)} category=Vital
+OB-1006 Observation ref={EN-995} stat=final date=2021-12-28T16:49:54 codes={Heart rate (value = 80 /min)} category=Vital
+OB-1007 Observation ref={EN-995} stat=final date=2021-12-28T16:49:54 codes={Respiratory rate (value = 16 /min)} category=Vital
+OB-1008 Observation ref={EN-995} stat=final date=2021-12-28T16:49:54 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-1009 Observation ref={EN-995} stat=final date=2021-12-28T17:32:35 codes={Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences (PRAPARE),Question= Within the last year, have you been afraid of your partner or ex-partner? Answer= No,Question= Do you feel physically and emotionally safe where you currently live? Answer= Yes,Question= Are you a refugee? Answer= No,Question= In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Answer= No,Question= Stress level Answer= A little bit,Question= How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Answer= Less than once a week,Question= Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Answer= No,Question= In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Answer= I choose not to answer this question,What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 14778 /a,Question= Primary insurance Answer= Medicaid,Question= Employment status - current Answer= Full-time work,Question= Highest level of education Answer= More than high school,Address 515 Yost Approach,Question= Are you worried about losing your housing? Answer= No,Question= Housing status Answer= I have housing,How many people are living or staying at this address? 3 {#},Question= Preferred language Answer= English,Question= Have you been discharged from the armed forces of the United States? Answer= No,Question= At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? Answer= No,Question= Race Answer= White,Question= Do you consider yourself Hispanic/Latino? Answer= No} category=Survey
+OB-1010 Observation ref={EN-995} stat=final date=2021-12-28T17:59:25 codes={Generalized anxiety disorder 7 item total score (Reported.PHQ) (value = 1 {score})} category=Survey
+OB-1065 Observation ref={EN-1063} stat=final date=2023-11-25T15:49:54 codes={Body temperature,Oral temperature} category=Vital valueQuantity=37.941 Cel
+IM-50 Immunization ref={EN-34} stat=completed date=2014-11-18T16:49:54 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-51 Immunization ref={EN-34} stat=completed date=2014-11-18T16:49:54 codes={HPV, quadrivalent} primarySource=True
+IM-128 Immunization ref={EN-113} stat=completed date=2015-11-24T16:49:54 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-129 Immunization ref={EN-113} stat=completed date=2015-11-24T16:49:54 codes={HPV, quadrivalent} primarySource=True
+IM-270 Immunization ref={EN-254} stat=completed date=2016-11-29T16:49:54 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-419 Immunization ref={EN-406} stat=completed date=2017-12-05T16:49:54 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-537 Immunization ref={EN-520} stat=completed date=2018-07-17T17:49:54 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-629 Immunization ref={EN-599} stat=completed date=2018-12-11T16:49:54 codes={meningococcal MCV4P} primarySource=True
+IM-763 Immunization ref={EN-745} stat=completed date=2019-12-17T16:49:54 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-854 Immunization ref={EN-828} stat=completed date=2020-12-22T16:49:54 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-955 Immunization ref={EN-954} stat=completed date=2021-10-12T17:49:54 codes={COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose} primarySource=True
+IM-968 Immunization ref={EN-967} stat=completed date=2021-11-02T17:49:54 codes={COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose} primarySource=True
+IM-1013 Immunization ref={EN-995} stat=completed date=2021-12-28T16:49:54 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+MD-71 Medication ref={} stat=active codes={sodium fluoride 0.0272 MG/MG Oral Gel} 
+MD-154 Medication ref={} stat=active codes={sodium fluoride 0.0272 MG/MG Oral Gel} 
+MD-295 Medication ref={} stat=active codes={sodium fluoride 0.0272 MG/MG Oral Gel} 
+MD-385 Medication ref={} stat=active codes={1 ML medroxyprogesterone acetate 150 MG/ML Injection} 
+MD-437 Medication ref={} stat=active codes={sodium fluoride 0.0272 MG/MG Oral Gel} 
+MD-1028 Medication ref={} stat=active codes={Liletta 52 MG Intrauterine System} 
+MD-1045 Medication ref={} stat=active codes={Etonogestrel 68 MG Drug Implant} 
+MA-75 MedicationAdministration ref={EN-58} stat=completed date=2014-12-02T19:38:38 codes={sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care} 
+MA-158 MedicationAdministration ref={EN-141,CN-114} stat=completed date=2015-12-08T19:46:20 codes={sodium fluoride 0.0272 MG/MG Oral Gel} 
+MA-299 MedicationAdministration ref={EN-282} stat=completed date=2016-12-13T19:48:42 codes={sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care} 
+MA-389 MedicationAdministration ref={EN-383} stat=completed date=2017-10-23T17:49:54 codes={1 ML medroxyprogesterone acetate 150 MG/ML Injection} 
+MA-441 MedicationAdministration ref={EN-424} stat=completed date=2017-12-12T19:33:49 codes={sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care} 
+MA-1032 MedicationAdministration ref={EN-1027} stat=completed date=2022-02-01T16:49:54 codes={Liletta 52 MG Intrauterine System} 
+MA-1049 MedicationAdministration ref={EN-1043} stat=completed date=2023-02-01T00:30:49 codes={Etonogestrel 68 MG Drug Implant} 
+AI-12 AllergyIntolerance ref={} stat=active confirmed date=2005-12-21T18:49:54 codes={Allergy to substance} category=environment criticality=low
+AI-13 AllergyIntolerance ref={} stat=active confirmed date=2005-12-21T18:49:54 codes={Mold (organism)} category=environment criticality=low
+AI-14 AllergyIntolerance ref={} stat=active confirmed date=2005-12-21T18:49:54 codes={Animal dander (substance),Eruption of skin,Rhinoconjunctivitis} category=environment criticality=low
+AI-15 AllergyIntolerance ref={} stat=active confirmed date=2005-12-21T18:49:54 codes={Grass pollen (substance)} category=environment criticality=low
+AI-16 AllergyIntolerance ref={} stat=active confirmed date=2005-12-21T18:49:54 codes={Lisinopril,Allergic angioedema,Cough} category=medication criticality=low
+AI-17 AllergyIntolerance ref={} stat=active confirmed date=2005-12-21T18:49:54 codes={Sulfamethoxazole / Trimethoprim,Wheal,Eruption of skin} category=medication criticality=low
+AI-18 AllergyIntolerance ref={} stat=active confirmed date=2005-12-21T18:49:54 codes={Aspirin,Abdominal pain,Wheal} category=medication criticality=low

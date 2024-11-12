@@ -1,0 +1,364 @@
+PT-1 Patient ref={} stat=living codes={} name=Gabriel Cummerata gender=female birthDate=2008-07-08 address=310 VonRueden Way Unit 47, Wareham Center, MA, 00000 maritalStatus=Never Married multipleBirthBoolean=False communication=English (United States)
+EN-2 Encounter ref={} stat=finished date=2015-06-30T23:42:23 codes={Well child visit,ambulatory} provider=performer Dr. Trevor Williamson facility=COMPASSIONATE HEALTH CARE GROUP LLC endDate=2015-06-30T23:57:23
+EN-19 Encounter ref={} stat=finished date=2016-07-05T23:42:23 codes={Well child visit,ambulatory} provider=performer Dr. Trevor Williamson facility=COMPASSIONATE HEALTH CARE GROUP LLC endDate=2016-07-05T23:57:23
+EN-38 Encounter ref={} stat=finished date=2016-07-12T23:42:23 codes={Encounter for check up,Gingivitis,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2016-07-13T06:07:32
+EN-58 Encounter ref={} stat=finished date=2017-07-11T23:42:23 codes={Well child visit,ambulatory} provider=performer Dr. Trevor Williamson facility=COMPASSIONATE HEALTH CARE GROUP LLC endDate=2017-07-11T23:57:23
+EN-75 Encounter ref={} stat=finished date=2018-07-17T23:42:23 codes={Well child visit,ambulatory} provider=performer Dr. Trevor Williamson facility=COMPASSIONATE HEALTH CARE GROUP LLC endDate=2018-07-17T23:57:23
+EN-92 Encounter ref={} stat=finished date=2019-06-04T23:42:23 codes={Encounter for symptom,Otitis media,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2019-06-04T23:57:23
+EN-104 Encounter ref={} stat=finished date=2019-07-23T23:42:23 codes={Well child visit,ambulatory} provider=performer Dr. Trevor Williamson facility=COMPASSIONATE HEALTH CARE GROUP LLC endDate=2019-07-23T23:57:23
+EN-135 Encounter ref={} stat=finished date=2020-07-28T23:42:23 codes={Well child visit,ambulatory} provider=performer Dr. Trevor Williamson facility=COMPASSIONATE HEALTH CARE GROUP LLC endDate=2020-07-29T00:01:12
+EN-160 Encounter ref={} stat=finished date=2020-08-11T23:42:23 codes={Encounter for check up,Gingivitis,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2020-08-12T03:02:31
+EN-177 Encounter ref={} stat=finished date=2020-09-17T23:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2020-09-17T23:57:23
+EN-185 Encounter ref={} stat=finished date=2020-10-25T23:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2020-10-26T00:42:23
+EN-191 Encounter ref={} stat=finished date=2020-11-23T23:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2020-11-24T00:42:23
+EN-197 Encounter ref={} stat=finished date=2020-12-28T00:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2020-12-28T01:42:23
+EN-203 Encounter ref={} stat=finished date=2021-01-29T01:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2021-01-29T02:42:23
+EN-209 Encounter ref={} stat=finished date=2021-02-28T02:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2021-02-28T03:42:23
+EN-215 Encounter ref={} stat=finished date=2021-04-04T04:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2021-04-04T05:42:23
+EN-221 Encounter ref={} stat=finished date=2021-05-04T05:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2021-05-04T06:42:23
+EN-227 Encounter ref={} stat=finished date=2021-06-09T06:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2021-06-09T07:42:23
+EN-233 Encounter ref={} stat=finished date=2021-07-09T13:42:23 codes={Encounter for symptom,Viral sinusitis,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2021-07-09T13:57:23
+EN-239 Encounter ref={} stat=finished date=2021-07-17T07:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2021-07-17T08:42:23
+EN-245 Encounter ref={} stat=finished date=2021-08-03T23:42:23 codes={Well child visit,ambulatory} provider=performer Dr. Trevor Williamson facility=COMPASSIONATE HEALTH CARE GROUP LLC endDate=2021-08-03T23:57:23
+EN-268 Encounter ref={} stat=finished date=2021-08-17T23:42:23 codes={Encounter for check up,Gingivitis,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2021-08-18T07:06:15
+EN-294 Encounter ref={} stat=finished date=2021-08-26T08:42:23 codes={Encounter for problem,Child attention deficit disorder,v3-ActCode VR} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2021-08-26T09:42:23
+EN-300 Encounter ref={} stat=finished date=2021-09-07T23:42:23 codes={Administration of vaccine to produce active immunity,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2021-09-07T23:57:23
+EN-306 Encounter ref={} stat=finished date=2021-09-25T09:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2021-09-25T10:42:23
+EN-312 Encounter ref={} stat=finished date=2021-10-05T23:42:23 codes={Administration of vaccine to produce active immunity,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2021-10-05T23:57:23
+EN-318 Encounter ref={} stat=finished date=2021-11-02T10:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2021-11-02T11:42:23
+EN-324 Encounter ref={} stat=finished date=2021-12-06T10:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2021-12-06T11:42:23
+EN-330 Encounter ref={} stat=finished date=2022-01-14T11:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2022-01-14T12:42:23
+EN-336 Encounter ref={} stat=finished date=2022-02-23T12:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2022-02-23T13:42:23
+EN-342 Encounter ref={} stat=finished date=2022-04-01T14:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2022-04-01T15:42:23
+EN-348 Encounter ref={} stat=finished date=2022-04-30T15:42:23 codes={Encounter for problem,Child attention deficit disorder,v3-ActCode VR} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2022-04-30T16:42:23
+EN-354 Encounter ref={} stat=finished date=2022-06-08T16:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2022-06-08T17:42:23
+EN-360 Encounter ref={} stat=finished date=2022-07-14T17:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2022-07-14T18:42:23
+EN-366 Encounter ref={} stat=finished date=2022-08-09T23:42:23 codes={Well child visit,ambulatory} provider=performer Dr. Trevor Williamson facility=COMPASSIONATE HEALTH CARE GROUP LLC endDate=2022-08-10T00:01:09
+EN-388 Encounter ref={} stat=finished date=2022-08-15T18:42:23 codes={Encounter for problem,Child attention deficit disorder,v3-ActCode VR} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2022-08-15T19:42:23
+EN-394 Encounter ref={} stat=finished date=2022-08-23T23:42:23 codes={Encounter for check up,Gingivitis,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2022-08-24T03:46:22
+EN-413 Encounter ref={} stat=finished date=2022-09-13T19:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2022-09-13T20:42:23
+EN-419 Encounter ref={} stat=finished date=2022-10-21T20:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2022-10-21T21:42:23
+EN-425 Encounter ref={} stat=finished date=2022-11-23T20:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2022-11-23T21:42:23
+EN-431 Encounter ref={} stat=finished date=2023-01-02T21:42:23 codes={Encounter for problem,Child attention deficit disorder,v3-ActCode VR} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2023-01-02T22:42:23
+EN-437 Encounter ref={} stat=finished date=2023-02-10T22:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2023-02-10T23:42:23
+EN-443 Encounter ref={} stat=finished date=2023-03-19T00:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2023-03-19T01:42:23
+EN-449 Encounter ref={} stat=finished date=2023-03-19T23:42:23 codes={Emergency room admission,Fracture of bone,emergency} provider=performer Dr. Errol Kiehn facility=TREMONT HEALTH CARE CENTER endDate=2023-03-20T00:42:23
+EN-466 Encounter ref={} stat=finished date=2023-04-27T01:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2023-04-27T02:42:23
+EN-472 Encounter ref={} stat=finished date=2023-05-07T00:16:21 codes={Encounter for check up,Fracture of ankle,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2023-05-07T00:31:21
+EN-477 Encounter ref={} stat=finished date=2023-06-06T02:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2023-06-06T03:42:23
+EN-483 Encounter ref={} stat=finished date=2023-07-14T03:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2023-07-14T04:42:23
+EN-489 Encounter ref={} stat=finished date=2023-08-15T23:42:23 codes={Well child visit,ambulatory} provider=performer Dr. Trevor Williamson facility=COMPASSIONATE HEALTH CARE GROUP LLC endDate=2023-08-15T23:57:23
+EN-510 Encounter ref={} stat=finished date=2023-08-23T04:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2023-08-23T05:42:23
+EN-516 Encounter ref={} stat=finished date=2023-08-29T23:42:23 codes={Encounter for check up,Patient referral for dental care,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2023-08-30T03:15:16
+EN-536 Encounter ref={} stat=finished date=2023-10-01T05:42:23 codes={Encounter for problem,Child attention deficit disorder,v3-ActCode VR} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2023-10-01T06:42:23
+EN-542 Encounter ref={} stat=finished date=2023-10-31T06:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2023-10-31T07:42:23
+EN-548 Encounter ref={} stat=finished date=2023-12-10T06:42:23 codes={Encounter for problem,Child attention deficit disorder,ambulatory} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2023-12-10T07:42:23
+EN-555 Encounter ref={} stat=finished date=2024-02-06T22:42:23 codes={Telephone encounter,Acute infective cystitis,v3-ActCode VR} provider=performer Dr. Harland Ryan facility=SOUTHCOAST HOSPITAL GROUP, INC endDate=2024-02-07T00:36:03
+EN-568 Encounter ref={} stat=finished date=2024-08-20T23:42:23 codes={Well child visit,ambulatory} provider=performer Dr. Trevor Williamson facility=COMPASSIONATE HEALTH CARE GROUP LLC endDate=2024-08-20T23:57:23
+CN-3 Condition ref={EN-2} stat=confirmed date=2015-06-30T23:42:23 codes={Medication review due} onsetDateTime=2015-06-30T23:42:23 abatementDateTime=2015-06-30T23:42:23
+CN-20 Condition ref={EN-19} stat=confirmed date=2016-07-05T23:42:23 codes={Medication review due} onsetDateTime=2016-07-05T23:42:23 abatementDateTime=2016-07-05T23:42:23
+CN-21 Condition ref={EN-19} stat=confirmed date=2016-07-05T23:42:23 codes={Gingivitis} onsetDateTime=2016-07-05T23:42:23 abatementDateTime=2016-07-13T05:48:56
+CN-39 Condition ref={EN-38} stat=confirmed date=2016-07-13T02:37:25 codes={Gingival disease} onsetDateTime=2016-07-13T02:37:25 abatementDateTime=2016-07-13T04:31:25
+CN-59 Condition ref={EN-58} stat=confirmed date=2017-07-11T23:42:23 codes={Medication review due} onsetDateTime=2017-07-11T23:42:23 abatementDateTime=2017-07-11T23:42:23
+CN-76 Condition ref={EN-75} stat=confirmed date=2018-07-17T23:42:23 codes={Medication review due} onsetDateTime=2018-07-17T23:42:23 abatementDateTime=2018-07-17T23:42:23
+CN-93 Condition ref={EN-92} stat=confirmed date=2019-06-04T23:42:23 codes={Otitis media} onsetDateTime=2019-06-04T23:42:23 abatementDateTime=2019-07-23T23:42:23
+CN-105 Condition ref={EN-104} stat=confirmed date=2019-07-23T23:42:23 codes={Medication review due} onsetDateTime=2019-07-23T23:42:23 abatementDateTime=2021-08-03T23:42:23
+CN-136 Condition ref={EN-135} stat=confirmed date=2020-07-29T00:35:01 codes={Risk activity involvement} onsetDateTime=2020-07-29T00:35:01 abatementDateTime=2024-08-21T00:53:28
+CN-137 Condition ref={EN-135} stat=confirmed date=2020-07-29T00:48:55 codes={Gingivitis} onsetDateTime=2020-07-29T00:48:55 abatementDateTime=2020-08-12T02:42:28
+CN-178 Condition ref={EN-177} stat=confirmed date=2020-09-17T23:42:23 codes={Child attention deficit disorder} onsetDateTime=2020-09-17T23:42:23 abatementDateTime=2023-12-10T07:42:23
+CN-234 Condition ref={EN-233} stat=confirmed date=2021-07-09T13:42:23 codes={Viral sinusitis} onsetDateTime=2021-07-09T13:42:23 abatementDateTime=2021-07-17T13:42:23
+CN-246 Condition ref={EN-245} stat=confirmed date=2021-08-04T00:19:27 codes={Gingivitis} onsetDateTime=2021-08-04T00:19:27 abatementDateTime=2021-08-18T06:06:49
+CN-269 Condition ref={EN-268} stat=confirmed date=2021-08-18T02:56:17 codes={Gingival disease} onsetDateTime=2021-08-18T02:56:17 abatementDateTime=2021-08-18T05:13:54
+CN-367 Condition ref={EN-366} stat=confirmed date=2022-08-09T23:42:23 codes={Medication review due} onsetDateTime=2022-08-09T23:42:23 abatementDateTime=2022-08-09T23:42:23
+CN-368 Condition ref={EN-366} stat=confirmed date=2022-08-10T00:01:09 codes={Gingivitis} onsetDateTime=2022-08-10T00:01:09 abatementDateTime=2022-08-24T02:44:25
+CN-395 Condition ref={EN-394} stat=confirmed date=2022-08-24T02:44:25 codes={Primary dental caries} onsetDateTime=2022-08-24T02:44:25 abatementDateTime=2022-08-24T03:24:41
+CN-450 Condition ref={EN-449} stat=confirmed date=2023-03-19T23:42:23 codes={Fracture of bone} onsetDateTime=2023-03-19T23:42:23 abatementDateTime=2023-05-07T00:16:21
+CN-451 Condition ref={EN-449} stat=confirmed date=2023-03-19T23:42:23 codes={Fracture of ankle} onsetDateTime=2023-03-19T23:42:23 abatementDateTime=2023-05-07T00:16:21
+CN-490 Condition ref={EN-489} stat=confirmed date=2023-08-15T23:42:23 codes={Medication review due} onsetDateTime=2023-08-15T23:42:23
+CN-549 Condition ref={EN-548} stat=confirmed date=2024-02-06T22:42:23 codes={Acute infective cystitis} onsetDateTime=2024-02-06T22:42:23 abatementDateTime=2024-02-07T14:36:03
+DR-130 DiagnosticReport ref={EN-104,OB-114,OB-115,OB-116,OB-117,OB-118,OB-119,OB-120,OB-121,OB-122,OB-123,OB-124} stat=final date=2019-07-23T23:42:23 codes={CBC panel - Blood by Automated count} category=['v2-0074:LAB Laboratory'] provider=COMPASSIONATE HEALTH CARE GROUP LLC
+DR-155 DiagnosticReport ref={EN-135,OB-147} stat=final date=2020-07-29T00:01:12 codes={Generalized anxiety disorder 7 item} 
+DR-263 DiagnosticReport ref={EN-245,OB-256} stat=final date=2021-08-04T00:19:27 codes={Patient Health Questionnaire-9: Modified for Teens (Reported.PHQ.Teen)} 
+DR-383 DiagnosticReport ref={EN-366,OB-378} stat=final date=2022-08-10T00:01:09 codes={Generalized anxiety disorder 7 item} 
+DR-505 DiagnosticReport ref={EN-489,OB-500} stat=final date=2023-08-16T00:20:41 codes={Patient Health Questionnaire-9: Modified for Teens (Reported.PHQ.Teen)} 
+DR-597 DiagnosticReport ref={EN-568,OB-577,OB-578,OB-579,OB-580,OB-581,OB-582,OB-583,OB-584,OB-585,OB-586,OB-587} stat=final date=2024-08-20T23:42:23 codes={CBC panel - Blood by Automated count} category=['v2-0074:LAB Laboratory'] provider=COMPASSIONATE HEALTH CARE GROUP LLC
+DR-598 DiagnosticReport ref={EN-568,OB-589} stat=final date=2024-08-21T00:21:48 codes={Patient Health Questionnaire-9: Modified for Teens (Reported.PHQ.Teen)} 
+DV-50 Device ref={} stat=active codes={Operating room (environment)} deviceName=Operating room (environment)
+DV-168 Device ref={} stat=active codes={Dental x-ray system} deviceName=Dental x-ray system
+DV-281 Device ref={} stat=active codes={Operating room (environment)} deviceName=Operating room (environment)
+DV-404 Device ref={} stat=active codes={Dental x-ray system} deviceName=Dental x-ray system
+DV-454 Device ref={} stat=active codes={Manual wheelchair} deviceName=Manual wheelchair
+DV-455 Device ref={} stat=active codes={Wheelchair accessory} deviceName=Wheelchair accessory
+SD-51 SupplyDelivery ref={} stat=completed date=2016-07-13T00:50:31 codes={Dental equipment} type=Device quantity=[1]
+SD-52 SupplyDelivery ref={} stat=completed date=2016-07-13T00:50:31 codes={Conventional release periodontal gel} type=Device quantity=[1]
+SD-53 SupplyDelivery ref={} stat=completed date=2016-07-13T00:50:31 codes={Dental floss} type=Device quantity=[1]
+SD-169 SupplyDelivery ref={} stat=completed date=2020-08-12T00:32:28 codes={Dental equipment} type=Device quantity=[1]
+SD-170 SupplyDelivery ref={} stat=completed date=2020-08-12T00:32:28 codes={Conventional release periodontal gel} type=Device quantity=[1]
+SD-171 SupplyDelivery ref={} stat=completed date=2020-08-12T00:32:28 codes={Dental floss} type=Device quantity=[1]
+SD-282 SupplyDelivery ref={} stat=completed date=2021-08-18T00:53:45 codes={Dental equipment} type=Device quantity=[1]
+SD-283 SupplyDelivery ref={} stat=completed date=2021-08-18T00:53:45 codes={Conventional release periodontal gel} type=Device quantity=[1]
+SD-284 SupplyDelivery ref={} stat=completed date=2021-08-18T00:53:45 codes={Dental floss} type=Device quantity=[1]
+SD-405 SupplyDelivery ref={} stat=completed date=2022-08-24T00:54:38 codes={Dental equipment} type=Device quantity=[1]
+SD-406 SupplyDelivery ref={} stat=completed date=2022-08-24T00:54:38 codes={Conventional release periodontal gel} type=Device quantity=[1]
+SD-407 SupplyDelivery ref={} stat=completed date=2022-08-24T00:54:38 codes={Dental floss} type=Device quantity=[1]
+SD-524 SupplyDelivery ref={} stat=completed date=2023-08-30T00:55:00 codes={Dental equipment} type=Device quantity=[1]
+SD-525 SupplyDelivery ref={} stat=completed date=2023-08-30T00:55:00 codes={Conventional release periodontal gel} type=Device quantity=[1]
+SD-526 SupplyDelivery ref={} stat=completed date=2023-08-30T00:55:00 codes={Dental floss} type=Device quantity=[1]
+IS-172 ImagingStudy ref={EN-160} stat=available date=2020-08-12T01:57:27 codes={Dental plain X-ray bitewing,Digital Radiography,Structure of region of internal part of mouth,Digital Intra-Oral X-Ray Image} 
+IS-408 ImagingStudy ref={EN-394} stat=available date=2022-08-24T02:00:39 codes={Dental plain X-ray bitewing,Digital Radiography,Structure of region of internal part of mouth,Digital Intra-Oral X-Ray Image} 
+IS-461 ImagingStudy ref={EN-449} stat=available date=2023-03-19T23:42:23 codes={Plain X-ray of ankle region,Digital Radiography,Ankle region structure,Image of ankle} 
+CP-180 CarePlan ref={EN-177} stat=completed date=2020-09-17T23:42:23 codes={Counseling at SOUTHCOAST HOSPITAL GROUP, INC,Psychological assessment at SOUTHCOAST HOSPITAL GROUP, INC,careplan-category assess-plan,Overactivity/inattention behavior management,Counseling,Psychological assessment} text=Care Plan for Overactivity/inattention behavior management.Activities: Overactivity/inattention behavior managementOveractivity/inattention behavior management intent=order endDate=2023-12-10T07:42:23
+CP-460 CarePlan ref={EN-449,CN-451} stat=completed date=2023-03-20T00:16:21 codes={Recommendation to rest at TREMONT HEALTH CARE CENTER,Physical activity target light exercise at TREMONT HEALTH CARE CENTER,careplan-category assess-plan,Fracture care,Recommendation to rest,Physical activity target light exercise} text=Care Plan for Fracture care.Care plan is meant to treat Fracture of ankle.Activities: Fracture careFracture care intent=order endDate=2023-05-07T00:16:21
+MR-94 MedicationRequest ref={EN-92} stat=stopped date=2019-06-04T23:42:23 codes={Cefuroxime 250 MG Oral Tablet} intent=order requester=Dr. Harland Ryan dosageInstruction=2 for 1.0 d sct:418577003 Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value)
+MR-97 MedicationRequest ref={EN-92} stat=stopped date=2019-06-04T23:42:23 codes={Acetaminophen 160 MG Chewable Tablet} intent=order requester=Dr. Harland Ryan dosageInstruction= Take as needed.
+MR-286 MedicationRequest ref={EN-268,CN-21,MD-285} stat=stopped date=2021-08-18T06:06:49 codes={} intent=order requester=Dr. Harland Ryan
+MR-456 MedicationRequest ref={EN-449} stat=stopped date=2023-03-20T00:16:21 codes={Acetaminophen 325 MG Oral Tablet} intent=order requester=Dr. Errol Kiehn dosageInstruction= Take as needed.
+MR-528 MedicationRequest ref={EN-516,MD-527} stat=stopped date=2023-08-30T02:30:29 codes={} intent=order requester=Dr. Harland Ryan reasonCode=['sct:103697008 Patient referral for dental care']
+MR-561 MedicationRequest ref={EN-555,CN-549} stat=stopped date=2024-02-07T00:36:03 codes={nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG Oral Capsule} intent=order requester=Dr. Harland Ryan dosageInstruction=2 for 1.0 d
+PR-13 Procedure ref={EN-2} stat=completed date=2015-06-30T23:42:23 codes={Medication reconciliation} endDate=2015-06-30T23:57:23
+PR-31 Procedure ref={EN-19} stat=completed date=2016-07-05T23:42:23 codes={Medication reconciliation} endDate=2016-07-05T23:57:23
+PR-32 Procedure ref={EN-19,CN-21} stat=completed date=2016-07-05T23:42:23 codes={Patient referral for dental care} endDate=2016-07-05T23:57:01
+PR-40 Procedure ref={EN-38,CN-21} stat=completed date=2016-07-12T23:42:23 codes={Dental consultation and report} endDate=2016-07-13T00:18:16
+PR-41 Procedure ref={EN-38,CN-21} stat=completed date=2016-07-13T00:18:16 codes={Dental care} endDate=2016-07-13T00:50:31
+PR-42 Procedure ref={EN-38,CN-21} stat=completed date=2016-07-13T00:50:31 codes={Removal of supragingival plaque and calculus from all teeth using dental instrument} endDate=2016-07-13T01:17:01
+PR-43 Procedure ref={EN-38,CN-21} stat=completed date=2016-07-13T01:17:01 codes={Removal of subgingival plaque and calculus from all teeth using dental instrument} endDate=2016-07-13T01:41:18
+PR-44 Procedure ref={EN-38,CN-21} stat=completed date=2016-07-13T01:41:18 codes={Examination of gingivae} endDate=2016-07-13T02:37:25
+PR-45 Procedure ref={EN-38,CN-39} stat=completed date=2016-07-13T02:37:25 codes={Dental surgical procedure} endDate=2016-07-13T02:54:59
+PR-46 Procedure ref={EN-38,CN-39} stat=completed date=2016-07-13T02:54:59 codes={Dental application of desensitizing medicament} endDate=2016-07-13T03:55:13
+PR-47 Procedure ref={EN-38,CN-39} stat=completed date=2016-07-13T03:55:13 codes={Gingivectomy or gingivoplasty, per tooth} endDate=2016-07-13T04:31:25
+PR-48 Procedure ref={EN-38} stat=completed date=2016-07-13T04:31:25 codes={Postoperative care for dental procedure} endDate=2016-07-13T05:48:56
+PR-49 Procedure ref={EN-38,CN-21} stat=completed date=2016-07-13T05:48:56 codes={Oral health education} endDate=2016-07-13T06:07:32
+PR-69 Procedure ref={EN-58} stat=completed date=2017-07-11T23:42:23 codes={Medication reconciliation} endDate=2017-07-11T23:57:23
+PR-86 Procedure ref={EN-75} stat=completed date=2018-07-17T23:42:23 codes={Medication reconciliation} endDate=2018-07-17T23:57:23
+PR-148 Procedure ref={EN-135} stat=completed date=2020-07-28T23:42:23 codes={Assessment of anxiety} endDate=2020-07-29T00:01:12
+PR-149 Procedure ref={EN-135} stat=completed date=2020-07-29T00:01:12 codes={Assessment of substance use} endDate=2020-07-29T00:15:31
+PR-150 Procedure ref={EN-135} stat=completed date=2020-07-29T00:15:31 codes={Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test} endDate=2020-07-29T00:35:01
+PR-151 Procedure ref={EN-135,CN-136} stat=completed date=2020-07-29T00:35:01 codes={Health risks education} endDate=2020-07-29T00:48:55
+PR-152 Procedure ref={EN-135,CN-21} stat=completed date=2020-07-29T00:48:55 codes={Patient referral for dental care} endDate=2020-07-29T00:53:55
+PR-161 Procedure ref={EN-160,CN-21} stat=completed date=2020-08-11T23:42:23 codes={Dental consultation and report} endDate=2020-08-12T00:01:47
+PR-162 Procedure ref={EN-160,CN-21} stat=completed date=2020-08-12T00:01:47 codes={Dental care} endDate=2020-08-12T00:32:28
+PR-163 Procedure ref={EN-160,CN-21} stat=completed date=2020-08-12T00:32:28 codes={Removal of supragingival plaque and calculus from all teeth using dental instrument} endDate=2020-08-12T01:08:06
+PR-164 Procedure ref={EN-160,CN-21} stat=completed date=2020-08-12T01:08:06 codes={Removal of subgingival plaque and calculus from all teeth using dental instrument} endDate=2020-08-12T01:57:27
+PR-165 Procedure ref={EN-160} stat=completed date=2020-08-12T01:57:27 codes={Dental plain X-ray bitewing} endDate=2020-08-12T02:27:27
+PR-166 Procedure ref={EN-160,CN-21} stat=completed date=2020-08-12T01:57:27 codes={Examination of gingivae} endDate=2020-08-12T02:42:28
+PR-167 Procedure ref={EN-160,CN-21} stat=completed date=2020-08-12T02:42:28 codes={Oral health education} endDate=2020-08-12T03:02:31
+PR-186 Procedure ref={EN-185,CN-178} stat=completed date=2020-10-25T23:42:23 codes={Cognitive and behavioral therapy} endDate=2020-10-26T00:42:23
+PR-192 Procedure ref={EN-191,CN-178} stat=completed date=2020-11-23T23:42:23 codes={Cognitive and behavioral therapy} endDate=2020-11-24T00:42:23
+PR-198 Procedure ref={EN-197,CN-178} stat=completed date=2020-12-28T00:42:23 codes={Cognitive and behavioral therapy} endDate=2020-12-28T01:42:23
+PR-204 Procedure ref={EN-203,CN-178} stat=completed date=2021-01-29T01:42:23 codes={Cognitive and behavioral therapy} endDate=2021-01-29T02:42:23
+PR-210 Procedure ref={EN-209,CN-178} stat=completed date=2021-02-28T02:42:23 codes={Cognitive and behavioral therapy} endDate=2021-02-28T03:42:23
+PR-216 Procedure ref={EN-215,CN-178} stat=completed date=2021-04-04T04:42:23 codes={Cognitive and behavioral therapy} endDate=2021-04-04T05:42:23
+PR-222 Procedure ref={EN-221,CN-178} stat=completed date=2021-05-04T05:42:23 codes={Cognitive and behavioral therapy} endDate=2021-05-04T06:42:23
+PR-228 Procedure ref={EN-227,CN-178} stat=completed date=2021-06-09T06:42:23 codes={Cognitive and behavioral therapy} endDate=2021-06-09T07:42:23
+PR-240 Procedure ref={EN-239,CN-178} stat=completed date=2021-07-17T07:42:23 codes={Cognitive and behavioral therapy} endDate=2021-07-17T08:42:23
+PR-257 Procedure ref={EN-245} stat=completed date=2021-08-03T23:42:23 codes={Medication reconciliation} endDate=2021-08-03T23:57:23
+PR-258 Procedure ref={EN-245} stat=completed date=2021-08-03T23:42:23 codes={Depression screening} endDate=2021-08-03T23:56:40
+PR-259 Procedure ref={EN-245} stat=completed date=2021-08-03T23:56:40 codes={Depression screening using Patient Health Questionnaire Nine Item score} endDate=2021-08-04T00:19:27
+PR-260 Procedure ref={EN-245,CN-21} stat=completed date=2021-08-04T00:19:27 codes={Patient referral for dental care} endDate=2021-08-04T00:24:56
+PR-270 Procedure ref={EN-268,CN-21} stat=completed date=2021-08-17T23:42:23 codes={Dental consultation and report} endDate=2021-08-18T00:18:09
+PR-271 Procedure ref={EN-268,CN-21} stat=completed date=2021-08-18T00:18:09 codes={Dental care} endDate=2021-08-18T00:53:45
+PR-272 Procedure ref={EN-268,CN-21} stat=completed date=2021-08-18T00:53:45 codes={Removal of supragingival plaque and calculus from all teeth using dental instrument} endDate=2021-08-18T01:43:23
+PR-273 Procedure ref={EN-268,CN-21} stat=completed date=2021-08-18T01:43:23 codes={Removal of subgingival plaque and calculus from all teeth using dental instrument} endDate=2021-08-18T02:15:34
+PR-274 Procedure ref={EN-268,CN-21} stat=completed date=2021-08-18T02:15:34 codes={Examination of gingivae} endDate=2021-08-18T02:56:17
+PR-275 Procedure ref={EN-268,CN-39} stat=completed date=2021-08-18T02:56:17 codes={Dental surgical procedure} endDate=2021-08-18T03:04:08
+PR-276 Procedure ref={EN-268,CN-39} stat=completed date=2021-08-18T03:04:08 codes={Dental application of desensitizing medicament} endDate=2021-08-18T04:43:11
+PR-277 Procedure ref={EN-268,CN-39} stat=completed date=2021-08-18T04:43:11 codes={Gingivectomy or gingivoplasty, per tooth} endDate=2021-08-18T05:13:54
+PR-278 Procedure ref={EN-268} stat=completed date=2021-08-18T05:13:54 codes={Postoperative care for dental procedure} endDate=2021-08-18T06:06:49
+PR-279 Procedure ref={EN-268,CN-21} stat=completed date=2021-08-18T06:06:49 codes={Dental fluoride treatment} endDate=2021-08-18T06:46:43
+PR-280 Procedure ref={EN-268,CN-21} stat=completed date=2021-08-18T06:46:43 codes={Oral health education} endDate=2021-08-18T07:06:15
+PR-295 Procedure ref={EN-294,CN-178} stat=completed date=2021-08-26T08:42:23 codes={Cognitive and behavioral therapy} endDate=2021-08-26T09:42:23
+PR-307 Procedure ref={EN-306,CN-178} stat=completed date=2021-09-25T09:42:23 codes={Cognitive and behavioral therapy} endDate=2021-09-25T10:42:23
+PR-319 Procedure ref={EN-318,CN-178} stat=completed date=2021-11-02T10:42:23 codes={Cognitive and behavioral therapy} endDate=2021-11-02T11:42:23
+PR-325 Procedure ref={EN-324,CN-178} stat=completed date=2021-12-06T10:42:23 codes={Cognitive and behavioral therapy} endDate=2021-12-06T11:42:23
+PR-331 Procedure ref={EN-330,CN-178} stat=completed date=2022-01-14T11:42:23 codes={Cognitive and behavioral therapy} endDate=2022-01-14T12:42:23
+PR-337 Procedure ref={EN-336,CN-178} stat=completed date=2022-02-23T12:42:23 codes={Cognitive and behavioral therapy} endDate=2022-02-23T13:42:23
+PR-343 Procedure ref={EN-342,CN-178} stat=completed date=2022-04-01T14:42:23 codes={Cognitive and behavioral therapy} endDate=2022-04-01T15:42:23
+PR-349 Procedure ref={EN-348,CN-178} stat=completed date=2022-04-30T15:42:23 codes={Cognitive and behavioral therapy} endDate=2022-04-30T16:42:23
+PR-355 Procedure ref={EN-354,CN-178} stat=completed date=2022-06-08T16:42:23 codes={Cognitive and behavioral therapy} endDate=2022-06-08T17:42:23
+PR-361 Procedure ref={EN-360,CN-178} stat=completed date=2022-07-14T17:42:23 codes={Cognitive and behavioral therapy} endDate=2022-07-14T18:42:23
+PR-379 Procedure ref={EN-366} stat=completed date=2022-08-09T23:42:23 codes={Medication reconciliation} endDate=2022-08-09T23:57:23
+PR-380 Procedure ref={EN-366} stat=completed date=2022-08-09T23:42:23 codes={Assessment of anxiety} endDate=2022-08-10T00:01:09
+PR-381 Procedure ref={EN-366,CN-21} stat=completed date=2022-08-10T00:01:09 codes={Patient referral for dental care} endDate=2022-08-10T00:06:09
+PR-389 Procedure ref={EN-388,CN-178} stat=completed date=2022-08-15T18:42:23 codes={Cognitive and behavioral therapy} endDate=2022-08-15T19:42:23
+PR-396 Procedure ref={EN-394,CN-21} stat=completed date=2022-08-23T23:42:23 codes={Dental consultation and report} endDate=2022-08-24T00:21:56
+PR-397 Procedure ref={EN-394,CN-21} stat=completed date=2022-08-24T00:21:56 codes={Dental care} endDate=2022-08-24T00:54:38
+PR-398 Procedure ref={EN-394,CN-21} stat=completed date=2022-08-24T00:54:38 codes={Removal of supragingival plaque and calculus from all teeth using dental instrument} endDate=2022-08-24T01:23:40
+PR-399 Procedure ref={EN-394,CN-21} stat=completed date=2022-08-24T01:23:40 codes={Removal of subgingival plaque and calculus from all teeth using dental instrument} endDate=2022-08-24T02:00:39
+PR-400 Procedure ref={EN-394} stat=completed date=2022-08-24T02:00:39 codes={Dental plain X-ray bitewing} endDate=2022-08-24T02:30:39
+PR-401 Procedure ref={EN-394,CN-21} stat=completed date=2022-08-24T02:00:39 codes={Examination of gingivae} endDate=2022-08-24T02:44:25
+PR-402 Procedure ref={EN-394,CN-395} stat=completed date=2022-08-24T02:44:25 codes={Restoration of tooth with coverage of all cusps using dental filling material} endDate=2022-08-24T03:24:41
+PR-403 Procedure ref={EN-394,CN-21} stat=completed date=2022-08-24T03:24:41 codes={Oral health education} endDate=2022-08-24T03:46:22
+PR-414 Procedure ref={EN-413,CN-178} stat=completed date=2022-09-13T19:42:23 codes={Cognitive and behavioral therapy} endDate=2022-09-13T20:42:23
+PR-420 Procedure ref={EN-419,CN-178} stat=completed date=2022-10-21T20:42:23 codes={Cognitive and behavioral therapy} endDate=2022-10-21T21:42:23
+PR-426 Procedure ref={EN-425,CN-178} stat=completed date=2022-11-23T20:42:23 codes={Cognitive and behavioral therapy} endDate=2022-11-23T21:42:23
+PR-432 Procedure ref={EN-431,CN-178} stat=completed date=2023-01-02T21:42:23 codes={Cognitive and behavioral therapy} endDate=2023-01-02T22:42:23
+PR-438 Procedure ref={EN-437,CN-178} stat=completed date=2023-02-10T22:42:23 codes={Cognitive and behavioral therapy} endDate=2023-02-10T23:42:23
+PR-444 Procedure ref={EN-443,CN-178} stat=completed date=2023-03-19T00:42:23 codes={Cognitive and behavioral therapy} endDate=2023-03-19T01:42:23
+PR-452 Procedure ref={EN-449} stat=completed date=2023-03-19T23:42:23 codes={Plain X-ray of ankle region} endDate=2023-03-20T00:12:23
+PR-453 Procedure ref={EN-449,CN-451} stat=completed date=2023-03-19T23:42:23 codes={Bone immobilization} endDate=2023-03-20T00:16:21
+PR-467 Procedure ref={EN-466,CN-178} stat=completed date=2023-04-27T01:42:23 codes={Cognitive and behavioral therapy} endDate=2023-04-27T02:42:23
+PR-478 Procedure ref={EN-477,CN-178} stat=completed date=2023-06-06T02:42:23 codes={Cognitive and behavioral therapy} endDate=2023-06-06T03:42:23
+PR-484 Procedure ref={EN-483,CN-178} stat=completed date=2023-07-14T03:42:23 codes={Cognitive and behavioral therapy} endDate=2023-07-14T04:42:23
+PR-501 Procedure ref={EN-489} stat=completed date=2023-08-15T23:42:23 codes={Depression screening} endDate=2023-08-15T23:56:51
+PR-502 Procedure ref={EN-489} stat=completed date=2023-08-15T23:56:51 codes={Depression screening using Patient Health Questionnaire Nine Item score} endDate=2023-08-16T00:20:41
+PR-503 Procedure ref={EN-489} stat=completed date=2023-08-16T00:20:41 codes={Patient referral for dental care} endDate=2023-08-16T00:31:37
+PR-511 Procedure ref={EN-510,CN-178} stat=completed date=2023-08-23T04:42:23 codes={Cognitive and behavioral therapy} endDate=2023-08-23T05:42:23
+PR-517 Procedure ref={EN-516} stat=completed date=2023-08-29T23:42:23 codes={Dental consultation and report} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2023-08-30T00:22:40
+PR-518 Procedure ref={EN-516} stat=completed date=2023-08-30T00:22:40 codes={Dental care} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2023-08-30T00:55:00
+PR-519 Procedure ref={EN-516} stat=completed date=2023-08-30T00:55:00 codes={Removal of supragingival plaque and calculus from all teeth using dental instrument} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2023-08-30T01:17:42
+PR-520 Procedure ref={EN-516} stat=completed date=2023-08-30T01:17:42 codes={Removal of subgingival plaque and calculus from all teeth using dental instrument} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2023-08-30T01:44:56
+PR-521 Procedure ref={EN-516} stat=completed date=2023-08-30T01:44:56 codes={Examination of gingivae} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2023-08-30T02:30:29
+PR-522 Procedure ref={EN-516} stat=completed date=2023-08-30T02:30:29 codes={Dental fluoride treatment} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2023-08-30T02:59:04
+PR-523 Procedure ref={EN-516} stat=completed date=2023-08-30T02:59:04 codes={Oral health education} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2023-08-30T03:15:16
+PR-537 Procedure ref={EN-536,CN-178} stat=completed date=2023-10-01T05:42:23 codes={Cognitive and behavioral therapy} endDate=2023-10-01T06:42:23
+PR-543 Procedure ref={EN-542,CN-178} stat=completed date=2023-10-31T06:42:23 codes={Cognitive and behavioral therapy} endDate=2023-10-31T07:42:23
+PR-550 Procedure ref={EN-548,CN-178} stat=completed date=2023-12-10T06:42:23 codes={Cognitive and behavioral therapy} endDate=2023-12-10T07:42:23
+PR-556 Procedure ref={EN-555} stat=completed date=2024-02-06T22:42:23 codes={Telemedicine consultation with patient} endDate=2024-02-06T23:35:00
+PR-557 Procedure ref={EN-555} stat=completed date=2024-02-06T23:35:00 codes={History taking} endDate=2024-02-06T23:49:20
+PR-558 Procedure ref={EN-555} stat=completed date=2024-02-06T23:49:20 codes={Discussion about signs and symptoms} endDate=2024-02-07T00:00:33
+PR-559 Procedure ref={EN-555} stat=completed date=2024-02-07T00:00:33 codes={Evaluation procedure} endDate=2024-02-07T00:26:03
+PR-560 Procedure ref={EN-555} stat=completed date=2024-02-07T00:26:03 codes={Antibiotic therapy} endDate=2024-02-07T00:36:03
+PR-590 Procedure ref={EN-568} stat=completed date=2024-08-20T23:42:23 codes={Depression screening} endDate=2024-08-20T23:56:41
+PR-591 Procedure ref={EN-568} stat=completed date=2024-08-20T23:56:41 codes={Depression screening using Patient Health Questionnaire Nine Item score} endDate=2024-08-21T00:21:48
+PR-592 Procedure ref={EN-568} stat=completed date=2024-08-21T00:21:48 codes={Assessment of substance use} endDate=2024-08-21T00:34:45
+PR-593 Procedure ref={EN-568} stat=completed date=2024-08-21T00:34:45 codes={Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test} endDate=2024-08-21T00:53:28
+PR-594 Procedure ref={EN-568} stat=completed date=2024-08-21T00:53:28 codes={Anticipatory guidance} endDate=2024-08-21T00:59:15
+OB-4 Observation ref={EN-2} stat=final date=2015-06-30T23:42:23 codes={Body Height (value = 115.9 cm)} category=Vital
+OB-5 Observation ref={EN-2} stat=final date=2015-06-30T23:42:23 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 2 {score})} category=Vital
+OB-6 Observation ref={EN-2} stat=final date=2015-06-30T23:42:23 codes={Body Weight (value = 21.1 kg)} category=Vital
+OB-7 Observation ref={EN-2} stat=final date=2015-06-30T23:42:23 codes={Body mass index (BMI) (value = 15.69 kg/m2)} category=Vital
+OB-8 Observation ref={EN-2} stat=final date=2015-06-30T23:42:23 codes={Body mass index (BMI) Per age and sex (value = 56.304 %)} category=Vital
+OB-9 Observation ref={EN-2} stat=final date=2015-06-30T23:42:23 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 74 mm(Hg),Systolic Blood Pressure 135 mm(Hg)} category=Vital
+OB-10 Observation ref={EN-2} stat=final date=2015-06-30T23:42:23 codes={Heart rate (value = 70 /min)} category=Vital
+OB-11 Observation ref={EN-2} stat=final date=2015-06-30T23:42:23 codes={Respiratory rate (value = 14 /min)} category=Vital
+OB-12 Observation ref={EN-2} stat=final date=2015-06-30T23:42:23 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-22 Observation ref={EN-19} stat=final date=2016-07-05T23:42:23 codes={Body Height (value = 121.7 cm)} category=Vital
+OB-23 Observation ref={EN-19} stat=final date=2016-07-05T23:42:23 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 2 {score})} category=Vital
+OB-24 Observation ref={EN-19} stat=final date=2016-07-05T23:42:23 codes={Body Weight (value = 23.9 kg)} category=Vital
+OB-25 Observation ref={EN-19} stat=final date=2016-07-05T23:42:23 codes={Body mass index (BMI) (value = 16.14 kg/m2)} category=Vital
+OB-26 Observation ref={EN-19} stat=final date=2016-07-05T23:42:23 codes={Body mass index (BMI) Per age and sex (value = 57.211 %)} category=Vital
+OB-27 Observation ref={EN-19} stat=final date=2016-07-05T23:42:23 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 82 mm(Hg),Systolic Blood Pressure 136 mm(Hg)} category=Vital
+OB-28 Observation ref={EN-19} stat=final date=2016-07-05T23:42:23 codes={Heart rate (value = 90 /min)} category=Vital
+OB-29 Observation ref={EN-19} stat=final date=2016-07-05T23:42:23 codes={Respiratory rate (value = 14 /min)} category=Vital
+OB-30 Observation ref={EN-19} stat=final date=2016-07-05T23:42:23 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-60 Observation ref={EN-58} stat=final date=2017-07-11T23:42:23 codes={Body Height (value = 127.1 cm)} category=Vital
+OB-61 Observation ref={EN-58} stat=final date=2017-07-11T23:42:23 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 1 {score})} category=Vital
+OB-62 Observation ref={EN-58} stat=final date=2017-07-11T23:42:23 codes={Body Weight (value = 28.2 kg)} category=Vital
+OB-63 Observation ref={EN-58} stat=final date=2017-07-11T23:42:23 codes={Body mass index (BMI) (value = 17.45 kg/m2)} category=Vital
+OB-64 Observation ref={EN-58} stat=final date=2017-07-11T23:42:23 codes={Body mass index (BMI) Per age and sex (value = 68.706 %)} category=Vital
+OB-65 Observation ref={EN-58} stat=final date=2017-07-11T23:42:23 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 76 mm(Hg),Systolic Blood Pressure 139 mm(Hg)} category=Vital
+OB-66 Observation ref={EN-58} stat=final date=2017-07-11T23:42:23 codes={Heart rate (value = 78 /min)} category=Vital
+OB-67 Observation ref={EN-58} stat=final date=2017-07-11T23:42:23 codes={Respiratory rate (value = 15 /min)} category=Vital
+OB-68 Observation ref={EN-58} stat=final date=2017-07-11T23:42:23 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-77 Observation ref={EN-75} stat=final date=2018-07-17T23:42:23 codes={Body Height (value = 131.6 cm)} category=Vital
+OB-78 Observation ref={EN-75} stat=final date=2018-07-17T23:42:23 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 1 {score})} category=Vital
+OB-79 Observation ref={EN-75} stat=final date=2018-07-17T23:42:23 codes={Body Weight (value = 33.5 kg)} category=Vital
+OB-80 Observation ref={EN-75} stat=final date=2018-07-17T23:42:23 codes={Body mass index (BMI) (value = 19.36 kg/m2)} category=Vital
+OB-81 Observation ref={EN-75} stat=final date=2018-07-17T23:42:23 codes={Body mass index (BMI) Per age and sex (value = 80.802 %)} category=Vital
+OB-82 Observation ref={EN-75} stat=final date=2018-07-17T23:42:23 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 74 mm(Hg),Systolic Blood Pressure 136 mm(Hg)} category=Vital
+OB-83 Observation ref={EN-75} stat=final date=2018-07-17T23:42:23 codes={Heart rate (value = 91 /min)} category=Vital
+OB-84 Observation ref={EN-75} stat=final date=2018-07-17T23:42:23 codes={Respiratory rate (value = 14 /min)} category=Vital
+OB-85 Observation ref={EN-75} stat=final date=2018-07-17T23:42:23 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-106 Observation ref={EN-104} stat=final date=2019-07-23T23:42:23 codes={Body Height (value = 137.1 cm)} category=Vital
+OB-107 Observation ref={EN-104} stat=final date=2019-07-23T23:42:23 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 0 {score})} category=Vital
+OB-108 Observation ref={EN-104} stat=final date=2019-07-23T23:42:23 codes={Body Weight (value = 39.4 kg)} category=Vital
+OB-109 Observation ref={EN-104} stat=final date=2019-07-23T23:42:23 codes={Body mass index (BMI) (value = 20.99 kg/m2)} category=Vital
+OB-110 Observation ref={EN-104} stat=final date=2019-07-23T23:42:23 codes={Body mass index (BMI) Per age and sex (value = 85.652 %)} category=Vital
+OB-111 Observation ref={EN-104} stat=final date=2019-07-23T23:42:23 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 71 mm(Hg),Systolic Blood Pressure 129 mm(Hg)} category=Vital
+OB-112 Observation ref={EN-104} stat=final date=2019-07-23T23:42:23 codes={Heart rate (value = 64 /min)} category=Vital
+OB-113 Observation ref={EN-104} stat=final date=2019-07-23T23:42:23 codes={Respiratory rate (value = 15 /min)} category=Vital
+OB-114 Observation ref={EN-104} stat=final date=2019-07-23T23:42:23 codes={Leukocytes (#/volume) in Blood by Automated count (value = 4.7468 10*3/uL)} category=Laboratory
+OB-115 Observation ref={EN-104} stat=final date=2019-07-23T23:42:23 codes={Erythrocytes (#/volume) in Blood by Automated count (value = 5.0429 10*6/uL)} category=Laboratory
+OB-116 Observation ref={EN-104} stat=final date=2019-07-23T23:42:23 codes={Hemoglobin (Mass/volume) in Blood (value = 12.451 g/dL)} category=Laboratory
+OB-117 Observation ref={EN-104} stat=final date=2019-07-23T23:42:23 codes={Hematocrit (Volume Fraction) of Blood by Automated count (value = 37.567 %)} category=Laboratory
+OB-118 Observation ref={EN-104} stat=final date=2019-07-23T23:42:23 codes={MCV (Entitic volume) by Automated count (value = 87.073 fL)} category=Laboratory
+OB-119 Observation ref={EN-104} stat=final date=2019-07-23T23:42:23 codes={MCH (Entitic mass) by Automated count (value = 32.67 pg)} category=Laboratory
+OB-120 Observation ref={EN-104} stat=final date=2019-07-23T23:42:23 codes={MCHC (Mass/volume) by Automated count (value = 33.528 g/dL)} category=Laboratory
+OB-121 Observation ref={EN-104} stat=final date=2019-07-23T23:42:23 codes={Erythrocyte distribution width (Entitic volume) by Automated count (value = 39.27 fL)} category=Laboratory
+OB-122 Observation ref={EN-104} stat=final date=2019-07-23T23:42:23 codes={Platelets (#/volume) in Blood by Automated count (value = 447.23 10*3/uL)} category=Laboratory
+OB-123 Observation ref={EN-104} stat=final date=2019-07-23T23:42:23 codes={Platelet distribution width (Entitic volume) in Blood by Automated count (value = 153.27 fL)} category=Laboratory
+OB-124 Observation ref={EN-104} stat=final date=2019-07-23T23:42:23 codes={Platelet mean volume (Entitic volume) in Blood by Automated count (value = 10.988 fL)} category=Laboratory
+OB-125 Observation ref={EN-104} stat=final date=2019-07-23T23:42:23 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-138 Observation ref={EN-135} stat=final date=2020-07-28T23:42:23 codes={Body Height (value = 144.1 cm)} category=Vital
+OB-139 Observation ref={EN-135} stat=final date=2020-07-28T23:42:23 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 2 {score})} category=Vital
+OB-140 Observation ref={EN-135} stat=final date=2020-07-28T23:42:23 codes={Body Weight (value = 43.8 kg)} category=Vital
+OB-141 Observation ref={EN-135} stat=final date=2020-07-28T23:42:23 codes={Body mass index (BMI) (value = 21.09 kg/m2)} category=Vital
+OB-142 Observation ref={EN-135} stat=final date=2020-07-28T23:42:23 codes={Body mass index (BMI) Per age and sex (value = 81.3 %)} category=Vital
+OB-143 Observation ref={EN-135} stat=final date=2020-07-28T23:42:23 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 75 mm(Hg),Systolic Blood Pressure 132 mm(Hg)} category=Vital
+OB-144 Observation ref={EN-135} stat=final date=2020-07-28T23:42:23 codes={Heart rate (value = 80 /min)} category=Vital
+OB-145 Observation ref={EN-135} stat=final date=2020-07-28T23:42:23 codes={Respiratory rate (value = 15 /min)} category=Vital
+OB-146 Observation ref={EN-135} stat=final date=2020-07-28T23:42:23 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-147 Observation ref={EN-135} stat=final date=2020-07-29T00:01:12 codes={Generalized anxiety disorder 7 item total score (Reported.PHQ) (value = 4 {score})} category=Survey
+OB-247 Observation ref={EN-245} stat=final date=2021-08-03T23:42:23 codes={Body Height (value = 150.4 cm)} category=Vital
+OB-248 Observation ref={EN-245} stat=final date=2021-08-03T23:42:23 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 1 {score})} category=Vital
+OB-249 Observation ref={EN-245} stat=final date=2021-08-03T23:42:23 codes={Body Weight (value = 49.4 kg)} category=Vital
+OB-250 Observation ref={EN-245} stat=final date=2021-08-03T23:42:23 codes={Body mass index (BMI) (value = 21.83 kg/m2)} category=Vital
+OB-251 Observation ref={EN-245} stat=final date=2021-08-03T23:42:23 codes={Body mass index (BMI) Per age and sex (value = 80.991 %)} category=Vital
+OB-252 Observation ref={EN-245} stat=final date=2021-08-03T23:42:23 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 76 mm(Hg),Systolic Blood Pressure 132 mm(Hg)} category=Vital
+OB-253 Observation ref={EN-245} stat=final date=2021-08-03T23:42:23 codes={Heart rate (value = 85 /min)} category=Vital
+OB-254 Observation ref={EN-245} stat=final date=2021-08-03T23:42:23 codes={Respiratory rate (value = 12 /min)} category=Vital
+OB-255 Observation ref={EN-245} stat=final date=2021-08-03T23:42:23 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-256 Observation ref={EN-245} stat=final date=2021-08-04T00:19:27 codes={Patient Health Questionnaire-9: Modified for Teens total score (Reported.PHQ.Teen) (value = 2 {score})} category=Survey
+OB-369 Observation ref={EN-366} stat=final date=2022-08-09T23:42:23 codes={Body Height (value = 154.1 cm)} category=Vital
+OB-370 Observation ref={EN-366} stat=final date=2022-08-09T23:42:23 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 4 {score})} category=Vital
+OB-371 Observation ref={EN-366} stat=final date=2022-08-09T23:42:23 codes={Body Weight (value = 54 kg)} category=Vital
+OB-372 Observation ref={EN-366} stat=final date=2022-08-09T23:42:23 codes={Body mass index (BMI) (value = 22.75 kg/m2)} category=Vital
+OB-373 Observation ref={EN-366} stat=final date=2022-08-09T23:42:23 codes={Body mass index (BMI) Per age and sex (value = 81.652 %)} category=Vital
+OB-374 Observation ref={EN-366} stat=final date=2022-08-09T23:42:23 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 72 mm(Hg),Systolic Blood Pressure 133 mm(Hg)} category=Vital
+OB-375 Observation ref={EN-366} stat=final date=2022-08-09T23:42:23 codes={Heart rate (value = 67 /min)} category=Vital
+OB-376 Observation ref={EN-366} stat=final date=2022-08-09T23:42:23 codes={Respiratory rate (value = 15 /min)} category=Vital
+OB-377 Observation ref={EN-366} stat=final date=2022-08-09T23:42:23 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-378 Observation ref={EN-366} stat=final date=2022-08-10T00:01:09 codes={Generalized anxiety disorder 7 item total score (Reported.PHQ) (value = 5 {score})} category=Survey
+OB-491 Observation ref={EN-489} stat=final date=2023-08-15T23:42:23 codes={Body Height (value = 155.5 cm)} category=Vital
+OB-492 Observation ref={EN-489} stat=final date=2023-08-15T23:42:23 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 1 {score})} category=Vital
+OB-493 Observation ref={EN-489} stat=final date=2023-08-15T23:42:23 codes={Body Weight (value = 59.4 kg)} category=Vital
+OB-494 Observation ref={EN-489} stat=final date=2023-08-15T23:42:23 codes={Body mass index (BMI) (value = 24.54 kg/m2)} category=Vital
+OB-495 Observation ref={EN-489} stat=final date=2023-08-15T23:42:23 codes={Body mass index (BMI) Per age and sex (value = 86.811 %)} category=Vital
+OB-496 Observation ref={EN-489} stat=final date=2023-08-15T23:42:23 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 72 mm(Hg),Systolic Blood Pressure 130 mm(Hg)} category=Vital
+OB-497 Observation ref={EN-489} stat=final date=2023-08-15T23:42:23 codes={Heart rate (value = 62 /min)} category=Vital
+OB-498 Observation ref={EN-489} stat=final date=2023-08-15T23:42:23 codes={Respiratory rate (value = 15 /min)} category=Vital
+OB-499 Observation ref={EN-489} stat=final date=2023-08-15T23:42:23 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-500 Observation ref={EN-489} stat=final date=2023-08-16T00:20:41 codes={Patient Health Questionnaire-9: Modified for Teens total score (Reported.PHQ.Teen) (value = 1 {score})} category=Survey
+OB-569 Observation ref={EN-568} stat=final date=2024-08-20T23:42:23 codes={Body Height (value = 156.2 cm)} category=Vital
+OB-570 Observation ref={EN-568} stat=final date=2024-08-20T23:42:23 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 1 {score})} category=Vital
+OB-571 Observation ref={EN-568} stat=final date=2024-08-20T23:42:23 codes={Body Weight (value = 61.8 kg)} category=Vital
+OB-572 Observation ref={EN-568} stat=final date=2024-08-20T23:42:23 codes={Body mass index (BMI) (value = 25.34 kg/m2)} category=Vital
+OB-573 Observation ref={EN-568} stat=final date=2024-08-20T23:42:23 codes={Body mass index (BMI) Per age and sex (value = 87.435 %)} category=Vital
+OB-574 Observation ref={EN-568} stat=final date=2024-08-20T23:42:23 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 78 mm(Hg),Systolic Blood Pressure 132 mm(Hg)} category=Vital
+OB-575 Observation ref={EN-568} stat=final date=2024-08-20T23:42:23 codes={Heart rate (value = 89 /min)} category=Vital
+OB-576 Observation ref={EN-568} stat=final date=2024-08-20T23:42:23 codes={Respiratory rate (value = 12 /min)} category=Vital
+OB-577 Observation ref={EN-568} stat=final date=2024-08-20T23:42:23 codes={Leukocytes (#/volume) in Blood by Automated count (value = 9.1022 10*3/uL)} category=Laboratory
+OB-578 Observation ref={EN-568} stat=final date=2024-08-20T23:42:23 codes={Erythrocytes (#/volume) in Blood by Automated count (value = 5.4717 10*6/uL)} category=Laboratory
+OB-579 Observation ref={EN-568} stat=final date=2024-08-20T23:42:23 codes={Hemoglobin (Mass/volume) in Blood (value = 12.619 g/dL)} category=Laboratory
+OB-580 Observation ref={EN-568} stat=final date=2024-08-20T23:42:23 codes={Hematocrit (Volume Fraction) of Blood by Automated count (value = 37.326 %)} category=Laboratory
+OB-581 Observation ref={EN-568} stat=final date=2024-08-20T23:42:23 codes={MCV (Entitic volume) by Automated count (value = 93.493 fL)} category=Laboratory
+OB-582 Observation ref={EN-568} stat=final date=2024-08-20T23:42:23 codes={MCH (Entitic mass) by Automated count (value = 28.015 pg)} category=Laboratory
+OB-583 Observation ref={EN-568} stat=final date=2024-08-20T23:42:23 codes={MCHC (Mass/volume) by Automated count (value = 33.158 g/dL)} category=Laboratory
+OB-584 Observation ref={EN-568} stat=final date=2024-08-20T23:42:23 codes={Erythrocyte distribution width (Entitic volume) by Automated count (value = 39.815 fL)} category=Laboratory
+OB-585 Observation ref={EN-568} stat=final date=2024-08-20T23:42:23 codes={Platelets (#/volume) in Blood by Automated count (value = 302.07 10*3/uL)} category=Laboratory
+OB-586 Observation ref={EN-568} stat=final date=2024-08-20T23:42:23 codes={Platelet distribution width (Entitic volume) in Blood by Automated count (value = 388.24 fL)} category=Laboratory
+OB-587 Observation ref={EN-568} stat=final date=2024-08-20T23:42:23 codes={Platelet mean volume (Entitic volume) in Blood by Automated count (value = 11.181 fL)} category=Laboratory
+OB-588 Observation ref={EN-568} stat=final date=2024-08-20T23:42:23 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-589 Observation ref={EN-568} stat=final date=2024-08-21T00:21:48 codes={Patient Health Questionnaire-9: Modified for Teens total score (Reported.PHQ.Teen) (value = 9 {score})} category=Survey
+IM-14 Immunization ref={EN-2} stat=completed date=2015-06-30T23:42:23 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-33 Immunization ref={EN-19} stat=completed date=2016-07-05T23:42:23 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-70 Immunization ref={EN-58} stat=completed date=2017-07-11T23:42:23 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-87 Immunization ref={EN-75} stat=completed date=2018-07-17T23:42:23 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-126 Immunization ref={EN-104} stat=completed date=2019-07-23T23:42:23 codes={Tdap} primarySource=True
+IM-127 Immunization ref={EN-104} stat=completed date=2019-07-23T23:42:23 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-128 Immunization ref={EN-104} stat=completed date=2019-07-23T23:42:23 codes={HPV, quadrivalent} primarySource=True
+IM-129 Immunization ref={EN-104} stat=completed date=2019-07-23T23:42:23 codes={meningococcal MCV4P} primarySource=True
+IM-153 Immunization ref={EN-135} stat=completed date=2020-07-28T23:42:23 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-154 Immunization ref={EN-135} stat=completed date=2020-07-28T23:42:23 codes={HPV, quadrivalent} primarySource=True
+IM-261 Immunization ref={EN-245} stat=completed date=2021-08-03T23:42:23 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-262 Immunization ref={EN-245} stat=completed date=2021-08-03T23:42:23 codes={HPV, quadrivalent} primarySource=True
+IM-301 Immunization ref={EN-300} stat=completed date=2021-09-07T23:42:23 codes={COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose} primarySource=True
+IM-313 Immunization ref={EN-312} stat=completed date=2021-10-05T23:42:23 codes={COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose} primarySource=True
+IM-382 Immunization ref={EN-366} stat=completed date=2022-08-09T23:42:23 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-504 Immunization ref={EN-489} stat=completed date=2023-08-15T23:42:23 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-595 Immunization ref={EN-568} stat=completed date=2024-08-20T23:42:23 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-596 Immunization ref={EN-568} stat=completed date=2024-08-20T23:42:23 codes={meningococcal MCV4P} primarySource=True
+MD-285 Medication ref={} stat=active codes={sodium fluoride 0.0272 MG/MG Oral Gel} 
+MD-527 Medication ref={} stat=active codes={sodium fluoride 0.0272 MG/MG Oral Gel} 
+MA-289 MedicationAdministration ref={EN-268,CN-21} stat=completed date=2021-08-18T06:06:49 codes={sodium fluoride 0.0272 MG/MG Oral Gel} 
+MA-531 MedicationAdministration ref={EN-516} stat=completed date=2023-08-30T02:30:29 codes={sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care} 

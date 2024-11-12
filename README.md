@@ -4,13 +4,13 @@
 
 Medical data for Generative AI
 
-### Purpose
+### Details
 
 - 100 synthetic patient records 
 - `.embr` format optimized for generative AI in healthcare
 - Streamlined, token-efficient for LLMs
 - Preserves essential medical data for high-performance queries
-
+- All files are under 120,000 tokens for gpt-4o-mini usage
 
 ## Downloads
 - 100 Synthetic Patient Records [Download .zip From Release](https://github.com/XPawnAI/embr-sample-data/releases/download/release/100-embr-records.zip)
@@ -18,14 +18,30 @@ Medical data for Generative AI
 
 > **Note**: A separate repository for converting FHIR data to EMBR format will be available soon at [xpawnai/embr](https://github.com/XPawnAI/embr).
 
-<!-- ## Quick Start
+<br>
 
-To get started, simply clone this repository and explore the synthetic `.embr` files:
+### Quick Start For Python + OpenAI + EMBR
 
+To get started, you'll need Python **3.11** and the OpenAI API Key.
+
+#### Step 1
+Using requirements.txt:
 ```bash
-git clone https://github.com/XPawnAI/embr-sample-data.git
-cd embr-sample-data
-``` -->
+pip install -r requirements.txt
+```
+
+#### Step 2
+Manually Update a `.env` file:
+1. Rename `.env.example` to `.env`
+2. Replace `YOUR_OPENAI_API_KEY_HERE` with your OpenAI API key
+
+#### Step 3
+Run the example scripts:
+```bash
+python example/summary.py
+```
+
+<br>
 
 ## Data
 

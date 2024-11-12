@@ -1,0 +1,329 @@
+PT-1 Patient ref={} stat=living codes={} name=Mr. Cornell Monty Kohler gender=male birthDate=1992-01-29 address=711 Gulgowski Throughway, Medford, MA, 02155 maritalStatus=Married multipleBirthBoolean=False communication=English (United States)
+EN-2 Encounter ref={} stat=finished date=2009-07-22T23:52:00 codes={Encounter for check up,ambulatory} provider=performer Dr. Rochell Stehr facility=FIRST PSYCHIATRIC PLANNERS, INC endDate=2009-07-23T00:07:00
+EN-8 Encounter ref={} stat=finished date=2010-03-24T23:52:00 codes={General examination of patient,ambulatory} provider=performer Dr. Ollie Bosco facility=NEW ENGLAND MEDICAL CENTER GROUP PRACTICE INC endDate=2010-03-25T00:47:46
+EN-14 Encounter ref={} stat=finished date=2014-04-02T23:52:00 codes={General examination of patient,ambulatory} provider=performer Dr. Ollie Bosco facility=NEW ENGLAND MEDICAL CENTER GROUP PRACTICE INC endDate=2014-04-03T00:45:31
+EN-22 Encounter ref={} stat=finished date=2015-02-27T22:52:00 codes={Encounter for symptom,Otitis media,ambulatory} provider=performer Dr. Rochell Stehr facility=FIRST PSYCHIATRIC PLANNERS, INC endDate=2015-02-27T23:07:00
+EN-34 Encounter ref={} stat=finished date=2016-02-07T01:15:21 codes={Encounter for symptom,Acute bronchitis,ambulatory} provider=performer Dr. Rochell Stehr facility=FIRST PSYCHIATRIC PLANNERS, INC endDate=2016-02-07T01:30:21
+EN-46 Encounter ref={} stat=finished date=2016-02-17T22:52:00 codes={Urgent care clinic (environment),ambulatory} provider=performer Dr. Dan Swift facility=HALLMARK HEALTH URGENT CARE PHYSICIANS LLC endDate=2016-02-17T23:22:06
+EN-75 Encounter ref={} stat=finished date=2017-04-05T23:52:00 codes={General examination of patient,ambulatory} provider=performer Dr. Ollie Bosco facility=NEW ENGLAND MEDICAL CENTER GROUP PRACTICE INC endDate=2017-04-06T00:37:03
+EN-103 Encounter ref={} stat=finished date=2017-04-19T23:52:00 codes={Encounter for check up,Patient referral for dental care,ambulatory} provider=performer Dr. Rochell Stehr facility=FIRST PSYCHIATRIC PLANNERS, INC endDate=2017-04-20T02:58:55
+EN-117 Encounter ref={} stat=finished date=2017-07-15T23:52:00 codes={Emergency room admission,Sprain (morphologic abnormality),emergency} provider=performer Dr. Latrisha Rippin facility=COMPASSIONATE CARE HOSPICE endDate=2017-07-16T00:52:00
+EN-129 Encounter ref={} stat=finished date=2020-04-08T23:52:00 codes={General examination of patient,ambulatory} provider=performer Dr. Ollie Bosco facility=NEW ENGLAND MEDICAL CENTER GROUP PRACTICE INC endDate=2020-04-09T00:47:47
+EN-163 Encounter ref={} stat=finished date=2020-04-22T23:52:00 codes={Encounter for check up,Patient referral for dental care,ambulatory} provider=performer Dr. Rochell Stehr facility=FIRST PSYCHIATRIC PLANNERS, INC endDate=2020-04-23T03:08:13
+EN-177 Encounter ref={} stat=finished date=2022-01-21T22:52:00 codes={Encounter for symptom,Sleep disorder,ambulatory} provider=performer Dr. Rochell Stehr facility=FIRST PSYCHIATRIC PLANNERS, INC endDate=2022-01-21T23:52:26
+EN-185 Encounter ref={} stat=finished date=2022-02-03T23:52:26 codes={Encounter for symptom,Sleep disorder,ambulatory} provider=performer Dr. Rochell Stehr facility=FIRST PSYCHIATRIC PLANNERS, INC endDate=2022-02-04T00:39:32
+EN-192 Encounter ref={} stat=finished date=2022-02-17T00:39:32 codes={Follow-up visit,Sleep disorder,v3-ActCode IMP} provider=performer Dr. Rochell Stehr facility=FIRST PSYCHIATRIC PLANNERS, INC endDate=2022-02-18T00:39:32
+EN-208 Encounter ref={} stat=finished date=2023-04-12T23:52:00 codes={General examination of patient,ambulatory} provider=performer Dr. Ollie Bosco facility=NEW ENGLAND MEDICAL CENTER GROUP PRACTICE INC endDate=2023-04-13T00:35:51
+EN-250 Encounter ref={} stat=finished date=2023-04-26T23:52:00 codes={Encounter for check up,Gingivitis,ambulatory} provider=performer Dr. Rochell Stehr facility=FIRST PSYCHIATRIC PLANNERS, INC endDate=2023-04-27T03:27:10
+EN-273 Encounter ref={} stat=finished date=2023-05-12T23:52:00 codes={Follow-up encounter,Essential hypertension,ambulatory} provider=performer Dr. Rochell Stehr facility=FIRST PSYCHIATRIC PLANNERS, INC endDate=2023-05-13T00:07:00
+EN-282 Encounter ref={} stat=finished date=2023-07-11T23:52:00 codes={Follow-up encounter,Essential hypertension,ambulatory} provider=performer Dr. Rochell Stehr facility=FIRST PSYCHIATRIC PLANNERS, INC endDate=2023-07-12T00:07:00
+EN-288 Encounter ref={} stat=finished date=2023-09-09T23:52:00 codes={Follow-up encounter,Essential hypertension,v3-ActCode VR} provider=performer Dr. Rochell Stehr facility=FIRST PSYCHIATRIC PLANNERS, INC endDate=2023-09-10T00:07:00
+EN-295 Encounter ref={} stat=finished date=2023-12-03T22:52:00 codes={Encounter for symptom,Acute infective cystitis,emergency} provider=performer Dr. Latrisha Rippin facility=COMPASSIONATE CARE HOSPICE endDate=2023-12-04T01:11:46
+EN-335 Encounter ref={} stat=finished date=2023-12-05T13:11:46 codes={Encounter for symptom,Acute infective cystitis,emergency} provider=performer Dr. Latrisha Rippin facility=COMPASSIONATE CARE HOSPICE endDate=2023-12-05T15:38:54
+EN-375 Encounter ref={} stat=finished date=2023-12-07T07:38:54 codes={Encounter for symptom,Acute infective cystitis,emergency} provider=performer Dr. Latrisha Rippin facility=COMPASSIONATE CARE HOSPICE endDate=2023-12-07T09:44:44
+EN-415 Encounter ref={} stat=finished date=2024-04-17T23:52:00 codes={General examination of patient,ambulatory} provider=performer Dr. Ollie Bosco facility=NEW ENGLAND MEDICAL CENTER GROUP PRACTICE INC endDate=2024-04-18T00:31:40
+CN-3 Condition ref={EN-2} stat=confirmed date=2009-07-23T01:07:15 codes={Risk activity involvement} onsetDateTime=2009-07-23T01:07:15
+CN-9 Condition ref={EN-8} stat=confirmed date=2010-03-25T00:47:46 codes={Received higher education} onsetDateTime=2010-03-25T00:47:46
+CN-15 Condition ref={EN-14} stat=confirmed date=2014-04-02T23:52:00 codes={Medication review due} onsetDateTime=2014-04-02T23:52:00 abatementDateTime=2024-04-17T23:52:00
+CN-16 Condition ref={EN-14} stat=confirmed date=2014-04-03T00:45:31 codes={Not in labor force} onsetDateTime=2014-04-03T00:45:31 abatementDateTime=2016-02-17T23:22:06
+CN-17 Condition ref={EN-14} stat=confirmed date=2014-04-03T00:45:31 codes={Stress} onsetDateTime=2014-04-03T00:45:31 abatementDateTime=2017-04-06T00:37:03
+CN-23 Condition ref={EN-22} stat=confirmed date=2015-02-27T22:52:00 codes={Otitis media} onsetDateTime=2015-02-27T22:52:00 abatementDateTime=2016-02-17T22:52:00
+CN-35 Condition ref={EN-34} stat=confirmed date=2016-02-07T01:15:21 codes={Acute bronchitis} onsetDateTime=2016-02-07T01:15:21 abatementDateTime=2016-02-15T01:28:26
+CN-47 Condition ref={EN-46} stat=confirmed date=2016-02-17T23:22:06 codes={Full-time employment} onsetDateTime=2016-02-17T23:22:06
+CN-118 Condition ref={EN-117} stat=confirmed date=2017-07-15T23:52:00 codes={Sprain (morphologic abnormality)} onsetDateTime=2017-07-15T23:52:00 abatementDateTime=2017-08-04T23:52:00
+CN-119 Condition ref={EN-117} stat=confirmed date=2017-07-15T23:52:00 codes={Sprain of ankle} onsetDateTime=2017-07-15T23:52:00 abatementDateTime=2017-08-04T23:52:00
+CN-130 Condition ref={EN-129} stat=confirmed date=2020-04-09T00:47:47 codes={Social isolation} onsetDateTime=2020-04-09T00:47:47 abatementDateTime=2023-04-13T00:35:51
+CN-178 Condition ref={EN-177} stat=confirmed date=2022-01-21T22:52:00 codes={Sleep disorder} onsetDateTime=2022-01-21T22:52:00
+CN-193 Condition ref={EN-192} stat=confirmed date=2022-02-17T06:31:23 codes={Sleep apnea} onsetDateTime=2022-02-17T06:31:23
+CN-209 Condition ref={EN-208} stat=confirmed date=2023-04-12T23:52:00 codes={Essential hypertension} onsetDateTime=2023-04-12T23:52:00
+CN-210 Condition ref={EN-208} stat=confirmed date=2023-04-13T00:35:51 codes={Stress} onsetDateTime=2023-04-13T00:35:51
+CN-211 Condition ref={EN-208} stat=confirmed date=2023-04-13T00:52:49 codes={Gingivitis} onsetDateTime=2023-04-13T00:52:49 abatementDateTime=2023-04-27T02:53:20
+CN-289 Condition ref={EN-288} stat=confirmed date=2023-12-03T22:52:00 codes={Acute infective cystitis} onsetDateTime=2023-12-03T22:52:00 abatementDateTime=2023-12-07T17:44:44
+CN-416 Condition ref={EN-415} stat=confirmed date=2024-04-18T00:31:40 codes={Reports of violence in the environment} onsetDateTime=2024-04-18T00:31:40
+DR-68 DiagnosticReport ref={EN-46,OB-57} stat=final date=2016-02-17T23:42:47 codes={Generalized anxiety disorder 7 item} 
+DR-69 DiagnosticReport ref={EN-46,OB-58} stat=final date=2016-02-18T00:17:54 codes={Patient Health Questionnaire 2 item (Reported)} 
+DR-70 DiagnosticReport ref={EN-46,OB-59} stat=final date=2016-02-18T00:49:16 codes={Alcohol Use Disorder Identification Test - Consumption (AUDIT-C)} 
+DR-96 DiagnosticReport ref={EN-75,OB-85} stat=final date=2017-04-06T01:21:33 codes={Humiliation, Afraid, Rape, and Kick questionnaire} 
+DR-97 DiagnosticReport ref={EN-75,OB-86} stat=final date=2017-04-06T01:54:35 codes={Patient Health Questionnaire 2 item (Reported)} 
+DR-98 DiagnosticReport ref={EN-75,OB-87} stat=final date=2017-04-06T02:29:05 codes={Drug Abuse Screening Test-10} 
+DR-157 DiagnosticReport ref={EN-129,OB-138,OB-139,OB-140,OB-141,OB-142,OB-143,OB-144,OB-145,OB-146,OB-147,OB-148} stat=final date=2020-04-08T23:52:00 codes={CBC panel - Blood by Automated count} category=['v2-0074:LAB Laboratory'] provider=NEW ENGLAND MEDICAL CENTER GROUP PRACTICE INC
+DR-158 DiagnosticReport ref={EN-129,OB-151} stat=final date=2020-04-09T01:22:27 codes={Patient Health Questionnaire 2 item (Reported)} 
+DR-242 DiagnosticReport ref={EN-208,OB-219,OB-220,OB-221,OB-222} stat=final date=2023-04-12T23:52:00 codes={Lipid panel with direct LDL - Serum or Plasma} category=['v2-0074:LAB Laboratory'] provider=NEW ENGLAND MEDICAL CENTER GROUP PRACTICE INC
+DR-243 DiagnosticReport ref={EN-208,OB-225} stat=final date=2023-04-13T00:52:49 codes={Generalized anxiety disorder 7 item} 
+DR-330 DiagnosticReport ref={EN-295,OB-302,OB-303,OB-304,OB-305,OB-306,OB-307,OB-308,OB-309,OB-310,OB-311,OB-312,OB-313,OB-314,OB-315} stat=final date=2023-12-04T00:51:46 codes={Urinalysis macro (dipstick) panel - Urine} category=['v2-0074:LAB Laboratory'] provider=COMPASSIONATE CARE HOSPICE
+DR-370 DiagnosticReport ref={EN-335,OB-342,OB-343,OB-344,OB-345,OB-346,OB-347,OB-348,OB-349,OB-350,OB-351,OB-352,OB-353,OB-354,OB-355} stat=final date=2023-12-05T15:18:54 codes={Urinalysis macro (dipstick) panel - Urine} category=['v2-0074:LAB Laboratory'] provider=COMPASSIONATE CARE HOSPICE
+DR-410 DiagnosticReport ref={EN-375,OB-382,OB-383,OB-384,OB-385,OB-386,OB-387,OB-388,OB-389,OB-390,OB-391,OB-392,OB-393,OB-394,OB-395} stat=final date=2023-12-07T09:24:44 codes={Urinalysis macro (dipstick) panel - Urine} category=['v2-0074:LAB Laboratory'] provider=COMPASSIONATE CARE HOSPICE
+DR-446 DiagnosticReport ref={EN-415,OB-426} stat=final date=2024-04-18T01:05:16 codes={Patient Health Questionnaire 2 item (Reported)} 
+DR-447 DiagnosticReport ref={EN-415,OB-427} stat=final date=2024-04-18T01:46:14 codes={Drug Abuse Screening Test-10} 
+DV-187 Device ref={} stat=active codes={Home-use sleep apnea recording system} deviceName=Home-use sleep apnea recording system
+DV-196 Device ref={} stat=active codes={Home continuous positive airway pressure unit} deviceName=Home continuous positive airway pressure unit
+DV-197 Device ref={} stat=active codes={Respiratory humidifier} deviceName=Respiratory humidifier
+DV-259 Device ref={} stat=active codes={Dental x-ray system} deviceName=Dental x-ray system
+SD-110 SupplyDelivery ref={} stat=completed date=2017-04-20T00:59:51 codes={Dental equipment} type=Device quantity=[1]
+SD-111 SupplyDelivery ref={} stat=completed date=2017-04-20T00:59:51 codes={Conventional release periodontal gel} type=Device quantity=[1]
+SD-112 SupplyDelivery ref={} stat=completed date=2017-04-20T00:59:51 codes={Dental floss} type=Device quantity=[1]
+SD-170 SupplyDelivery ref={} stat=completed date=2020-04-23T00:42:16 codes={Dental equipment} type=Device quantity=[1]
+SD-171 SupplyDelivery ref={} stat=completed date=2020-04-23T00:42:16 codes={Conventional release periodontal gel} type=Device quantity=[1]
+SD-172 SupplyDelivery ref={} stat=completed date=2020-04-23T00:42:16 codes={Dental floss} type=Device quantity=[1]
+SD-198 SupplyDelivery ref={} stat=completed date=2022-02-17T06:31:23 codes={Continuous positive airway pressure nasal oxygen cannula} type=Device quantity=[1]
+SD-199 SupplyDelivery ref={} stat=completed date=2022-02-17T06:31:23 codes={Air filter, device} type=Device quantity=[5]
+SD-200 SupplyDelivery ref={} stat=completed date=2022-02-17T06:31:23 codes={Medical air low pressure tubing} type=Device quantity=[1]
+SD-201 SupplyDelivery ref={} stat=completed date=2022-02-17T06:31:23 codes={Continuous positive airway pressure/Bilevel positive airway pressure mask} type=Device quantity=[1]
+SD-230 SupplyDelivery ref={} stat=completed date=2023-04-13T00:13:59 codes={Continuous positive airway pressure nasal oxygen cannula} type=Device quantity=[1]
+SD-231 SupplyDelivery ref={} stat=completed date=2023-04-13T00:13:59 codes={Air filter, device} type=Device quantity=[5]
+SD-232 SupplyDelivery ref={} stat=completed date=2023-04-13T00:13:59 codes={Medical air low pressure tubing} type=Device quantity=[1]
+SD-233 SupplyDelivery ref={} stat=completed date=2023-04-13T00:13:59 codes={Continuous positive airway pressure/Bilevel positive airway pressure mask} type=Device quantity=[1]
+SD-260 SupplyDelivery ref={} stat=completed date=2023-04-27T00:51:41 codes={Dental equipment} type=Device quantity=[1]
+SD-261 SupplyDelivery ref={} stat=completed date=2023-04-27T00:51:41 codes={Conventional release periodontal gel} type=Device quantity=[1]
+SD-262 SupplyDelivery ref={} stat=completed date=2023-04-27T00:51:41 codes={Dental floss} type=Device quantity=[1]
+SD-435 SupplyDelivery ref={} stat=completed date=2024-04-18T00:17:42 codes={CPAP/BPAP oral mask} type=Device quantity=[1]
+SD-436 SupplyDelivery ref={} stat=completed date=2024-04-18T00:17:42 codes={Air filter, device} type=Device quantity=[5]
+SD-437 SupplyDelivery ref={} stat=completed date=2024-04-18T00:17:42 codes={Medical air low pressure tubing} type=Device quantity=[1]
+SD-438 SupplyDelivery ref={} stat=completed date=2024-04-18T00:17:42 codes={Continuous positive airway pressure/Bilevel positive airway pressure mask} type=Device quantity=[1]
+IS-268 ImagingStudy ref={EN-250} stat=available date=2023-04-27T01:57:00 codes={Dental plain X-ray bitewing,Digital Radiography,Structure of region of internal part of mouth,Digital Intra-Oral X-Ray Image} 
+CP-41 CarePlan ref={EN-34} stat=completed date=2016-02-07T01:28:26 codes={Recommendation to avoid exercise at FIRST PSYCHIATRIC PLANNERS, INC,Deep breathing and coughing exercises at FIRST PSYCHIATRIC PLANNERS, INC,careplan-category assess-plan,Respiratory therapy,Recommendation to avoid exercise,Deep breathing and coughing exercises} text=Care Plan for Respiratory therapy.Activities: Respiratory therapyRespiratory therapy intent=order endDate=2016-02-15T01:28:26
+CP-124 CarePlan ref={EN-117,CN-119} stat=completed date=2017-07-15T23:52:00 codes={Rest, ice, compression and elevation treatment program at COMPASSIONATE CARE HOSPICE,Stretching exercises at COMPASSIONATE CARE HOSPICE,careplan-category assess-plan,Physiotherapy care plan,Rest, ice, compression and elevation treatment program,Stretching exercises} text=Care Plan for Physiotherapy care plan.Care plan is meant to treat Sprain of ankle.Activities: Physiotherapy care planPhysiotherapy care plan intent=order endDate=2017-08-04T23:52:00
+CP-203 CarePlan ref={EN-192,CN-193} stat=active date=2022-02-17T06:31:23 codes={Weight reduction regimen at FIRST PSYCHIATRIC PLANNERS, INC,Warning. Avoid alcoholic drink (qualifier value) at FIRST PSYCHIATRIC PLANNERS, INC,Continuous positive airway pressure ventilation treatment at FIRST PSYCHIATRIC PLANNERS, INC,careplan-category assess-plan,Care plan,Weight reduction regimen,Warning. Avoid alcoholic drink (qualifier value),Continuous positive airway pressure ventilation treatment} text=Care Plan for Care plan.Care plan is meant to treat Sleep apnea.Activities: Care planCare planCare plan intent=order
+CP-245 CarePlan ref={EN-208,CN-209} stat=active date=2023-04-12T23:52:00 codes={Prescribed activity/exercise education at NEW ENGLAND MEDICAL CENTER GROUP PRACTICE INC,Counseling about alcohol consumption at NEW ENGLAND MEDICAL CENTER GROUP PRACTICE INC,Dietary Approaches to Stop Hypertension diet at NEW ENGLAND MEDICAL CENTER GROUP PRACTICE INC,Smoking cessation education at NEW ENGLAND MEDICAL CENTER GROUP PRACTICE INC,careplan-category assess-plan,Lifestyle education regarding hypertension,Prescribed activity/exercise education,Counseling about alcohol consumption,Dietary Approaches to Stop Hypertension diet,Smoking cessation education} text=Care Plan for Lifestyle education regarding hypertension.Care plan is meant to treat Essential hypertension.Activities: Lifestyle education regarding hypertensionLifestyle education regarding hypertensionLifestyle education regarding hypertensionLifestyle education regarding hypertension intent=order
+MR-24 MedicationRequest ref={EN-22} stat=stopped date=2015-02-27T22:52:00 codes={Amoxicillin 250 MG Oral Capsule} intent=order requester=Dr. Rochell Stehr dosageInstruction=2 for 1.0 d sct:418577003 Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value)
+MR-27 MedicationRequest ref={EN-22} stat=stopped date=2015-02-27T22:52:00 codes={Acetaminophen 325 MG Oral Tablet} intent=order requester=Dr. Rochell Stehr dosageInstruction= Take as needed.
+MR-37 MedicationRequest ref={EN-34,CN-35} stat=stopped date=2016-02-07T01:28:26 codes={Acetaminophen 325 MG Oral Tablet} intent=order requester=Dr. Rochell Stehr
+MR-120 MedicationRequest ref={EN-117} stat=stopped date=2017-07-15T23:52:00 codes={Ibuprofen 200 MG Oral Tablet} intent=order requester=Dr. Latrisha Rippin dosageInstruction= Take as needed.
+MR-234 MedicationRequest ref={EN-208,CN-209} stat=stopped date=2023-04-12T23:52:00 codes={lisinopril 10 MG Oral Tablet} intent=order requester=Dr. Ollie Bosco dosageInstruction=1 for 1.0 d
+MR-237 MedicationRequest ref={EN-208,CN-209} stat=stopped date=2023-04-12T23:52:00 codes={lisinopril 10 MG Oral Tablet} intent=order requester=Dr. Ollie Bosco dosageInstruction=1 for 1.0 d
+MR-264 MedicationRequest ref={EN-250,CN-211,MD-263} stat=stopped date=2023-04-27T02:53:20 codes={} intent=order requester=Dr. Rochell Stehr
+MR-275 MedicationRequest ref={EN-273,CN-209} stat=stopped date=2023-05-12T23:52:00 codes={amLODIPine 2.5 MG Oral Tablet} intent=order requester=Dr. Rochell Stehr dosageInstruction=1 for 1.0 d
+MR-327 MedicationRequest ref={EN-295,CN-289} stat=stopped date=2023-12-04T01:01:46 codes={sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet} intent=order requester=Dr. Latrisha Rippin dosageInstruction=2 for 1.0 d
+MR-367 MedicationRequest ref={EN-335,CN-289} stat=stopped date=2023-12-05T15:28:54 codes={cephalexin 500 MG Oral Tablet} intent=order requester=Dr. Latrisha Rippin dosageInstruction=4 for 1.0 d
+MR-407 MedicationRequest ref={EN-375,CN-289} stat=stopped date=2023-12-07T09:34:44 codes={cephalexin 500 MG Oral Tablet} intent=order requester=Dr. Latrisha Rippin dosageInstruction=4 for 1.0 d
+MR-439 MedicationRequest ref={EN-415,CN-209} stat=active date=2024-04-17T23:52:00 codes={lisinopril 10 MG Oral Tablet} intent=order requester=Dr. Ollie Bosco dosageInstruction=1 for 1.0 d
+MR-442 MedicationRequest ref={EN-415,CN-209} stat=active date=2024-04-17T23:52:00 codes={amLODIPine 2.5 MG Oral Tablet} intent=order requester=Dr. Ollie Bosco dosageInstruction=1 for 1.0 d
+PR-36 Procedure ref={EN-34,CN-35} stat=completed date=2016-02-07T01:15:21 codes={Measurement of respiratory function} endDate=2016-02-07T01:28:26
+PR-60 Procedure ref={EN-46} stat=completed date=2016-02-17T22:52:00 codes={Assessment of health and social care needs} endDate=2016-02-17T23:22:06
+PR-61 Procedure ref={EN-46} stat=completed date=2016-02-17T23:22:06 codes={Assessment of anxiety} endDate=2016-02-17T23:42:47
+PR-62 Procedure ref={EN-46} stat=completed date=2016-02-17T23:42:47 codes={Depression screening} endDate=2016-02-17T23:57:30
+PR-63 Procedure ref={EN-46} stat=completed date=2016-02-17T23:57:30 codes={Depression screening} endDate=2016-02-18T00:17:54
+PR-64 Procedure ref={EN-46} stat=completed date=2016-02-18T00:17:54 codes={Assessment of substance use} endDate=2016-02-18T00:28:24
+PR-65 Procedure ref={EN-46} stat=completed date=2016-02-18T00:28:24 codes={Assessment using Alcohol Use Disorders Identification Test - Consumption} endDate=2016-02-18T00:49:16
+PR-88 Procedure ref={EN-75} stat=completed date=2017-04-05T23:52:00 codes={Assessment of health and social care needs} endDate=2017-04-06T00:37:03
+PR-89 Procedure ref={EN-75} stat=completed date=2017-04-06T00:37:03 codes={Screening for domestic abuse} endDate=2017-04-06T01:21:33
+PR-90 Procedure ref={EN-75} stat=completed date=2017-04-06T01:21:33 codes={Depression screening} endDate=2017-04-06T01:31:36
+PR-91 Procedure ref={EN-75} stat=completed date=2017-04-06T01:31:36 codes={Depression screening} endDate=2017-04-06T01:54:35
+PR-92 Procedure ref={EN-75} stat=completed date=2017-04-06T01:54:35 codes={Assessment of substance use} endDate=2017-04-06T02:08:48
+PR-93 Procedure ref={EN-75} stat=completed date=2017-04-06T02:08:48 codes={Screening for drug abuse} endDate=2017-04-06T02:29:05
+PR-94 Procedure ref={EN-75} stat=completed date=2017-04-06T02:29:05 codes={Patient referral for dental care} endDate=2017-04-06T02:39:13
+PR-104 Procedure ref={EN-103} stat=completed date=2017-04-19T23:52:00 codes={Dental consultation and report} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2017-04-20T00:29:13
+PR-105 Procedure ref={EN-103} stat=completed date=2017-04-20T00:29:13 codes={Dental care} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2017-04-20T00:59:51
+PR-106 Procedure ref={EN-103} stat=completed date=2017-04-20T00:59:51 codes={Removal of supragingival plaque and calculus from all teeth using dental instrument} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2017-04-20T01:32:26
+PR-107 Procedure ref={EN-103} stat=completed date=2017-04-20T01:32:26 codes={Removal of subgingival plaque and calculus from all teeth using dental instrument} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2017-04-20T02:00:57
+PR-108 Procedure ref={EN-103} stat=completed date=2017-04-20T02:00:57 codes={Examination of gingivae} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2017-04-20T02:46:11
+PR-109 Procedure ref={EN-103} stat=completed date=2017-04-20T02:46:11 codes={Oral health education} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2017-04-20T02:58:55
+PR-152 Procedure ref={EN-129} stat=completed date=2020-04-08T23:52:00 codes={Assessment of health and social care needs} endDate=2020-04-09T00:47:47
+PR-153 Procedure ref={EN-129} stat=completed date=2020-04-09T00:47:47 codes={Depression screening} endDate=2020-04-09T01:00:28
+PR-154 Procedure ref={EN-129} stat=completed date=2020-04-09T01:00:28 codes={Depression screening} endDate=2020-04-09T01:22:27
+PR-155 Procedure ref={EN-129} stat=completed date=2020-04-09T01:22:27 codes={Patient referral for dental care} endDate=2020-04-09T01:42:35
+PR-164 Procedure ref={EN-163} stat=completed date=2020-04-22T23:52:00 codes={Dental consultation and report} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2020-04-23T00:09:21
+PR-165 Procedure ref={EN-163} stat=completed date=2020-04-23T00:09:21 codes={Dental care} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2020-04-23T00:42:16
+PR-166 Procedure ref={EN-163} stat=completed date=2020-04-23T00:42:16 codes={Removal of supragingival plaque and calculus from all teeth using dental instrument} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2020-04-23T01:24:06
+PR-167 Procedure ref={EN-163} stat=completed date=2020-04-23T01:24:06 codes={Removal of subgingival plaque and calculus from all teeth using dental instrument} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2020-04-23T01:50:19
+PR-168 Procedure ref={EN-163} stat=completed date=2020-04-23T01:50:19 codes={Examination of gingivae} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2020-04-23T02:48:00
+PR-169 Procedure ref={EN-163} stat=completed date=2020-04-23T02:48:00 codes={Oral health education} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2020-04-23T03:08:13
+PR-179 Procedure ref={EN-177,CN-178} stat=completed date=2022-01-21T22:52:00 codes={Sleep apnea assessment} endDate=2022-01-21T23:47:26
+PR-180 Procedure ref={EN-177,CN-178} stat=completed date=2022-01-21T23:47:26 codes={Referral to sleep apnea clinic} endDate=2022-01-21T23:52:26
+PR-186 Procedure ref={EN-185,CN-178} stat=completed date=2022-02-03T23:52:26 codes={Sleep apnea assessment} endDate=2022-02-04T00:39:32
+PR-194 Procedure ref={EN-192,CN-178} stat=completed date=2022-02-17T00:39:32 codes={Sleep apnea assessment} endDate=2022-02-17T01:23:23
+PR-195 Procedure ref={EN-192} stat=completed date=2022-02-17T01:23:23 codes={Continuous positive airway pressure titration} endDate=2022-02-17T06:31:23
+PR-226 Procedure ref={EN-208,CN-178} stat=completed date=2023-04-12T23:52:00 codes={Sleep apnea assessment} endDate=2023-04-13T00:13:59
+PR-227 Procedure ref={EN-208} stat=completed date=2023-04-12T23:52:00 codes={Assessment of health and social care needs} endDate=2023-04-13T00:35:51
+PR-228 Procedure ref={EN-208} stat=completed date=2023-04-13T00:35:51 codes={Assessment of anxiety} endDate=2023-04-13T00:52:49
+PR-229 Procedure ref={EN-208,CN-211} stat=completed date=2023-04-13T00:52:49 codes={Patient referral for dental care} endDate=2023-04-13T01:05:31
+PR-251 Procedure ref={EN-250,CN-211} stat=completed date=2023-04-26T23:52:00 codes={Dental consultation and report} endDate=2023-04-27T00:24:58
+PR-252 Procedure ref={EN-250,CN-211} stat=completed date=2023-04-27T00:24:58 codes={Dental care} endDate=2023-04-27T00:51:41
+PR-253 Procedure ref={EN-250,CN-211} stat=completed date=2023-04-27T00:51:41 codes={Removal of supragingival plaque and calculus from all teeth using dental instrument} endDate=2023-04-27T01:40:19
+PR-254 Procedure ref={EN-250,CN-211} stat=completed date=2023-04-27T01:40:19 codes={Removal of subgingival plaque and calculus from all teeth using dental instrument} endDate=2023-04-27T01:57:00
+PR-255 Procedure ref={EN-250} stat=completed date=2023-04-27T01:57:00 codes={Dental plain X-ray bitewing} endDate=2023-04-27T02:27:00
+PR-256 Procedure ref={EN-250,CN-211} stat=completed date=2023-04-27T01:57:00 codes={Examination of gingivae} endDate=2023-04-27T02:53:20
+PR-257 Procedure ref={EN-250,CN-211} stat=completed date=2023-04-27T02:53:20 codes={Dental fluoride treatment} endDate=2023-04-27T03:15:00
+PR-258 Procedure ref={EN-250,CN-211} stat=completed date=2023-04-27T03:15:00 codes={Oral health education} endDate=2023-04-27T03:27:10
+PR-317 Procedure ref={EN-295} stat=completed date=2023-12-03T22:52:00 codes={History taking} endDate=2023-12-03T23:02:11
+PR-318 Procedure ref={EN-295} stat=completed date=2023-12-03T23:02:11 codes={Discussion about signs and symptoms} endDate=2023-12-03T23:14:42
+PR-319 Procedure ref={EN-295} stat=completed date=2023-12-03T23:14:42 codes={Triage: emergency center} endDate=2023-12-03T23:29:42
+PR-320 Procedure ref={EN-295} stat=completed date=2023-12-03T23:29:42 codes={Taking patient vital signs} endDate=2023-12-03T23:34:42
+PR-321 Procedure ref={EN-295} stat=completed date=2023-12-03T23:34:42 codes={History and physical examination with evaluation and management of patient} endDate=2023-12-04T00:21:46
+PR-322 Procedure ref={EN-295} stat=completed date=2023-12-04T00:21:46 codes={Urinalysis with reflex to microscopy and culture} endDate=2023-12-04T00:31:46
+PR-323 Procedure ref={EN-295} stat=completed date=2023-12-04T00:31:46 codes={Urine specimen collection} endDate=2023-12-04T00:41:46
+PR-324 Procedure ref={EN-295} stat=completed date=2023-12-04T00:41:46 codes={Urinalysis with reflex to microscopy and culture} endDate=2023-12-04T00:51:46
+PR-325 Procedure ref={EN-295} stat=completed date=2023-12-04T00:51:46 codes={Antibiotic therapy} endDate=2023-12-04T01:01:46
+PR-326 Procedure ref={EN-295} stat=completed date=2023-12-04T01:01:46 codes={Patient discharge} endDate=2023-12-04T01:11:46
+PR-357 Procedure ref={EN-335} stat=completed date=2023-12-05T13:11:46 codes={History taking} endDate=2023-12-05T13:19:52
+PR-358 Procedure ref={EN-335} stat=completed date=2023-12-05T13:19:52 codes={Discussion about signs and symptoms} endDate=2023-12-05T13:33:10
+PR-359 Procedure ref={EN-335} stat=completed date=2023-12-05T13:33:10 codes={Triage: emergency center} endDate=2023-12-05T13:48:10
+PR-360 Procedure ref={EN-335} stat=completed date=2023-12-05T13:48:10 codes={Taking patient vital signs} endDate=2023-12-05T13:53:10
+PR-361 Procedure ref={EN-335} stat=completed date=2023-12-05T13:53:10 codes={History and physical examination with evaluation and management of patient} endDate=2023-12-05T14:48:54
+PR-362 Procedure ref={EN-335} stat=completed date=2023-12-05T14:48:54 codes={Urinalysis with reflex to microscopy and culture} endDate=2023-12-05T14:58:54
+PR-363 Procedure ref={EN-335} stat=completed date=2023-12-05T14:58:54 codes={Urine specimen collection} endDate=2023-12-05T15:08:54
+PR-364 Procedure ref={EN-335} stat=completed date=2023-12-05T15:08:54 codes={Urinalysis with reflex to microscopy and culture} endDate=2023-12-05T15:18:54
+PR-365 Procedure ref={EN-335} stat=completed date=2023-12-05T15:18:54 codes={Antibiotic therapy} endDate=2023-12-05T15:28:54
+PR-366 Procedure ref={EN-335} stat=completed date=2023-12-05T15:28:54 codes={Patient discharge} endDate=2023-12-05T15:38:54
+PR-397 Procedure ref={EN-375} stat=completed date=2023-12-07T07:38:54 codes={History taking} endDate=2023-12-07T07:47:51
+PR-398 Procedure ref={EN-375} stat=completed date=2023-12-07T07:47:51 codes={Discussion about signs and symptoms} endDate=2023-12-07T08:00:59
+PR-399 Procedure ref={EN-375} stat=completed date=2023-12-07T08:00:59 codes={Triage: emergency center} endDate=2023-12-07T08:15:59
+PR-400 Procedure ref={EN-375} stat=completed date=2023-12-07T08:15:59 codes={Taking patient vital signs} endDate=2023-12-07T08:20:59
+PR-401 Procedure ref={EN-375} stat=completed date=2023-12-07T08:20:59 codes={History and physical examination with evaluation and management of patient} endDate=2023-12-07T08:54:44
+PR-402 Procedure ref={EN-375} stat=completed date=2023-12-07T08:54:44 codes={Urinalysis with reflex to microscopy and culture} endDate=2023-12-07T09:04:44
+PR-403 Procedure ref={EN-375} stat=completed date=2023-12-07T09:04:44 codes={Urine specimen collection} endDate=2023-12-07T09:14:44
+PR-404 Procedure ref={EN-375} stat=completed date=2023-12-07T09:14:44 codes={Urinalysis with reflex to microscopy and culture} endDate=2023-12-07T09:24:44
+PR-405 Procedure ref={EN-375} stat=completed date=2023-12-07T09:24:44 codes={Antibiotic therapy} endDate=2023-12-07T09:34:44
+PR-406 Procedure ref={EN-375} stat=completed date=2023-12-07T09:34:44 codes={Patient discharge} endDate=2023-12-07T09:44:44
+PR-428 Procedure ref={EN-415} stat=completed date=2024-04-17T23:52:00 codes={Medication reconciliation} endDate=2024-04-18T00:07:00
+PR-429 Procedure ref={EN-415,CN-178} stat=completed date=2024-04-17T23:52:00 codes={Sleep apnea assessment} endDate=2024-04-18T00:17:42
+PR-430 Procedure ref={EN-415} stat=completed date=2024-04-17T23:52:00 codes={Assessment of health and social care needs} endDate=2024-04-18T00:31:40
+PR-431 Procedure ref={EN-415} stat=completed date=2024-04-18T00:31:40 codes={Depression screening} endDate=2024-04-18T00:42:36
+PR-432 Procedure ref={EN-415} stat=completed date=2024-04-18T00:42:36 codes={Depression screening} endDate=2024-04-18T01:05:16
+PR-433 Procedure ref={EN-415} stat=completed date=2024-04-18T01:05:16 codes={Assessment of substance use} endDate=2024-04-18T01:18:07
+PR-434 Procedure ref={EN-415} stat=completed date=2024-04-18T01:18:07 codes={Screening for drug abuse} endDate=2024-04-18T01:46:14
+OB-48 Observation ref={EN-46} stat=final date=2016-02-17T22:52:00 codes={Body Height (value = 169.4 cm)} category=Vital
+OB-49 Observation ref={EN-46} stat=final date=2016-02-17T22:52:00 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 3 {score})} category=Vital
+OB-50 Observation ref={EN-46} stat=final date=2016-02-17T22:52:00 codes={Body Weight (value = 66.5 kg)} category=Vital
+OB-51 Observation ref={EN-46} stat=final date=2016-02-17T22:52:00 codes={Body mass index (BMI) (value = 23.16 kg/m2)} category=Vital
+OB-52 Observation ref={EN-46} stat=final date=2016-02-17T22:52:00 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 87 mm(Hg),Systolic Blood Pressure 114 mm(Hg)} category=Vital
+OB-53 Observation ref={EN-46} stat=final date=2016-02-17T22:52:00 codes={Heart rate (value = 99 /min)} category=Vital
+OB-54 Observation ref={EN-46} stat=final date=2016-02-17T22:52:00 codes={Respiratory rate (value = 15 /min)} category=Vital
+OB-55 Observation ref={EN-46} stat=final date=2016-02-17T22:52:00 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-56 Observation ref={EN-46} stat=final date=2016-02-17T23:22:06 codes={Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences (PRAPARE),Question= Within the last year, have you been afraid of your partner or ex-partner? Answer= No,Question= Do you feel physically and emotionally safe where you currently live? Answer= Yes,Question= Are you a refugee? Answer= No,Question= In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Answer= No,Question= Stress level Answer= Somewhat,Question= How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Answer= 3 to 5 times a week,Question= Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Answer= No,Question= In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Answer= I choose not to answer this question,What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 18842 /a,Question= Primary insurance Answer= Medicaid,Question= Employment status - current Answer= Full-time work,Question= Highest level of education Answer= More than high school,Address 711 Gulgowski Throughway,Question= Are you worried about losing your housing? Answer= No,Question= Housing status Answer= I have housing,How many people are living or staying at this address? 4 {#},Question= Preferred language Answer= English,Question= Have you been discharged from the armed forces of the United States? Answer= No,Question= At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? Answer= No,Question= Race Answer= Asian,Question= Do you consider yourself Hispanic/Latino? Answer= No} category=Survey
+OB-57 Observation ref={EN-46} stat=final date=2016-02-17T23:42:47 codes={Generalized anxiety disorder 7 item total score (Reported.PHQ) (value = 1 {score})} category=Survey
+OB-58 Observation ref={EN-46} stat=final date=2016-02-18T00:17:54 codes={Patient Health Questionnaire 2 item total score (Reported) (value = 0 {score})} category=Survey
+OB-59 Observation ref={EN-46} stat=final date=2016-02-18T00:49:16 codes={Total score (AUDIT-C) (value = 1 {score})} category=Survey
+OB-76 Observation ref={EN-75} stat=final date=2017-04-05T23:52:00 codes={Body Height (value = 169.4 cm)} category=Vital
+OB-77 Observation ref={EN-75} stat=final date=2017-04-05T23:52:00 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 2 {score})} category=Vital
+OB-78 Observation ref={EN-75} stat=final date=2017-04-05T23:52:00 codes={Body Weight (value = 67.8 kg)} category=Vital
+OB-79 Observation ref={EN-75} stat=final date=2017-04-05T23:52:00 codes={Body mass index (BMI) (value = 23.62 kg/m2)} category=Vital
+OB-80 Observation ref={EN-75} stat=final date=2017-04-05T23:52:00 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 79 mm(Hg),Systolic Blood Pressure 112 mm(Hg)} category=Vital
+OB-81 Observation ref={EN-75} stat=final date=2017-04-05T23:52:00 codes={Heart rate (value = 94 /min)} category=Vital
+OB-82 Observation ref={EN-75} stat=final date=2017-04-05T23:52:00 codes={Respiratory rate (value = 16 /min)} category=Vital
+OB-83 Observation ref={EN-75} stat=final date=2017-04-05T23:52:00 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-84 Observation ref={EN-75} stat=final date=2017-04-06T00:37:03 codes={Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences (PRAPARE),Question= Within the last year, have you been afraid of your partner or ex-partner? Answer= No,Question= Do you feel physically and emotionally safe where you currently live? Answer= Yes,Question= Are you a refugee? Answer= No,Question= In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Answer= No,Question= Stress level Answer= Not at all,Question= How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Answer= 5 or more times a week,Question= Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Answer= No,Question= In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Answer= Utilities,What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 18842 /a,Question= Primary insurance Answer= Medicaid,Question= Employment status - current Answer= Full-time work,Question= Highest level of education Answer= More than high school,Address 711 Gulgowski Throughway,Question= Are you worried about losing your housing? Answer= No,Question= Housing status Answer= I have housing,How many people are living or staying at this address? 4 {#},Question= Preferred language Answer= English,Question= Have you been discharged from the armed forces of the United States? Answer= No,Question= At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? Answer= Yes,Question= Race Answer= Asian,Question= Do you consider yourself Hispanic/Latino? Answer= No} category=Survey
+OB-85 Observation ref={EN-75} stat=final date=2017-04-06T01:21:33 codes={Total score (value = 0 {score})} category=Survey
+OB-86 Observation ref={EN-75} stat=final date=2017-04-06T01:54:35 codes={Patient Health Questionnaire 2 item total score (Reported) (value = 2 {score})} category=Survey
+OB-87 Observation ref={EN-75} stat=final date=2017-04-06T02:29:05 codes={Total score (value = 2 {score})} category=Survey
+OB-131 Observation ref={EN-129} stat=final date=2020-04-08T23:52:00 codes={Body Height (value = 169.4 cm)} category=Vital
+OB-132 Observation ref={EN-129} stat=final date=2020-04-08T23:52:00 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 0 {score})} category=Vital
+OB-133 Observation ref={EN-129} stat=final date=2020-04-08T23:52:00 codes={Body Weight (value = 72.3 kg)} category=Vital
+OB-134 Observation ref={EN-129} stat=final date=2020-04-08T23:52:00 codes={Body mass index (BMI) (value = 25.2 kg/m2)} category=Vital
+OB-135 Observation ref={EN-129} stat=final date=2020-04-08T23:52:00 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 79 mm(Hg),Systolic Blood Pressure 112 mm(Hg)} category=Vital
+OB-136 Observation ref={EN-129} stat=final date=2020-04-08T23:52:00 codes={Heart rate (value = 68 /min)} category=Vital
+OB-137 Observation ref={EN-129} stat=final date=2020-04-08T23:52:00 codes={Respiratory rate (value = 12 /min)} category=Vital
+OB-138 Observation ref={EN-129} stat=final date=2020-04-08T23:52:00 codes={Leukocytes (#/volume) in Blood by Automated count (value = 6.5349 10*3/uL)} category=Laboratory
+OB-139 Observation ref={EN-129} stat=final date=2020-04-08T23:52:00 codes={Erythrocytes (#/volume) in Blood by Automated count (value = 4.6865 10*6/uL)} category=Laboratory
+OB-140 Observation ref={EN-129} stat=final date=2020-04-08T23:52:00 codes={Hemoglobin (Mass/volume) in Blood (value = 15.821 g/dL)} category=Laboratory
+OB-141 Observation ref={EN-129} stat=final date=2020-04-08T23:52:00 codes={Hematocrit (Volume Fraction) of Blood by Automated count (value = 49.169 %)} category=Laboratory
+OB-142 Observation ref={EN-129} stat=final date=2020-04-08T23:52:00 codes={MCV (Entitic volume) by Automated count (value = 88.76 fL)} category=Laboratory
+OB-143 Observation ref={EN-129} stat=final date=2020-04-08T23:52:00 codes={MCH (Entitic mass) by Automated count (value = 29.97 pg)} category=Laboratory
+OB-144 Observation ref={EN-129} stat=final date=2020-04-08T23:52:00 codes={MCHC (Mass/volume) by Automated count (value = 34.98 g/dL)} category=Laboratory
+OB-145 Observation ref={EN-129} stat=final date=2020-04-08T23:52:00 codes={Erythrocyte distribution width (Entitic volume) by Automated count (value = 42.62 fL)} category=Laboratory
+OB-146 Observation ref={EN-129} stat=final date=2020-04-08T23:52:00 codes={Platelets (#/volume) in Blood by Automated count (value = 245.85 10*3/uL)} category=Laboratory
+OB-147 Observation ref={EN-129} stat=final date=2020-04-08T23:52:00 codes={Platelet distribution width (Entitic volume) in Blood by Automated count (value = 363.17 fL)} category=Laboratory
+OB-148 Observation ref={EN-129} stat=final date=2020-04-08T23:52:00 codes={Platelet mean volume (Entitic volume) in Blood by Automated count (value = 11.67 fL)} category=Laboratory
+OB-149 Observation ref={EN-129} stat=final date=2020-04-08T23:52:00 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-150 Observation ref={EN-129} stat=final date=2020-04-09T00:47:47 codes={Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences (PRAPARE),Question= Within the last year, have you been afraid of your partner or ex-partner? Answer= No,Question= Do you feel physically and emotionally safe where you currently live? Answer= Yes,Question= Are you a refugee? Answer= No,Question= In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Answer= No,Question= Stress level Answer= Not at all,Question= How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Answer= Less than once a week,Question= Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Answer= No,Question= In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Answer= Food,What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 18842 /a,Question= Primary insurance Answer= Medicaid,Question= Employment status - current Answer= Full-time work,Question= Highest level of education Answer= More than high school,Address 711 Gulgowski Throughway,Question= Are you worried about losing your housing? Answer= No,Question= Housing status Answer= I have housing,How many people are living or staying at this address? 4 {#},Question= Preferred language Answer= English,Question= Have you been discharged from the armed forces of the United States? Answer= No,Question= At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? Answer= No,Question= Race Answer= Asian,Question= Do you consider yourself Hispanic/Latino? Answer= No} category=Survey
+OB-151 Observation ref={EN-129} stat=final date=2020-04-09T01:22:27 codes={Patient Health Questionnaire 2 item total score (Reported) (value = 2 {score})} category=Survey
+OB-212 Observation ref={EN-208} stat=final date=2023-04-12T23:52:00 codes={Body Height (value = 169.4 cm)} category=Vital
+OB-213 Observation ref={EN-208} stat=final date=2023-04-12T23:52:00 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 3 {score})} category=Vital
+OB-214 Observation ref={EN-208} stat=final date=2023-04-12T23:52:00 codes={Body Weight (value = 76.7 kg)} category=Vital
+OB-215 Observation ref={EN-208} stat=final date=2023-04-12T23:52:00 codes={Body mass index (BMI) (value = 26.73 kg/m2)} category=Vital
+OB-216 Observation ref={EN-208} stat=final date=2023-04-12T23:52:00 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 113 mm(Hg),Systolic Blood Pressure 152 mm(Hg)} category=Vital
+OB-217 Observation ref={EN-208} stat=final date=2023-04-12T23:52:00 codes={Heart rate (value = 70 /min)} category=Vital
+OB-218 Observation ref={EN-208} stat=final date=2023-04-12T23:52:00 codes={Respiratory rate (value = 15 /min)} category=Vital
+OB-219 Observation ref={EN-208} stat=final date=2023-04-12T23:52:00 codes={Cholesterol (Mass/volume) in Serum or Plasma (value = 200.68 mg/dL)} category=Laboratory
+OB-220 Observation ref={EN-208} stat=final date=2023-04-12T23:52:00 codes={Triglycerides (value = 115.76 mg/dL)} category=Laboratory
+OB-221 Observation ref={EN-208} stat=final date=2023-04-12T23:52:00 codes={Low Density Lipoprotein Cholesterol (value = 118.46 mg/dL)} category=Laboratory
+OB-222 Observation ref={EN-208} stat=final date=2023-04-12T23:52:00 codes={Cholesterol in HDL (Mass/volume) in Serum or Plasma (value = 59.07 mg/dL)} category=Laboratory
+OB-223 Observation ref={EN-208} stat=final date=2023-04-12T23:52:00 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-224 Observation ref={EN-208} stat=final date=2023-04-13T00:35:51 codes={Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences (PRAPARE),Question= Within the last year, have you been afraid of your partner or ex-partner? Answer= No,Question= Do you feel physically and emotionally safe where you currently live? Answer= Yes,Question= Are you a refugee? Answer= No,Question= In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Answer= No,Question= Stress level Answer= Somewhat,Question= How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Answer= 3 to 5 times a week,Question= Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Answer= No,Question= In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Answer= I choose not to answer this question,What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 18842 /a,Question= Primary insurance Answer= I choose not to answer this question,Question= Employment status - current Answer= Full-time work,Question= Highest level of education Answer= More than high school,Address 711 Gulgowski Throughway,Question= Are you worried about losing your housing? Answer= No,Question= Housing status Answer= I have housing,How many people are living or staying at this address? 4 {#},Question= Preferred language Answer= English,Question= Have you been discharged from the armed forces of the United States? Answer= No,Question= At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? Answer= No,Question= Race Answer= Asian,Question= Do you consider yourself Hispanic/Latino? Answer= No} category=Survey
+OB-225 Observation ref={EN-208} stat=final date=2023-04-13T00:52:49 codes={Generalized anxiety disorder 7 item total score (Reported.PHQ) (value = 3 {score})} category=Survey
+OB-274 Observation ref={EN-273} stat=final date=2023-05-12T23:52:00 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 104 mm(Hg),Systolic Blood Pressure 147 mm(Hg)} category=Vital
+OB-283 Observation ref={EN-282} stat=final date=2023-07-11T23:52:00 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 98 mm(Hg),Systolic Blood Pressure 122 mm(Hg)} category=Vital
+OB-290 Observation ref={EN-288} stat=final date=2023-09-09T23:52:00 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 87 mm(Hg),Systolic Blood Pressure 135 mm(Hg)} category=Vital
+OB-296 Observation ref={EN-295} stat=final date=2023-12-03T23:34:42 codes={Emergency severity index (value = Needs 1 resource)} category=Exam
+OB-297 Observation ref={EN-295} stat=final date=2023-12-03T23:34:42 codes={Blood Pressure,Diastolic Blood Pressure 66.979 mm(Hg),Systolic Blood Pressure 144.69 mm(Hg)} category=Vital
+OB-298 Observation ref={EN-295} stat=final date=2023-12-03T23:34:42 codes={Heart rate (value = 75.412 /min)} category=Vital
+OB-299 Observation ref={EN-295} stat=final date=2023-12-03T23:34:42 codes={Respiratory rate (value = 13.433 /min)} category=Vital
+OB-300 Observation ref={EN-295} stat=final date=2023-12-03T23:34:42 codes={Oxygen saturation in Arterial blood,Oxygen saturation in Arterial blood by Pulse oximetry} category=Vital valueQuantity=99.441 %
+OB-301 Observation ref={EN-295} stat=final date=2023-12-03T23:34:42 codes={Body temperature,Oral temperature} category=Vital valueQuantity=36.704 Cel
+OB-302 Observation ref={EN-295} stat=final date=2023-12-04T00:51:46 codes={Glucose (Mass/volume) in Urine by Test strip (value = 3.9916 mg/dL)} category=Laboratory
+OB-303 Observation ref={EN-295} stat=final date=2023-12-04T00:51:46 codes={Ketones (Presence) in Urine by Test strip (value = Urine ketones not detected)} category=Laboratory
+OB-304 Observation ref={EN-295} stat=final date=2023-12-04T00:51:46 codes={Specific gravity of Urine by Test strip (value = 1.018 {nominal})} category=Laboratory
+OB-305 Observation ref={EN-295} stat=final date=2023-12-04T00:51:46 codes={pH of Urine by Test strip (value = 5.7684 pH)} category=Laboratory
+OB-306 Observation ref={EN-295} stat=final date=2023-12-04T00:51:46 codes={Protein (Mass/volume) in Urine by Test strip (value = 6.804 mg/dL)} category=Laboratory
+OB-307 Observation ref={EN-295} stat=final date=2023-12-04T00:51:46 codes={Nitrite (Presence) in Urine by Test strip (value = Nitrite detected in urine)} category=Laboratory
+OB-308 Observation ref={EN-295} stat=final date=2023-12-04T00:51:46 codes={Hemoglobin (Presence) in Urine by Test strip (value = Urine blood test = +)} category=Laboratory
+OB-309 Observation ref={EN-295} stat=final date=2023-12-04T00:51:46 codes={Leukocyte esterase (Presence) in Urine by Test strip (value = Urine leukocyte test one plus)} category=Laboratory
+OB-310 Observation ref={EN-295} stat=final date=2023-12-04T00:51:46 codes={WBCs (value = 39.971 /(HPF))} category=Laboratory
+OB-311 Observation ref={EN-295} stat=final date=2023-12-04T00:51:46 codes={RBCs (value = 2.4413 /(HPF))} category=Laboratory
+OB-312 Observation ref={EN-295} stat=final date=2023-12-04T00:51:46 codes={Epithelial Cells (value = 1.0026 /(HPF))} category=Laboratory
+OB-313 Observation ref={EN-295} stat=final date=2023-12-04T00:51:46 codes={Casts (value = Urine microscopy: no casts)} category=Laboratory
+OB-314 Observation ref={EN-295} stat=final date=2023-12-04T00:51:46 codes={Mucus Threads (value = Mucus in urine)} category=Laboratory
+OB-315 Observation ref={EN-295} stat=final date=2023-12-04T00:51:46 codes={Bacteria (value = Finding of presence of bacteria)} category=Laboratory
+OB-316 Observation ref={EN-295} stat=final date=2023-12-04T00:51:46 codes={Bacteria identified in Urine by Culture (value = Greater than 100,000 colony forming units per mL Escherichia coli)} category=Laboratory
+OB-336 Observation ref={EN-335} stat=final date=2023-12-05T13:53:10 codes={Emergency severity index (value = Needs 1 resource)} category=Exam
+OB-337 Observation ref={EN-335} stat=final date=2023-12-05T13:53:10 codes={Blood Pressure,Diastolic Blood Pressure 65.439 mm(Hg),Systolic Blood Pressure 116.69 mm(Hg)} category=Vital
+OB-338 Observation ref={EN-335} stat=final date=2023-12-05T13:53:10 codes={Heart rate (value = 77.822 /min)} category=Vital
+OB-339 Observation ref={EN-335} stat=final date=2023-12-05T13:53:10 codes={Respiratory rate (value = 18.028 /min)} category=Vital
+OB-340 Observation ref={EN-335} stat=final date=2023-12-05T13:53:10 codes={Oxygen saturation in Arterial blood,Oxygen saturation in Arterial blood by Pulse oximetry} category=Vital valueQuantity=99.143 %
+OB-341 Observation ref={EN-335} stat=final date=2023-12-05T13:53:10 codes={Body temperature,Oral temperature} category=Vital valueQuantity=37.755 Cel
+OB-342 Observation ref={EN-335} stat=final date=2023-12-05T15:18:54 codes={Glucose (Mass/volume) in Urine by Test strip (value = 2.3122 mg/dL)} category=Laboratory
+OB-343 Observation ref={EN-335} stat=final date=2023-12-05T15:18:54 codes={Ketones (Presence) in Urine by Test strip (value = Urine ketones not detected)} category=Laboratory
+OB-344 Observation ref={EN-335} stat=final date=2023-12-05T15:18:54 codes={Specific gravity of Urine by Test strip (value = 1.0133 {nominal})} category=Laboratory
+OB-345 Observation ref={EN-335} stat=final date=2023-12-05T15:18:54 codes={pH of Urine by Test strip (value = 5.5018 pH)} category=Laboratory
+OB-346 Observation ref={EN-335} stat=final date=2023-12-05T15:18:54 codes={Protein (Mass/volume) in Urine by Test strip (value = 6.7589 mg/dL)} category=Laboratory
+OB-347 Observation ref={EN-335} stat=final date=2023-12-05T15:18:54 codes={Nitrite (Presence) in Urine by Test strip (value = Nitrite detected in urine)} category=Laboratory
+OB-348 Observation ref={EN-335} stat=final date=2023-12-05T15:18:54 codes={Hemoglobin (Presence) in Urine by Test strip (value = Urine blood test = +)} category=Laboratory
+OB-349 Observation ref={EN-335} stat=final date=2023-12-05T15:18:54 codes={Leukocyte esterase (Presence) in Urine by Test strip (value = Urine leukocyte test one plus)} category=Laboratory
+OB-350 Observation ref={EN-335} stat=final date=2023-12-05T15:18:54 codes={WBCs (value = 33.337 /(HPF))} category=Laboratory
+OB-351 Observation ref={EN-335} stat=final date=2023-12-05T15:18:54 codes={RBCs (value = 1.9935 /(HPF))} category=Laboratory
+OB-352 Observation ref={EN-335} stat=final date=2023-12-05T15:18:54 codes={Epithelial Cells (value = 2.3283 /(HPF))} category=Laboratory
+OB-353 Observation ref={EN-335} stat=final date=2023-12-05T15:18:54 codes={Casts (value = Urine microscopy: no casts)} category=Laboratory
+OB-354 Observation ref={EN-335} stat=final date=2023-12-05T15:18:54 codes={Mucus Threads (value = Mucus in urine)} category=Laboratory
+OB-355 Observation ref={EN-335} stat=final date=2023-12-05T15:18:54 codes={Bacteria (value = Finding of presence of bacteria)} category=Laboratory
+OB-356 Observation ref={EN-335} stat=final date=2023-12-05T15:18:54 codes={Bacteria identified in Urine by Culture (value = Greater than 100,000 colony forming units per mL Escherichia coli)} category=Laboratory
+OB-376 Observation ref={EN-375} stat=final date=2023-12-07T08:20:59 codes={Emergency severity index (value = Needs no resources)} category=Exam
+OB-377 Observation ref={EN-375} stat=final date=2023-12-07T08:20:59 codes={Blood Pressure,Diastolic Blood Pressure 95.272 mm(Hg),Systolic Blood Pressure 154.93 mm(Hg)} category=Vital
+OB-378 Observation ref={EN-375} stat=final date=2023-12-07T08:20:59 codes={Heart rate (value = 86.383 /min)} category=Vital
+OB-379 Observation ref={EN-375} stat=final date=2023-12-07T08:20:59 codes={Respiratory rate (value = 13.185 /min)} category=Vital
+OB-380 Observation ref={EN-375} stat=final date=2023-12-07T08:20:59 codes={Oxygen saturation in Arterial blood,Oxygen saturation in Arterial blood by Pulse oximetry} category=Vital valueQuantity=99.022 %
+OB-381 Observation ref={EN-375} stat=final date=2023-12-07T08:20:59 codes={Body temperature,Oral temperature} category=Vital valueQuantity=38.114 Cel
+OB-382 Observation ref={EN-375} stat=final date=2023-12-07T09:24:44 codes={Glucose (Mass/volume) in Urine by Test strip (value = 7.6512 mg/dL)} category=Laboratory
+OB-383 Observation ref={EN-375} stat=final date=2023-12-07T09:24:44 codes={Ketones (Presence) in Urine by Test strip (value = Urine ketones not detected)} category=Laboratory
+OB-384 Observation ref={EN-375} stat=final date=2023-12-07T09:24:44 codes={Specific gravity of Urine by Test strip (value = 1.0175 {nominal})} category=Laboratory
+OB-385 Observation ref={EN-375} stat=final date=2023-12-07T09:24:44 codes={pH of Urine by Test strip (value = 5.2247 pH)} category=Laboratory
+OB-386 Observation ref={EN-375} stat=final date=2023-12-07T09:24:44 codes={Protein (Mass/volume) in Urine by Test strip (value = 5.1237 mg/dL)} category=Laboratory
+OB-387 Observation ref={EN-375} stat=final date=2023-12-07T09:24:44 codes={Nitrite (Presence) in Urine by Test strip (value = Nitrite detected in urine)} category=Laboratory
+OB-388 Observation ref={EN-375} stat=final date=2023-12-07T09:24:44 codes={Hemoglobin (Presence) in Urine by Test strip (value = Urine blood test = +)} category=Laboratory
+OB-389 Observation ref={EN-375} stat=final date=2023-12-07T09:24:44 codes={Leukocyte esterase (Presence) in Urine by Test strip (value = Urine leukocyte test one plus)} category=Laboratory
+OB-390 Observation ref={EN-375} stat=final date=2023-12-07T09:24:44 codes={WBCs (value = 49.402 /(HPF))} category=Laboratory
+OB-391 Observation ref={EN-375} stat=final date=2023-12-07T09:24:44 codes={RBCs (value = 2.1909 /(HPF))} category=Laboratory
+OB-392 Observation ref={EN-375} stat=final date=2023-12-07T09:24:44 codes={Epithelial Cells (value = 2.1136 /(HPF))} category=Laboratory
+OB-393 Observation ref={EN-375} stat=final date=2023-12-07T09:24:44 codes={Casts (value = Urine microscopy: no casts)} category=Laboratory
+OB-394 Observation ref={EN-375} stat=final date=2023-12-07T09:24:44 codes={Mucus Threads (value = Mucus in urine)} category=Laboratory
+OB-395 Observation ref={EN-375} stat=final date=2023-12-07T09:24:44 codes={Bacteria (value = Finding of presence of bacteria)} category=Laboratory
+OB-396 Observation ref={EN-375} stat=final date=2023-12-07T09:24:44 codes={Bacteria identified in Urine by Culture (value = Greater than 100,000 colony forming units per mL Escherichia coli)} category=Laboratory
+OB-417 Observation ref={EN-415} stat=final date=2024-04-17T23:52:00 codes={Body Height (value = 169.4 cm)} category=Vital
+OB-418 Observation ref={EN-415} stat=final date=2024-04-17T23:52:00 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 4 {score})} category=Vital
+OB-419 Observation ref={EN-415} stat=final date=2024-04-17T23:52:00 codes={Body Weight (value = 78.1 kg)} category=Vital
+OB-420 Observation ref={EN-415} stat=final date=2024-04-17T23:52:00 codes={Body mass index (BMI) (value = 27.23 kg/m2)} category=Vital
+OB-421 Observation ref={EN-415} stat=final date=2024-04-17T23:52:00 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 88 mm(Hg),Systolic Blood Pressure 128 mm(Hg)} category=Vital
+OB-422 Observation ref={EN-415} stat=final date=2024-04-17T23:52:00 codes={Heart rate (value = 75 /min)} category=Vital
+OB-423 Observation ref={EN-415} stat=final date=2024-04-17T23:52:00 codes={Respiratory rate (value = 15 /min)} category=Vital
+OB-424 Observation ref={EN-415} stat=final date=2024-04-17T23:52:00 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-425 Observation ref={EN-415} stat=final date=2024-04-18T00:31:40 codes={Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences (PRAPARE),Question= Within the last year, have you been afraid of your partner or ex-partner? Answer= No,Question= Do you feel physically and emotionally safe where you currently live? Answer= No,Question= Are you a refugee? Answer= No,Question= In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Answer= No,Question= Stress level Answer= A little bit,Question= How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Answer= 5 or more times a week,Question= Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Answer= No,Question= In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Answer= Child care,What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 18842 /a,Question= Primary insurance Answer= I choose not to answer this question,Question= Employment status - current Answer= Full-time work,Question= Highest level of education Answer= More than high school,Address 711 Gulgowski Throughway,Question= Are you worried about losing your housing? Answer= No,Question= Housing status Answer= I have housing,How many people are living or staying at this address? 4 {#},Question= Preferred language Answer= English,Question= Have you been discharged from the armed forces of the United States? Answer= No,Question= At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? Answer= No,Question= Race Answer= Asian,Question= Do you consider yourself Hispanic/Latino? Answer= No} category=Survey
+OB-426 Observation ref={EN-415} stat=final date=2024-04-18T01:05:16 codes={Patient Health Questionnaire 2 item total score (Reported) (value = 2 {score})} category=Survey
+OB-427 Observation ref={EN-415} stat=final date=2024-04-18T01:46:14 codes={Total score (value = 2 {score})} category=Survey
+IM-66 Immunization ref={EN-46} stat=completed date=2016-02-17T22:52:00 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-67 Immunization ref={EN-46} stat=completed date=2016-02-17T22:52:00 codes={Hep B, adult} primarySource=True
+IM-95 Immunization ref={EN-75} stat=completed date=2017-04-05T23:52:00 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-156 Immunization ref={EN-129} stat=completed date=2020-04-08T23:52:00 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-240 Immunization ref={EN-208} stat=completed date=2023-04-12T23:52:00 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-241 Immunization ref={EN-208} stat=completed date=2023-04-12T23:52:00 codes={Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed} primarySource=True
+IM-445 Immunization ref={EN-415} stat=completed date=2024-04-17T23:52:00 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+MD-263 Medication ref={} stat=active codes={sodium fluoride 0.0272 MG/MG Oral Gel} 
+MA-267 MedicationAdministration ref={EN-250,CN-211} stat=completed date=2023-04-27T02:53:20 codes={sodium fluoride 0.0272 MG/MG Oral Gel} 

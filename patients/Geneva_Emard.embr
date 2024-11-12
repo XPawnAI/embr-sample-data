@@ -1,0 +1,151 @@
+PT-1 Patient ref={} stat=living codes={} name=Geneva Elsa Emard gender=female birthDate=2023-02-01 address=327 Rosenbaum Well Suite 75, Reading, MA, 01801 maritalStatus=Never Married multipleBirthBoolean=False communication=English (United States)
+EN-2 Encounter ref={} stat=finished date=2023-02-01T00:44:24 codes={Well child visit,ambulatory} provider=performer Dr. Sherwood Aufderhar facility=DUTTON FAMILY CARE ASSOCIATES LLP endDate=2023-02-01T00:59:24
+EN-31 Encounter ref={} stat=finished date=2023-03-08T00:44:24 codes={Well child visit,ambulatory} provider=performer Dr. Sherwood Aufderhar facility=DUTTON FAMILY CARE ASSOCIATES LLP endDate=2023-03-08T00:59:24
+EN-48 Encounter ref={} stat=finished date=2023-05-10T01:44:24 codes={Well child visit,ambulatory} provider=performer Dr. Sherwood Aufderhar facility=DUTTON FAMILY CARE ASSOCIATES LLP endDate=2023-05-10T01:59:24
+EN-70 Encounter ref={} stat=finished date=2023-07-12T01:44:24 codes={Well child visit,ambulatory} provider=performer Dr. Sherwood Aufderhar facility=DUTTON FAMILY CARE ASSOCIATES LLP endDate=2023-07-12T01:59:24
+EN-92 Encounter ref={} stat=finished date=2023-10-11T01:44:24 codes={Well child visit,ambulatory} provider=performer Dr. Sherwood Aufderhar facility=DUTTON FAMILY CARE ASSOCIATES LLP endDate=2023-10-11T01:59:24
+EN-113 Encounter ref={} stat=finished date=2024-01-10T00:44:24 codes={Well child visit,ambulatory} provider=performer Dr. Sherwood Aufderhar facility=DUTTON FAMILY CARE ASSOCIATES LLP endDate=2024-01-10T00:59:24
+EN-129 Encounter ref={} stat=finished date=2024-02-27T01:44:24 codes={Encounter for symptom,Acute bronchitis,ambulatory} provider=performer Dr. Chanelle Schuster facility=TUFTS MEDICAL CENTER endDate=2024-02-27T02:09:02
+EN-141 Encounter ref={} stat=finished date=2024-03-06T00:44:24 codes={Urgent care clinic (environment),ambulatory} provider=performer Dr. Dan Swift facility=HALLMARK HEALTH URGENT CARE PHYSICIANS LLC endDate=2024-03-06T00:59:24
+EN-163 Encounter ref={} stat=finished date=2024-04-10T01:44:24 codes={Well child visit,ambulatory} provider=performer Dr. Sherwood Aufderhar facility=DUTTON FAMILY CARE ASSOCIATES LLP endDate=2024-04-10T01:59:24
+EN-179 Encounter ref={} stat=finished date=2024-07-10T01:44:24 codes={Well child visit,ambulatory} provider=performer Dr. Sherwood Aufderhar facility=DUTTON FAMILY CARE ASSOCIATES LLP endDate=2024-07-10T01:59:24
+CN-3 Condition ref={EN-2} stat=confirmed date=2023-02-01T00:44:24 codes={Medication review due} onsetDateTime=2023-02-01T00:44:24 abatementDateTime=2023-03-08T00:44:24
+CN-49 Condition ref={EN-48} stat=confirmed date=2023-05-10T01:44:24 codes={Medication review due} onsetDateTime=2023-05-10T01:44:24 abatementDateTime=2023-05-10T01:44:24
+CN-71 Condition ref={EN-70} stat=confirmed date=2023-07-12T01:44:24 codes={Medication review due} onsetDateTime=2023-07-12T01:44:24 abatementDateTime=2023-07-12T01:44:24
+CN-93 Condition ref={EN-92} stat=confirmed date=2023-10-11T01:44:24 codes={Medication review due} onsetDateTime=2023-10-11T01:44:24 abatementDateTime=2024-01-10T00:44:24
+CN-130 Condition ref={EN-129} stat=confirmed date=2024-02-27T01:44:24 codes={Acute bronchitis} onsetDateTime=2024-02-27T01:44:24 abatementDateTime=2024-03-05T02:09:02
+CN-142 Condition ref={EN-141} stat=confirmed date=2024-03-06T00:44:24 codes={Medication review due} onsetDateTime=2024-03-06T00:44:24 abatementDateTime=2024-03-06T00:44:24
+CN-164 Condition ref={EN-163} stat=confirmed date=2024-04-10T01:44:24 codes={Medication review due} onsetDateTime=2024-04-10T01:44:24
+DR-26 DiagnosticReport ref={EN-2,OB-13,OB-14,OB-15,OB-16,OB-17,OB-18,OB-19,OB-20,OB-21,OB-22,OB-23} stat=final date=2023-02-01T00:44:24 codes={CBC panel - Blood by Automated count} category=['v2-0074:LAB Laboratory'] provider=DUTTON FAMILY CARE ASSOCIATES LLP
+CP-136 CarePlan ref={EN-129} stat=completed date=2024-02-27T02:09:02 codes={Recommendation to avoid exercise at TUFTS MEDICAL CENTER,Deep breathing and coughing exercises at TUFTS MEDICAL CENTER,careplan-category assess-plan,Respiratory therapy,Recommendation to avoid exercise,Deep breathing and coughing exercises} text=Care Plan for Respiratory therapy.Activities: Respiratory therapyRespiratory therapy intent=order endDate=2024-03-05T02:09:02
+MR-132 MedicationRequest ref={EN-129,CN-130} stat=stopped date=2024-02-27T02:09:02 codes={Acetaminophen 325 MG Oral Tablet} intent=order requester=Dr. Chanelle Schuster
+PR-42 Procedure ref={EN-31} stat=completed date=2023-03-08T00:44:24 codes={Medication reconciliation} endDate=2023-03-08T00:59:24
+PR-60 Procedure ref={EN-48} stat=completed date=2023-05-10T01:44:24 codes={Medication reconciliation} endDate=2023-05-10T01:59:24
+PR-82 Procedure ref={EN-70} stat=completed date=2023-07-12T01:44:24 codes={Medication reconciliation} endDate=2023-07-12T01:59:24
+PR-124 Procedure ref={EN-113} stat=completed date=2024-01-10T00:44:24 codes={Medication reconciliation} endDate=2024-01-10T00:59:24
+PR-131 Procedure ref={EN-129,CN-130} stat=completed date=2024-02-27T01:44:24 codes={Measurement of respiratory function} endDate=2024-02-27T02:09:02
+PR-153 Procedure ref={EN-141} stat=completed date=2024-03-06T00:44:24 codes={Medication reconciliation} endDate=2024-03-06T00:59:24
+OB-4 Observation ref={EN-2} stat=final date=2023-02-01T00:44:24 codes={Body Height (value = 50.2 cm)} category=Vital
+OB-5 Observation ref={EN-2} stat=final date=2023-02-01T00:44:24 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 2 {score})} category=Vital
+OB-6 Observation ref={EN-2} stat=final date=2023-02-01T00:44:24 codes={Body Weight (value = 4.3 kg)} category=Vital
+OB-7 Observation ref={EN-2} stat=final date=2023-02-01T00:44:24 codes={Weight-for-length Per age and sex (value = 98.209 %)} category=Vital
+OB-8 Observation ref={EN-2} stat=final date=2023-02-01T00:44:24 codes={Head Occipital-frontal circumference Percentile (value = 29.47 %)} category=Vital
+OB-9 Observation ref={EN-2} stat=final date=2023-02-01T00:44:24 codes={Head Occipital-frontal circumference (value = 33.86 cm)} category=Vital
+OB-10 Observation ref={EN-2} stat=final date=2023-02-01T00:44:24 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 90 mm(Hg),Systolic Blood Pressure 128 mm(Hg)} category=Vital
+OB-11 Observation ref={EN-2} stat=final date=2023-02-01T00:44:24 codes={Heart rate (value = 82 /min)} category=Vital
+OB-12 Observation ref={EN-2} stat=final date=2023-02-01T00:44:24 codes={Respiratory rate (value = 15 /min)} category=Vital
+OB-13 Observation ref={EN-2} stat=final date=2023-02-01T00:44:24 codes={Leukocytes (#/volume) in Blood by Automated count (value = 10.149 10*3/uL)} category=Laboratory
+OB-14 Observation ref={EN-2} stat=final date=2023-02-01T00:44:24 codes={Erythrocytes (#/volume) in Blood by Automated count (value = 4.6293 10*6/uL)} category=Laboratory
+OB-15 Observation ref={EN-2} stat=final date=2023-02-01T00:44:24 codes={Hemoglobin (Mass/volume) in Blood (value = 14.112 g/dL)} category=Laboratory
+OB-16 Observation ref={EN-2} stat=final date=2023-02-01T00:44:24 codes={Hematocrit (Volume Fraction) of Blood by Automated count (value = 40.764 %)} category=Laboratory
+OB-17 Observation ref={EN-2} stat=final date=2023-02-01T00:44:24 codes={MCV (Entitic volume) by Automated count (value = 85.187 fL)} category=Laboratory
+OB-18 Observation ref={EN-2} stat=final date=2023-02-01T00:44:24 codes={MCH (Entitic mass) by Automated count (value = 29.621 pg)} category=Laboratory
+OB-19 Observation ref={EN-2} stat=final date=2023-02-01T00:44:24 codes={MCHC (Mass/volume) by Automated count (value = 34.905 g/dL)} category=Laboratory
+OB-20 Observation ref={EN-2} stat=final date=2023-02-01T00:44:24 codes={Erythrocyte distribution width (Entitic volume) by Automated count (value = 44.907 fL)} category=Laboratory
+OB-21 Observation ref={EN-2} stat=final date=2023-02-01T00:44:24 codes={Platelets (#/volume) in Blood by Automated count (value = 335.87 10*3/uL)} category=Laboratory
+OB-22 Observation ref={EN-2} stat=final date=2023-02-01T00:44:24 codes={Platelet distribution width (Entitic volume) in Blood by Automated count (value = 355.06 fL)} category=Laboratory
+OB-23 Observation ref={EN-2} stat=final date=2023-02-01T00:44:24 codes={Platelet mean volume (Entitic volume) in Blood by Automated count (value = 10.24 fL)} category=Laboratory
+OB-24 Observation ref={EN-2} stat=final date=2023-02-01T00:44:24 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-32 Observation ref={EN-31} stat=final date=2023-03-08T00:44:24 codes={Body Height (value = 53.8 cm)} category=Vital
+OB-33 Observation ref={EN-31} stat=final date=2023-03-08T00:44:24 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 0 {score})} category=Vital
+OB-34 Observation ref={EN-31} stat=final date=2023-03-08T00:44:24 codes={Body Weight (value = 5.1 kg)} category=Vital
+OB-35 Observation ref={EN-31} stat=final date=2023-03-08T00:44:24 codes={Weight-for-length Per age and sex (value = 91.981 %)} category=Vital
+OB-36 Observation ref={EN-31} stat=final date=2023-03-08T00:44:24 codes={Head Occipital-frontal circumference Percentile (value = 29.47 %)} category=Vital
+OB-37 Observation ref={EN-31} stat=final date=2023-03-08T00:44:24 codes={Head Occipital-frontal circumference (value = 37.22 cm)} category=Vital
+OB-38 Observation ref={EN-31} stat=final date=2023-03-08T00:44:24 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 87 mm(Hg),Systolic Blood Pressure 127 mm(Hg)} category=Vital
+OB-39 Observation ref={EN-31} stat=final date=2023-03-08T00:44:24 codes={Heart rate (value = 98 /min)} category=Vital
+OB-40 Observation ref={EN-31} stat=final date=2023-03-08T00:44:24 codes={Respiratory rate (value = 14 /min)} category=Vital
+OB-41 Observation ref={EN-31} stat=final date=2023-03-08T00:44:24 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-50 Observation ref={EN-48} stat=final date=2023-05-10T01:44:24 codes={Body Height (value = 59 cm)} category=Vital
+OB-51 Observation ref={EN-48} stat=final date=2023-05-10T01:44:24 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 2 {score})} category=Vital
+OB-52 Observation ref={EN-48} stat=final date=2023-05-10T01:44:24 codes={Body Weight (value = 6.6 kg)} category=Vital
+OB-53 Observation ref={EN-48} stat=final date=2023-05-10T01:44:24 codes={Weight-for-length Per age and sex (value = 92.981 %)} category=Vital
+OB-54 Observation ref={EN-48} stat=final date=2023-05-10T01:44:24 codes={Head Occipital-frontal circumference Percentile (value = 29.47 %)} category=Vital
+OB-55 Observation ref={EN-48} stat=final date=2023-05-10T01:44:24 codes={Head Occipital-frontal circumference (value = 39.76 cm)} category=Vital
+OB-56 Observation ref={EN-48} stat=final date=2023-05-10T01:44:24 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 89 mm(Hg),Systolic Blood Pressure 128 mm(Hg)} category=Vital
+OB-57 Observation ref={EN-48} stat=final date=2023-05-10T01:44:24 codes={Heart rate (value = 62 /min)} category=Vital
+OB-58 Observation ref={EN-48} stat=final date=2023-05-10T01:44:24 codes={Respiratory rate (value = 13 /min)} category=Vital
+OB-59 Observation ref={EN-48} stat=final date=2023-05-10T01:44:24 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-72 Observation ref={EN-70} stat=final date=2023-07-12T01:44:24 codes={Body Height (value = 62.8 cm)} category=Vital
+OB-73 Observation ref={EN-70} stat=final date=2023-07-12T01:44:24 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 0 {score})} category=Vital
+OB-74 Observation ref={EN-70} stat=final date=2023-07-12T01:44:24 codes={Body Weight (value = 7.8 kg)} category=Vital
+OB-75 Observation ref={EN-70} stat=final date=2023-07-12T01:44:24 codes={Weight-for-length Per age and sex (value = 93.54 %)} category=Vital
+OB-76 Observation ref={EN-70} stat=final date=2023-07-12T01:44:24 codes={Head Occipital-frontal circumference Percentile (value = 29.47 %)} category=Vital
+OB-77 Observation ref={EN-70} stat=final date=2023-07-12T01:44:24 codes={Head Occipital-frontal circumference (value = 41.4 cm)} category=Vital
+OB-78 Observation ref={EN-70} stat=final date=2023-07-12T01:44:24 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 87 mm(Hg),Systolic Blood Pressure 132 mm(Hg)} category=Vital
+OB-79 Observation ref={EN-70} stat=final date=2023-07-12T01:44:24 codes={Heart rate (value = 72 /min)} category=Vital
+OB-80 Observation ref={EN-70} stat=final date=2023-07-12T01:44:24 codes={Respiratory rate (value = 14 /min)} category=Vital
+OB-81 Observation ref={EN-70} stat=final date=2023-07-12T01:44:24 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-94 Observation ref={EN-92} stat=final date=2023-10-11T01:44:24 codes={Body Height (value = 67.5 cm)} category=Vital
+OB-95 Observation ref={EN-92} stat=final date=2023-10-11T01:44:24 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 3 {score})} category=Vital
+OB-96 Observation ref={EN-92} stat=final date=2023-10-11T01:44:24 codes={Body Weight (value = 9.3 kg)} category=Vital
+OB-97 Observation ref={EN-92} stat=final date=2023-10-11T01:44:24 codes={Weight-for-length Per age and sex (value = 94.869 %)} category=Vital
+OB-98 Observation ref={EN-92} stat=final date=2023-10-11T01:44:24 codes={Head Occipital-frontal circumference Percentile (value = 29.47 %)} category=Vital
+OB-99 Observation ref={EN-92} stat=final date=2023-10-11T01:44:24 codes={Head Occipital-frontal circumference (value = 43.06 cm)} category=Vital
+OB-100 Observation ref={EN-92} stat=final date=2023-10-11T01:44:24 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 92 mm(Hg),Systolic Blood Pressure 127 mm(Hg)} category=Vital
+OB-101 Observation ref={EN-92} stat=final date=2023-10-11T01:44:24 codes={Heart rate (value = 67 /min)} category=Vital
+OB-102 Observation ref={EN-92} stat=final date=2023-10-11T01:44:24 codes={Respiratory rate (value = 15 /min)} category=Vital
+OB-103 Observation ref={EN-92} stat=final date=2023-10-11T01:44:24 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-114 Observation ref={EN-113} stat=final date=2024-01-10T00:44:24 codes={Body Height (value = 71.4 cm)} category=Vital
+OB-115 Observation ref={EN-113} stat=final date=2024-01-10T00:44:24 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 4 {score})} category=Vital
+OB-116 Observation ref={EN-113} stat=final date=2024-01-10T00:44:24 codes={Body Weight (value = 10.4 kg)} category=Vital
+OB-117 Observation ref={EN-113} stat=final date=2024-01-10T00:44:24 codes={Weight-for-length Per age and sex (value = 97.26 %)} category=Vital
+OB-118 Observation ref={EN-113} stat=final date=2024-01-10T00:44:24 codes={Head Occipital-frontal circumference Percentile (value = 29.47 %)} category=Vital
+OB-119 Observation ref={EN-113} stat=final date=2024-01-10T00:44:24 codes={Head Occipital-frontal circumference (value = 44.2 cm)} category=Vital
+OB-120 Observation ref={EN-113} stat=final date=2024-01-10T00:44:24 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 91 mm(Hg),Systolic Blood Pressure 124 mm(Hg)} category=Vital
+OB-121 Observation ref={EN-113} stat=final date=2024-01-10T00:44:24 codes={Heart rate (value = 68 /min)} category=Vital
+OB-122 Observation ref={EN-113} stat=final date=2024-01-10T00:44:24 codes={Respiratory rate (value = 14 /min)} category=Vital
+OB-123 Observation ref={EN-113} stat=final date=2024-01-10T00:44:24 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-143 Observation ref={EN-141} stat=final date=2024-03-06T00:44:24 codes={Body Height (value = 73.7 cm)} category=Vital
+OB-144 Observation ref={EN-141} stat=final date=2024-03-06T00:44:24 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 1 {score})} category=Vital
+OB-145 Observation ref={EN-141} stat=final date=2024-03-06T00:44:24 codes={Body Weight (value = 11.1 kg)} category=Vital
+OB-146 Observation ref={EN-141} stat=final date=2024-03-06T00:44:24 codes={Weight-for-length Per age and sex (value = 96.941 %)} category=Vital
+OB-147 Observation ref={EN-141} stat=final date=2024-03-06T00:44:24 codes={Head Occipital-frontal circumference Percentile (value = 29.47 %)} category=Vital
+OB-148 Observation ref={EN-141} stat=final date=2024-03-06T00:44:24 codes={Head Occipital-frontal circumference (value = 44.79 cm)} category=Vital
+OB-149 Observation ref={EN-141} stat=final date=2024-03-06T00:44:24 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 89 mm(Hg),Systolic Blood Pressure 126 mm(Hg)} category=Vital
+OB-150 Observation ref={EN-141} stat=final date=2024-03-06T00:44:24 codes={Heart rate (value = 85 /min)} category=Vital
+OB-151 Observation ref={EN-141} stat=final date=2024-03-06T00:44:24 codes={Respiratory rate (value = 15 /min)} category=Vital
+OB-152 Observation ref={EN-141} stat=final date=2024-03-06T00:44:24 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-165 Observation ref={EN-163} stat=final date=2024-04-10T01:44:24 codes={Body Height (value = 74.8 cm)} category=Vital
+OB-166 Observation ref={EN-163} stat=final date=2024-04-10T01:44:24 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 3 {score})} category=Vital
+OB-167 Observation ref={EN-163} stat=final date=2024-04-10T01:44:24 codes={Body Weight (value = 11.4 kg)} category=Vital
+OB-168 Observation ref={EN-163} stat=final date=2024-04-10T01:44:24 codes={Weight-for-length Per age and sex (value = 97.26 %)} category=Vital
+OB-169 Observation ref={EN-163} stat=final date=2024-04-10T01:44:24 codes={Head Occipital-frontal circumference Percentile (value = 29.47 %)} category=Vital
+OB-170 Observation ref={EN-163} stat=final date=2024-04-10T01:44:24 codes={Head Occipital-frontal circumference (value = 45.05 cm)} category=Vital
+OB-171 Observation ref={EN-163} stat=final date=2024-04-10T01:44:24 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 90 mm(Hg),Systolic Blood Pressure 128 mm(Hg)} category=Vital
+OB-172 Observation ref={EN-163} stat=final date=2024-04-10T01:44:24 codes={Heart rate (value = 66 /min)} category=Vital
+OB-173 Observation ref={EN-163} stat=final date=2024-04-10T01:44:24 codes={Respiratory rate (value = 13 /min)} category=Vital
+OB-174 Observation ref={EN-163} stat=final date=2024-04-10T01:44:24 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-180 Observation ref={EN-179} stat=final date=2024-07-10T01:44:24 codes={Body Height (value = 77.9 cm)} category=Vital
+OB-181 Observation ref={EN-179} stat=final date=2024-07-10T01:44:24 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 0 {score})} category=Vital
+OB-182 Observation ref={EN-179} stat=final date=2024-07-10T01:44:24 codes={Body Weight (value = 12.1 kg)} category=Vital
+OB-183 Observation ref={EN-179} stat=final date=2024-07-10T01:44:24 codes={Weight-for-length Per age and sex (value = 97.122 %)} category=Vital
+OB-184 Observation ref={EN-179} stat=final date=2024-07-10T01:44:24 codes={Head Occipital-frontal circumference Percentile (value = 29.47 %)} category=Vital
+OB-185 Observation ref={EN-179} stat=final date=2024-07-10T01:44:24 codes={Head Occipital-frontal circumference (value = 45.7 cm)} category=Vital
+OB-186 Observation ref={EN-179} stat=final date=2024-07-10T01:44:24 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 86 mm(Hg),Systolic Blood Pressure 122 mm(Hg)} category=Vital
+OB-187 Observation ref={EN-179} stat=final date=2024-07-10T01:44:24 codes={Heart rate (value = 77 /min)} category=Vital
+OB-188 Observation ref={EN-179} stat=final date=2024-07-10T01:44:24 codes={Respiratory rate (value = 13 /min)} category=Vital
+OB-189 Observation ref={EN-179} stat=final date=2024-07-10T01:44:24 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+IM-25 Immunization ref={EN-2} stat=completed date=2023-02-01T00:44:24 codes={Hep B, adolescent or pediatric} primarySource=True
+IM-43 Immunization ref={EN-31} stat=completed date=2023-03-08T00:44:24 codes={Hep B, adolescent or pediatric} primarySource=True
+IM-61 Immunization ref={EN-48} stat=completed date=2023-05-10T01:44:24 codes={Hib (PRP-OMP)} primarySource=True
+IM-62 Immunization ref={EN-48} stat=completed date=2023-05-10T01:44:24 codes={rotavirus, monovalent} primarySource=True
+IM-63 Immunization ref={EN-48} stat=completed date=2023-05-10T01:44:24 codes={IPV} primarySource=True
+IM-64 Immunization ref={EN-48} stat=completed date=2023-05-10T01:44:24 codes={DTaP} primarySource=True
+IM-65 Immunization ref={EN-48} stat=completed date=2023-05-10T01:44:24 codes={Pneumococcal conjugate PCV 13} primarySource=True
+IM-83 Immunization ref={EN-70} stat=completed date=2023-07-12T01:44:24 codes={Hib (PRP-OMP)} primarySource=True
+IM-84 Immunization ref={EN-70} stat=completed date=2023-07-12T01:44:24 codes={rotavirus, monovalent} primarySource=True
+IM-85 Immunization ref={EN-70} stat=completed date=2023-07-12T01:44:24 codes={IPV} primarySource=True
+IM-86 Immunization ref={EN-70} stat=completed date=2023-07-12T01:44:24 codes={DTaP} primarySource=True
+IM-87 Immunization ref={EN-70} stat=completed date=2023-07-12T01:44:24 codes={Pneumococcal conjugate PCV 13} primarySource=True
+IM-104 Immunization ref={EN-92} stat=completed date=2023-10-11T01:44:24 codes={IPV} primarySource=True
+IM-105 Immunization ref={EN-92} stat=completed date=2023-10-11T01:44:24 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-106 Immunization ref={EN-92} stat=completed date=2023-10-11T01:44:24 codes={DTaP} primarySource=True
+IM-107 Immunization ref={EN-92} stat=completed date=2023-10-11T01:44:24 codes={Pneumococcal conjugate PCV 13} primarySource=True
+IM-108 Immunization ref={EN-92} stat=completed date=2023-10-11T01:44:24 codes={Hep B, adolescent or pediatric} primarySource=True
+IM-154 Immunization ref={EN-141} stat=completed date=2024-03-06T00:44:24 codes={Hib (PRP-OMP)} primarySource=True
+IM-155 Immunization ref={EN-141} stat=completed date=2024-03-06T00:44:24 codes={varicella} primarySource=True
+IM-156 Immunization ref={EN-141} stat=completed date=2024-03-06T00:44:24 codes={MMR} primarySource=True
+IM-157 Immunization ref={EN-141} stat=completed date=2024-03-06T00:44:24 codes={Pneumococcal conjugate PCV 13} primarySource=True
+IM-158 Immunization ref={EN-141} stat=completed date=2024-03-06T00:44:24 codes={Hep A, ped/adol, 2 dose} primarySource=True
+IM-190 Immunization ref={EN-179} stat=completed date=2024-07-10T01:44:24 codes={DTaP} primarySource=True

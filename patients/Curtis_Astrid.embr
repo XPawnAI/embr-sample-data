@@ -1,0 +1,421 @@
+PT-1 Patient ref={} stat=living codes={} name=Mrs. Curtis Astrid Emard gender=female birthDate=1994-02-22 address=997 Hoeger Heights Unit 5, Deerfield, MA, 01342 maritalStatus=Married multipleBirthBoolean=False communication=English (United States)
+EN-2 Encounter ref={} stat=finished date=2012-04-17T08:17:43 codes={General examination of patient,ambulatory} provider=performer Dr. Emory Nicolas facility=COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED endDate=2012-04-17T09:01:38
+EN-9 Encounter ref={} stat=finished date=2014-08-05T08:17:43 codes={Consultation for treatment,Contraception care,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2014-08-05T08:32:43
+EN-18 Encounter ref={} stat=finished date=2014-11-25T07:17:43 codes={Encounter for symptom,Acute infective cystitis,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2014-11-25T08:57:19
+EN-51 Encounter ref={} stat=finished date=2014-11-26T01:57:19 codes={Encounter for symptom,Acute infective cystitis,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2014-11-26T03:29:51
+EN-84 Encounter ref={} stat=finished date=2014-11-26T23:29:51 codes={Encounter for symptom,Acute infective cystitis,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2014-11-27T00:56:56
+EN-117 Encounter ref={} stat=finished date=2015-07-31T08:17:43 codes={Consultation for treatment,Contraception care,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2015-07-31T08:32:43
+EN-125 Encounter ref={} stat=finished date=2016-04-26T08:17:43 codes={General examination of patient,ambulatory} provider=performer Dr. Emory Nicolas facility=COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED endDate=2016-04-26T09:04:51
+EN-171 Encounter ref={} stat=finished date=2017-09-19T08:17:43 codes={Prenatal initial visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2017-09-19T08:32:43
+EN-199 Encounter ref={} stat=finished date=2017-10-17T08:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2017-10-17T08:32:43
+EN-207 Encounter ref={} stat=finished date=2017-11-14T07:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2017-11-14T07:32:43
+EN-216 Encounter ref={} stat=finished date=2017-12-12T07:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2017-12-12T07:32:43
+EN-223 Encounter ref={} stat=finished date=2018-01-09T07:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2018-01-09T07:32:43
+EN-230 Encounter ref={} stat=finished date=2018-02-06T07:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2018-02-06T07:32:43
+EN-242 Encounter ref={} stat=finished date=2018-03-06T07:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2018-03-06T07:32:43
+EN-249 Encounter ref={} stat=finished date=2018-04-03T08:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2018-04-03T08:32:43
+EN-257 Encounter ref={} stat=finished date=2018-04-17T08:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2018-04-17T08:32:43
+EN-264 Encounter ref={} stat=finished date=2018-04-24T08:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2018-04-24T08:32:43
+EN-271 Encounter ref={} stat=finished date=2018-05-01T08:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2018-05-01T08:32:43
+EN-278 Encounter ref={} stat=finished date=2018-05-08T08:17:43 codes={Obstetric emergency hospital admission,Normal pregnancy,emergency} provider=performer Dr. Leon Lehner facility=BUCKLEY-GREENFIELD HEALTHCARE CENTER endDate=2018-05-08T09:17:43
+EN-285 Encounter ref={} stat=finished date=2018-06-19T08:17:43 codes={Postnatal visit,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2018-06-19T08:32:43
+EN-293 Encounter ref={} stat=finished date=2018-07-15T08:17:43 codes={Consultation for treatment,Contraception care,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2018-07-15T08:32:43
+EN-301 Encounter ref={} stat=finished date=2019-04-30T08:17:43 codes={General examination of patient,ambulatory} provider=performer Dr. Emory Nicolas facility=COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED endDate=2019-04-30T08:57:57
+EN-325 Encounter ref={} stat=finished date=2019-07-10T08:17:43 codes={Consultation for treatment,Contraception care,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2019-07-10T08:42:41
+EN-336 Encounter ref={} stat=finished date=2020-07-04T08:42:41 codes={Consultation for treatment,Contraception care,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2020-07-04T09:12:21
+EN-347 Encounter ref={} stat=finished date=2021-08-10T08:17:43 codes={Patient encounter procedure,Contraception care,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2021-08-10T08:39:09
+EN-353 Encounter ref={} stat=finished date=2021-09-28T08:17:43 codes={Prenatal initial visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2021-09-28T08:32:43
+EN-381 Encounter ref={} stat=finished date=2021-10-26T08:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2021-10-26T08:32:43
+EN-389 Encounter ref={} stat=finished date=2021-11-23T07:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2021-11-23T07:32:43
+EN-398 Encounter ref={} stat=finished date=2021-12-21T07:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2021-12-21T07:32:43
+EN-405 Encounter ref={} stat=finished date=2022-01-18T07:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2022-01-18T07:32:43
+EN-412 Encounter ref={} stat=finished date=2022-02-15T07:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2022-02-15T07:32:43
+EN-424 Encounter ref={} stat=finished date=2022-03-15T08:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2022-03-15T08:32:43
+EN-431 Encounter ref={} stat=finished date=2022-04-12T08:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2022-04-12T08:32:43
+EN-439 Encounter ref={} stat=finished date=2022-04-26T08:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2022-04-26T08:32:43
+EN-446 Encounter ref={} stat=finished date=2022-05-03T08:17:43 codes={General examination of patient,ambulatory} provider=performer Dr. Emory Nicolas facility=COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED endDate=2022-05-03T09:10:58
+EN-494 Encounter ref={} stat=finished date=2022-05-10T08:17:43 codes={Encounter for problem,Anemia,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2022-05-10T09:44:23
+EN-515 Encounter ref={} stat=finished date=2022-05-17T08:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2022-05-17T08:32:43
+EN-522 Encounter ref={} stat=finished date=2022-05-24T08:17:43 codes={Obstetric emergency hospital admission,Normal pregnancy,emergency} provider=performer Dr. Leon Lehner facility=BUCKLEY-GREENFIELD HEALTHCARE CENTER endDate=2022-05-24T09:17:43
+EN-528 Encounter ref={} stat=finished date=2022-07-05T08:17:43 codes={Postnatal visit,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2022-07-05T08:32:43
+EN-536 Encounter ref={} stat=finished date=2022-07-12T08:17:43 codes={Consultation for treatment,Contraception care,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2022-07-12T08:32:43
+EN-544 Encounter ref={} stat=finished date=2023-09-26T08:17:43 codes={Prenatal initial visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2023-09-26T08:32:43
+EN-572 Encounter ref={} stat=finished date=2023-10-24T08:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2023-10-24T08:32:43
+EN-580 Encounter ref={} stat=finished date=2023-11-21T07:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2023-11-21T07:32:43
+EN-589 Encounter ref={} stat=finished date=2023-12-19T07:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2023-12-19T07:32:43
+EN-596 Encounter ref={} stat=finished date=2024-01-16T07:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2024-01-16T07:32:43
+EN-603 Encounter ref={} stat=finished date=2024-02-13T07:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2024-02-13T07:32:43
+EN-615 Encounter ref={} stat=finished date=2024-03-12T08:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2024-03-12T08:32:43
+EN-622 Encounter ref={} stat=finished date=2024-04-09T08:17:43 codes={Prenatal visit,Normal pregnancy,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2024-04-09T08:32:43
+EN-630 Encounter ref={} stat=finished date=2024-04-23T08:17:43 codes={Obstetric emergency hospital admission,Normal pregnancy,emergency} provider=performer Dr. Leon Lehner facility=BUCKLEY-GREENFIELD HEALTHCARE CENTER endDate=2024-04-23T09:17:43
+EN-636 Encounter ref={} stat=finished date=2024-06-04T08:17:43 codes={Postnatal visit,ambulatory} provider=performer Dr. Erick Mayer facility=BAYSTATE FRANKLIN MEDICAL CENTER endDate=2024-06-04T08:32:43
+CN-3 Condition ref={EN-2} stat=confirmed date=2012-04-17T09:01:38 codes={Educated to high school level} onsetDateTime=2012-04-17T09:01:38
+CN-4 Condition ref={EN-2} stat=confirmed date=2012-04-17T09:01:38 codes={Full-time employment} onsetDateTime=2012-04-17T09:01:38 abatementDateTime=2016-04-26T09:04:51
+CN-10 Condition ref={EN-9} stat=confirmed date=2014-11-25T07:17:43 codes={Acute infective cystitis} onsetDateTime=2014-11-25T07:17:43 abatementDateTime=2014-11-27T08:56:56
+CN-126 Condition ref={EN-125} stat=confirmed date=2016-04-26T08:17:43 codes={Medication review due} onsetDateTime=2016-04-26T08:17:43 abatementDateTime=2016-04-26T08:17:43
+CN-127 Condition ref={EN-125} stat=confirmed date=2016-04-26T09:04:51 codes={Unemployed} onsetDateTime=2016-04-26T09:04:51 abatementDateTime=2019-04-30T08:57:57
+CN-128 Condition ref={EN-125} stat=confirmed date=2016-04-26T10:59:59 codes={Misuses drugs} onsetDateTime=2016-04-26T10:59:59
+CN-172 Condition ref={EN-171} stat=confirmed date=2017-09-19T08:17:43 codes={Normal pregnancy} onsetDateTime=2017-09-19T08:17:43 abatementDateTime=2018-05-08T08:17:43
+CN-302 Condition ref={EN-301} stat=confirmed date=2019-04-30T08:17:43 codes={Medication review due} onsetDateTime=2019-04-30T08:17:43
+CN-303 Condition ref={EN-301} stat=confirmed date=2019-04-30T08:57:57 codes={Part-time employment} onsetDateTime=2019-04-30T08:57:57 abatementDateTime=2022-05-03T09:10:58
+CN-304 Condition ref={EN-301} stat=confirmed date=2019-04-30T08:57:57 codes={Stress} onsetDateTime=2019-04-30T08:57:57 abatementDateTime=2022-05-03T09:10:58
+CN-305 Condition ref={EN-301} stat=confirmed date=2019-04-30T08:57:57 codes={Reports of violence in the environment} onsetDateTime=2019-04-30T08:57:57 abatementDateTime=2022-05-03T09:10:58
+CN-354 Condition ref={EN-353} stat=confirmed date=2021-09-28T08:17:43 codes={Normal pregnancy} onsetDateTime=2021-09-28T08:17:43 abatementDateTime=2022-05-24T08:17:43
+CN-447 Condition ref={EN-446} stat=confirmed date=2022-05-03T08:17:43 codes={Prediabetes} onsetDateTime=2022-05-03T08:17:43
+CN-448 Condition ref={EN-446} stat=confirmed date=2022-05-03T08:17:43 codes={Anemia} onsetDateTime=2022-05-03T08:17:43
+CN-449 Condition ref={EN-446} stat=confirmed date=2022-05-03T09:10:58 codes={Full-time employment} onsetDateTime=2022-05-03T09:10:58
+CN-545 Condition ref={EN-544} stat=confirmed date=2023-09-26T08:17:43 codes={Normal pregnancy} onsetDateTime=2023-09-26T08:17:43 abatementDateTime=2024-04-23T08:17:43
+DR-46 DiagnosticReport ref={EN-18,OB-20,OB-21,OB-22,OB-23,OB-24,OB-25,OB-26,OB-27,OB-28,OB-29,OB-30,OB-31,OB-32,OB-33} stat=final date=2014-11-25T08:47:19 codes={Urinalysis macro (dipstick) panel - Urine} category=['v2-0074:LAB Laboratory'] provider=BAYSTATE FRANKLIN MEDICAL CENTER
+DR-79 DiagnosticReport ref={EN-51,OB-53,OB-54,OB-55,OB-56,OB-57,OB-58,OB-59,OB-60,OB-61,OB-62,OB-63,OB-64,OB-65,OB-66} stat=final date=2014-11-26T03:19:51 codes={Urinalysis macro (dipstick) panel - Urine} category=['v2-0074:LAB Laboratory'] provider=BAYSTATE FRANKLIN MEDICAL CENTER
+DR-112 DiagnosticReport ref={EN-84,OB-86,OB-87,OB-88,OB-89,OB-90,OB-91,OB-92,OB-93,OB-94,OB-95,OB-96,OB-97,OB-98,OB-99} stat=final date=2014-11-27T00:46:56 codes={Urinalysis macro (dipstick) panel - Urine} category=['v2-0074:LAB Laboratory'] provider=BAYSTATE FRANKLIN MEDICAL CENTER
+DR-163 DiagnosticReport ref={EN-125,OB-136,OB-137,OB-138,OB-139,OB-140,OB-141,OB-142,OB-143,OB-144,OB-145,OB-146} stat=final date=2016-04-26T08:17:43 codes={CBC panel - Blood by Automated count} category=['v2-0074:LAB Laboratory'] provider=COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+DR-164 DiagnosticReport ref={EN-125,OB-149} stat=final date=2016-04-26T09:44:21 codes={Humiliation, Afraid, Rape, and Kick questionnaire} 
+DR-165 DiagnosticReport ref={EN-125,OB-150} stat=final date=2016-04-26T10:23:23 codes={Patient Health Questionnaire 2 item (Reported)} 
+DR-166 DiagnosticReport ref={EN-125,OB-151} stat=final date=2016-04-26T10:59:59 codes={Drug Abuse Screening Test-10} 
+DR-320 DiagnosticReport ref={EN-301,OB-315} stat=final date=2019-04-30T09:38:29 codes={Alcohol Use Disorder Identification Test - Consumption (AUDIT-C)} 
+DR-485 DiagnosticReport ref={EN-446,OB-458,OB-459,OB-460,OB-461,OB-462,OB-463,OB-464,OB-465} stat=final date=2022-05-03T08:17:43 codes={Basic metabolic panel - Blood} category=['v2-0074:LAB Laboratory'] provider=COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+DR-486 DiagnosticReport ref={EN-446,OB-466,OB-467,OB-468,OB-469,OB-470,OB-471,OB-472,OB-473,OB-474,OB-475,OB-476} stat=final date=2022-05-03T08:17:43 codes={CBC panel - Blood by Automated count} category=['v2-0074:LAB Laboratory'] provider=COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED
+DR-487 DiagnosticReport ref={EN-446,OB-479} stat=final date=2022-05-03T09:31:34 codes={Generalized anxiety disorder 7 item} 
+DR-510 DiagnosticReport ref={EN-494,OB-495,OB-496,OB-497,OB-498,OB-499,OB-500,OB-501,OB-502,OB-503,OB-504,OB-505} stat=final date=2022-05-10T08:17:43 codes={CBC panel - Blood by Automated count} category=['v2-0074:LAB Laboratory'] provider=BAYSTATE FRANKLIN MEDICAL CENTER
+DV-482 Device ref={} stat=active codes={Blood glucose meter} deviceName=Blood glucose meter
+SD-483 SupplyDelivery ref={} stat=completed date=2022-05-03T08:17:43 codes={Blood glucose testing strips} type=Device quantity=[50]
+CP-194 CarePlan ref={EN-171} stat=completed date=2017-09-19T08:17:43 codes={Antenatal education at BAYSTATE FRANKLIN MEDICAL CENTER,Antenatal risk assessment at BAYSTATE FRANKLIN MEDICAL CENTER,Antenatal blood tests at BAYSTATE FRANKLIN MEDICAL CENTER,careplan-category assess-plan,Routine antenatal care,Antenatal education,Antenatal risk assessment,Antenatal blood tests} text=Care Plan for Routine antenatal care.Activities: Routine antenatal careRoutine antenatal careRoutine antenatal care intent=order endDate=2018-05-08T08:17:43
+CP-376 CarePlan ref={EN-353} stat=completed date=2021-09-28T08:17:43 codes={Antenatal education at BAYSTATE FRANKLIN MEDICAL CENTER,Antenatal risk assessment at BAYSTATE FRANKLIN MEDICAL CENTER,Antenatal blood tests at BAYSTATE FRANKLIN MEDICAL CENTER,careplan-category assess-plan,Routine antenatal care,Antenatal education,Antenatal risk assessment,Antenatal blood tests} text=Care Plan for Routine antenatal care.Activities: Routine antenatal careRoutine antenatal careRoutine antenatal care intent=order endDate=2022-05-24T08:17:43
+CP-489 CarePlan ref={EN-446,CN-447} stat=active date=2022-05-03T08:17:43 codes={Diabetic diet at COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED,Exercise therapy at COMMUNITY HEALTH CENTER OF FRANKLIN COUNTY INCORPORATED,careplan-category assess-plan,Diabetes self management plan,Diabetic diet,Exercise therapy} text=Care Plan for Diabetes self management plan.Care plan is meant to treat Prediabetes.Activities: Diabetes self management planDiabetes self management plan intent=order
+CP-567 CarePlan ref={EN-544} stat=completed date=2023-09-26T08:17:43 codes={Antenatal education at BAYSTATE FRANKLIN MEDICAL CENTER,Antenatal risk assessment at BAYSTATE FRANKLIN MEDICAL CENTER,Antenatal blood tests at BAYSTATE FRANKLIN MEDICAL CENTER,careplan-category assess-plan,Routine antenatal care,Antenatal education,Antenatal risk assessment,Antenatal blood tests} text=Care Plan for Routine antenatal care.Activities: Routine antenatal careRoutine antenatal careRoutine antenatal care intent=order endDate=2024-04-23T08:17:43
+MR-11 MedicationRequest ref={EN-9} stat=stopped date=2014-08-05T08:17:43 codes={Seasonique 91 Day Pack} intent=order requester=Dr. Erick Mayer
+MR-43 MedicationRequest ref={EN-18,CN-10} stat=stopped date=2014-11-25T08:57:19 codes={nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG Oral Capsule} intent=order requester=Dr. Erick Mayer dosageInstruction=2 for 1.0 d
+MR-76 MedicationRequest ref={EN-51,CN-10} stat=stopped date=2014-11-26T03:29:51 codes={sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet} intent=order requester=Dr. Erick Mayer dosageInstruction=2 for 1.0 d
+MR-109 MedicationRequest ref={EN-84,CN-10} stat=stopped date=2014-11-27T00:56:56 codes={nitrofurantoin, macrocrystals 25 MG / nitrofurantoin, monohydrate 75 MG Oral Capsule} intent=order requester=Dr. Erick Mayer dosageInstruction=2 for 1.0 d
+MR-118 MedicationRequest ref={EN-117} stat=stopped date=2015-07-31T08:17:43 codes={Levora 0.15/30 28 Day Pack} intent=order requester=Dr. Erick Mayer
+MR-294 MedicationRequest ref={EN-293} stat=stopped date=2018-07-15T08:17:43 codes={Trinessa 28 Day Pack} intent=order requester=Dr. Erick Mayer
+MR-328 MedicationRequest ref={EN-325,MD-327} stat=stopped date=2019-07-10T08:17:43 codes={} intent=order requester=Dr. Erick Mayer
+MR-339 MedicationRequest ref={EN-336,MD-338} stat=stopped date=2020-07-04T08:42:41 codes={} intent=order requester=Dr. Erick Mayer
+MR-537 MedicationRequest ref={EN-536} stat=stopped date=2022-07-12T08:17:43 codes={Trinessa 28 Day Pack} intent=order requester=Dr. Erick Mayer
+PR-35 Procedure ref={EN-18} stat=completed date=2014-11-25T07:17:43 codes={History taking} endDate=2014-11-25T07:32:15
+PR-36 Procedure ref={EN-18} stat=completed date=2014-11-25T07:32:15 codes={Discussion about signs and symptoms} endDate=2014-11-25T07:42:19
+PR-37 Procedure ref={EN-18} stat=completed date=2014-11-25T07:42:19 codes={History and physical examination, limited} endDate=2014-11-25T07:57:19
+PR-38 Procedure ref={EN-18} stat=completed date=2014-11-25T07:57:19 codes={Evaluation procedure} endDate=2014-11-25T08:12:19
+PR-39 Procedure ref={EN-18} stat=completed date=2014-11-25T08:12:19 codes={Standard pregnancy test} endDate=2014-11-25T08:27:19
+PR-40 Procedure ref={EN-18} stat=completed date=2014-11-25T08:27:19 codes={Urine specimen collection} endDate=2014-11-25T08:37:19
+PR-41 Procedure ref={EN-18} stat=completed date=2014-11-25T08:37:19 codes={Urinalysis with reflex to microscopy and culture} endDate=2014-11-25T08:47:19
+PR-42 Procedure ref={EN-18} stat=completed date=2014-11-25T08:47:19 codes={Antibiotic therapy} endDate=2014-11-25T08:57:19
+PR-68 Procedure ref={EN-51} stat=completed date=2014-11-26T01:57:19 codes={History taking} endDate=2014-11-26T02:09:37
+PR-69 Procedure ref={EN-51} stat=completed date=2014-11-26T02:09:37 codes={Discussion about signs and symptoms} endDate=2014-11-26T02:14:51
+PR-70 Procedure ref={EN-51} stat=completed date=2014-11-26T02:14:51 codes={History and physical examination, limited} endDate=2014-11-26T02:29:51
+PR-71 Procedure ref={EN-51} stat=completed date=2014-11-26T02:29:51 codes={Evaluation procedure} endDate=2014-11-26T02:44:51
+PR-72 Procedure ref={EN-51} stat=completed date=2014-11-26T02:44:51 codes={Standard pregnancy test} endDate=2014-11-26T02:59:51
+PR-73 Procedure ref={EN-51} stat=completed date=2014-11-26T02:59:51 codes={Urine specimen collection} endDate=2014-11-26T03:09:51
+PR-74 Procedure ref={EN-51} stat=completed date=2014-11-26T03:09:51 codes={Urinalysis with reflex to microscopy and culture} endDate=2014-11-26T03:19:51
+PR-75 Procedure ref={EN-51} stat=completed date=2014-11-26T03:19:51 codes={Antibiotic therapy} endDate=2014-11-26T03:29:51
+PR-101 Procedure ref={EN-84} stat=completed date=2014-11-26T23:29:51 codes={History taking} endDate=2014-11-26T23:35:02
+PR-102 Procedure ref={EN-84} stat=completed date=2014-11-26T23:35:02 codes={Discussion about signs and symptoms} endDate=2014-11-26T23:41:56
+PR-103 Procedure ref={EN-84} stat=completed date=2014-11-26T23:41:56 codes={History and physical examination, limited} endDate=2014-11-26T23:56:56
+PR-104 Procedure ref={EN-84} stat=completed date=2014-11-26T23:56:56 codes={Evaluation procedure} endDate=2014-11-27T00:11:56
+PR-105 Procedure ref={EN-84} stat=completed date=2014-11-27T00:11:56 codes={Standard pregnancy test} endDate=2014-11-27T00:26:56
+PR-106 Procedure ref={EN-84} stat=completed date=2014-11-27T00:26:56 codes={Urine specimen collection} endDate=2014-11-27T00:36:56
+PR-107 Procedure ref={EN-84} stat=completed date=2014-11-27T00:36:56 codes={Urinalysis with reflex to microscopy and culture} endDate=2014-11-27T00:46:56
+PR-108 Procedure ref={EN-84} stat=completed date=2014-11-27T00:46:56 codes={Antibiotic therapy} endDate=2014-11-27T00:56:56
+PR-152 Procedure ref={EN-125} stat=completed date=2016-04-26T08:17:43 codes={Medication reconciliation} endDate=2016-04-26T08:32:43
+PR-153 Procedure ref={EN-125} stat=completed date=2016-04-26T08:17:43 codes={Assessment of health and social care needs} endDate=2016-04-26T09:04:51
+PR-154 Procedure ref={EN-125} stat=completed date=2016-04-26T09:04:51 codes={Screening for domestic abuse} endDate=2016-04-26T09:44:21
+PR-155 Procedure ref={EN-125} stat=completed date=2016-04-26T09:44:21 codes={Depression screening} endDate=2016-04-26T09:56:35
+PR-156 Procedure ref={EN-125} stat=completed date=2016-04-26T09:56:35 codes={Depression screening} endDate=2016-04-26T10:23:23
+PR-157 Procedure ref={EN-125} stat=completed date=2016-04-26T10:23:23 codes={Assessment of substance use} endDate=2016-04-26T10:35:46
+PR-158 Procedure ref={EN-125} stat=completed date=2016-04-26T10:35:46 codes={Screening for drug abuse} endDate=2016-04-26T10:59:59
+PR-173 Procedure ref={EN-171,CN-172} stat=completed date=2017-09-19T08:17:43 codes={Standard pregnancy test} endDate=2017-09-19T08:32:43
+PR-174 Procedure ref={EN-171,CN-172} stat=completed date=2017-09-19T08:17:43 codes={Ultrasound scan for fetal viability} endDate=2017-09-19T08:32:43
+PR-175 Procedure ref={EN-171,CN-172} stat=completed date=2017-09-19T08:17:43 codes={Evaluation of uterine fundal height} endDate=2017-09-19T08:32:43
+PR-176 Procedure ref={EN-171,CN-172} stat=completed date=2017-09-19T08:17:43 codes={Auscultation of the fetal heart} endDate=2017-09-19T08:32:43
+PR-177 Procedure ref={EN-171,CN-172} stat=completed date=2017-09-19T08:17:43 codes={Blood group typing} endDate=2017-09-19T08:32:43
+PR-178 Procedure ref={EN-171,CN-172} stat=completed date=2017-09-19T08:17:43 codes={Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential} endDate=2017-09-19T08:32:43
+PR-179 Procedure ref={EN-171,CN-172} stat=completed date=2017-09-19T08:17:43 codes={Hepatitis B surface antigen measurement} endDate=2017-09-19T08:32:43
+PR-180 Procedure ref={EN-171,CN-172} stat=completed date=2017-09-19T08:17:43 codes={Human immunodeficiency virus antigen test} endDate=2017-09-19T08:32:43
+PR-181 Procedure ref={EN-171,CN-172} stat=completed date=2017-09-19T08:17:43 codes={Chlamydia antigen test} endDate=2017-09-19T08:32:43
+PR-182 Procedure ref={EN-171,CN-172} stat=completed date=2017-09-19T08:17:43 codes={Gonorrhea infection titer test} endDate=2017-09-19T08:32:43
+PR-183 Procedure ref={EN-171,CN-172} stat=completed date=2017-09-19T08:17:43 codes={Syphilis infectious titer test} endDate=2017-09-19T08:32:43
+PR-184 Procedure ref={EN-171,CN-172} stat=completed date=2017-09-19T08:17:43 codes={Urine culture} endDate=2017-09-19T08:32:43
+PR-185 Procedure ref={EN-171,CN-172} stat=completed date=2017-09-19T08:17:43 codes={Cytopathology procedure, preparation of smear, genital source} endDate=2017-09-19T08:32:43
+PR-186 Procedure ref={EN-171,CN-172} stat=completed date=2017-09-19T08:17:43 codes={Urine screening test for diabetes} endDate=2017-09-19T08:32:43
+PR-187 Procedure ref={EN-171,CN-172} stat=completed date=2017-09-19T08:17:43 codes={Hepatitis C antibody, confirmatory test} endDate=2017-09-19T08:32:43
+PR-188 Procedure ref={EN-171,CN-172} stat=completed date=2017-09-19T08:17:43 codes={Rubella screening test} endDate=2017-09-19T08:32:43
+PR-189 Procedure ref={EN-171,CN-172} stat=completed date=2017-09-19T08:17:43 codes={Measurement of Varicella-zoster virus antibody} endDate=2017-09-19T08:32:43
+PR-190 Procedure ref={EN-171,CN-172} stat=completed date=2017-09-19T08:17:43 codes={Skin test for tuberculosis, Tine test} endDate=2017-09-19T08:32:43
+PR-191 Procedure ref={EN-171,CN-172} stat=completed date=2017-09-19T08:17:43 codes={Urine protein test} endDate=2017-09-19T08:32:43
+PR-192 Procedure ref={EN-171,CN-172} stat=completed date=2017-09-19T08:17:43 codes={Physical examination procedure} endDate=2017-09-19T08:32:43
+PR-200 Procedure ref={EN-199,CN-172} stat=completed date=2017-10-17T08:17:43 codes={Evaluation of uterine fundal height} endDate=2017-10-17T08:32:43
+PR-201 Procedure ref={EN-199,CN-172} stat=completed date=2017-10-17T08:17:43 codes={Auscultation of the fetal heart} endDate=2017-10-17T08:32:43
+PR-202 Procedure ref={EN-199,CN-172} stat=completed date=2017-10-17T08:17:43 codes={Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique} endDate=2017-10-17T08:32:43
+PR-208 Procedure ref={EN-207,CN-172} stat=completed date=2017-11-14T07:17:43 codes={Fetal anatomy study} endDate=2017-11-14T07:32:43
+PR-209 Procedure ref={EN-207,CN-172} stat=completed date=2017-11-14T07:17:43 codes={Alpha-fetoprotein test - antenatal} endDate=2017-11-14T07:32:43
+PR-210 Procedure ref={EN-207,CN-172} stat=completed date=2017-11-14T07:17:43 codes={Evaluation of uterine fundal height} endDate=2017-11-14T07:32:43
+PR-211 Procedure ref={EN-207,CN-172} stat=completed date=2017-11-14T07:17:43 codes={Auscultation of the fetal heart} endDate=2017-11-14T07:32:43
+PR-217 Procedure ref={EN-216,CN-172} stat=completed date=2017-12-12T07:17:43 codes={Evaluation of uterine fundal height} endDate=2017-12-12T07:32:43
+PR-218 Procedure ref={EN-216,CN-172} stat=completed date=2017-12-12T07:17:43 codes={Auscultation of the fetal heart} endDate=2017-12-12T07:32:43
+PR-224 Procedure ref={EN-223,CN-172} stat=completed date=2018-01-09T07:17:43 codes={Evaluation of uterine fundal height} endDate=2018-01-09T07:32:43
+PR-225 Procedure ref={EN-223,CN-172} stat=completed date=2018-01-09T07:17:43 codes={Auscultation of the fetal heart} endDate=2018-01-09T07:32:43
+PR-231 Procedure ref={EN-230,CN-172} stat=completed date=2018-02-06T07:17:43 codes={Antenatal RhD antibody screening} endDate=2018-02-06T07:32:43
+PR-232 Procedure ref={EN-230,CN-172} stat=completed date=2018-02-06T07:17:43 codes={Passive immunization} endDate=2018-02-06T07:32:43
+PR-233 Procedure ref={EN-230,CN-172} stat=completed date=2018-02-06T07:17:43 codes={Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential} endDate=2018-02-06T07:32:43
+PR-234 Procedure ref={EN-230,CN-172} stat=completed date=2018-02-06T07:17:43 codes={Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens} endDate=2018-02-06T07:32:43
+PR-235 Procedure ref={EN-230,CN-172} stat=completed date=2018-02-06T07:17:43 codes={Urine screening for glucose} endDate=2018-02-06T07:32:43
+PR-236 Procedure ref={EN-230,CN-172} stat=completed date=2018-02-06T07:17:43 codes={Evaluation of uterine fundal height} endDate=2018-02-06T07:32:43
+PR-237 Procedure ref={EN-230,CN-172} stat=completed date=2018-02-06T07:17:43 codes={Auscultation of the fetal heart} endDate=2018-02-06T07:32:43
+PR-243 Procedure ref={EN-242,CN-172} stat=completed date=2018-03-06T07:17:43 codes={Evaluation of uterine fundal height} endDate=2018-03-06T07:32:43
+PR-244 Procedure ref={EN-242,CN-172} stat=completed date=2018-03-06T07:17:43 codes={Auscultation of the fetal heart} endDate=2018-03-06T07:32:43
+PR-250 Procedure ref={EN-249,CN-172} stat=completed date=2018-04-03T08:17:43 codes={Streptococcus pneumoniae group B antigen assay} endDate=2018-04-03T08:32:43
+PR-251 Procedure ref={EN-249,CN-172} stat=completed date=2018-04-03T08:17:43 codes={Evaluation of uterine fundal height} endDate=2018-04-03T08:32:43
+PR-252 Procedure ref={EN-249,CN-172} stat=completed date=2018-04-03T08:17:43 codes={Auscultation of the fetal heart} endDate=2018-04-03T08:32:43
+PR-258 Procedure ref={EN-257,CN-172} stat=completed date=2018-04-17T08:17:43 codes={Evaluation of uterine fundal height} endDate=2018-04-17T08:32:43
+PR-259 Procedure ref={EN-257,CN-172} stat=completed date=2018-04-17T08:17:43 codes={Auscultation of the fetal heart} endDate=2018-04-17T08:32:43
+PR-265 Procedure ref={EN-264,CN-172} stat=completed date=2018-04-24T08:17:43 codes={Evaluation of uterine fundal height} endDate=2018-04-24T08:32:43
+PR-266 Procedure ref={EN-264,CN-172} stat=completed date=2018-04-24T08:17:43 codes={Auscultation of the fetal heart} endDate=2018-04-24T08:32:43
+PR-272 Procedure ref={EN-271,CN-172} stat=completed date=2018-05-01T08:17:43 codes={Evaluation of uterine fundal height} endDate=2018-05-01T08:32:43
+PR-273 Procedure ref={EN-271,CN-172} stat=completed date=2018-05-01T08:17:43 codes={Auscultation of the fetal heart} endDate=2018-05-01T08:32:43
+PR-279 Procedure ref={EN-278,CN-172} stat=completed date=2018-05-08T08:17:43 codes={Medical induction of labor} endDate=2018-05-08T08:32:43
+PR-280 Procedure ref={EN-278,CN-172} stat=completed date=2018-05-08T08:17:43 codes={Cesarean section} endDate=2018-05-08T08:32:43
+PR-286 Procedure ref={EN-285} stat=completed date=2018-06-19T08:17:43 codes={Passive immunization} endDate=2018-06-19T08:32:43
+PR-287 Procedure ref={EN-285} stat=completed date=2018-06-19T08:17:43 codes={Physical examination procedure} endDate=2018-06-19T08:32:43
+PR-288 Procedure ref={EN-285} stat=completed date=2018-06-19T08:17:43 codes={Depression screening} endDate=2018-06-19T08:32:43
+PR-316 Procedure ref={EN-301} stat=completed date=2019-04-30T08:17:43 codes={Assessment of health and social care needs} endDate=2019-04-30T08:57:57
+PR-317 Procedure ref={EN-301} stat=completed date=2019-04-30T08:57:57 codes={Assessment of substance use} endDate=2019-04-30T09:09:20
+PR-318 Procedure ref={EN-301} stat=completed date=2019-04-30T09:09:20 codes={Assessment using Alcohol Use Disorders Identification Test - Consumption} endDate=2019-04-30T09:38:29
+PR-326 Procedure ref={EN-325} stat=completed date=2019-07-10T08:17:43 codes={Insertion of subcutaneous contraceptive} endDate=2019-07-10T08:42:41
+PR-337 Procedure ref={EN-336} stat=completed date=2020-07-04T08:42:41 codes={Insertion of subcutaneous contraceptive} endDate=2020-07-04T09:12:21
+PR-348 Procedure ref={EN-347} stat=completed date=2021-08-10T08:17:43 codes={Removal of subcutaneous contraceptive} endDate=2021-08-10T08:39:09
+PR-355 Procedure ref={EN-353,CN-172} stat=completed date=2021-09-28T08:17:43 codes={Standard pregnancy test} endDate=2021-09-28T08:32:43
+PR-356 Procedure ref={EN-353,CN-172} stat=completed date=2021-09-28T08:17:43 codes={Ultrasound scan for fetal viability} endDate=2021-09-28T08:32:43
+PR-357 Procedure ref={EN-353,CN-172} stat=completed date=2021-09-28T08:17:43 codes={Evaluation of uterine fundal height} endDate=2021-09-28T08:32:43
+PR-358 Procedure ref={EN-353,CN-172} stat=completed date=2021-09-28T08:17:43 codes={Auscultation of the fetal heart} endDate=2021-09-28T08:32:43
+PR-359 Procedure ref={EN-353,CN-172} stat=completed date=2021-09-28T08:17:43 codes={Blood group typing} endDate=2021-09-28T08:32:43
+PR-360 Procedure ref={EN-353,CN-172} stat=completed date=2021-09-28T08:17:43 codes={Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential} endDate=2021-09-28T08:32:43
+PR-361 Procedure ref={EN-353,CN-172} stat=completed date=2021-09-28T08:17:43 codes={Hepatitis B surface antigen measurement} endDate=2021-09-28T08:32:43
+PR-362 Procedure ref={EN-353,CN-172} stat=completed date=2021-09-28T08:17:43 codes={Human immunodeficiency virus antigen test} endDate=2021-09-28T08:32:43
+PR-363 Procedure ref={EN-353,CN-172} stat=completed date=2021-09-28T08:17:43 codes={Chlamydia antigen test} endDate=2021-09-28T08:32:43
+PR-364 Procedure ref={EN-353,CN-172} stat=completed date=2021-09-28T08:17:43 codes={Gonorrhea infection titer test} endDate=2021-09-28T08:32:43
+PR-365 Procedure ref={EN-353,CN-172} stat=completed date=2021-09-28T08:17:43 codes={Syphilis infectious titer test} endDate=2021-09-28T08:32:43
+PR-366 Procedure ref={EN-353,CN-172} stat=completed date=2021-09-28T08:17:43 codes={Urine culture} endDate=2021-09-28T08:32:43
+PR-367 Procedure ref={EN-353,CN-172} stat=completed date=2021-09-28T08:17:43 codes={Cytopathology procedure, preparation of smear, genital source} endDate=2021-09-28T08:32:43
+PR-368 Procedure ref={EN-353,CN-172} stat=completed date=2021-09-28T08:17:43 codes={Urine screening test for diabetes} endDate=2021-09-28T08:32:43
+PR-369 Procedure ref={EN-353,CN-172} stat=completed date=2021-09-28T08:17:43 codes={Hepatitis C antibody, confirmatory test} endDate=2021-09-28T08:32:43
+PR-370 Procedure ref={EN-353,CN-172} stat=completed date=2021-09-28T08:17:43 codes={Rubella screening test} endDate=2021-09-28T08:32:43
+PR-371 Procedure ref={EN-353,CN-172} stat=completed date=2021-09-28T08:17:43 codes={Measurement of Varicella-zoster virus antibody} endDate=2021-09-28T08:32:43
+PR-372 Procedure ref={EN-353,CN-172} stat=completed date=2021-09-28T08:17:43 codes={Skin test for tuberculosis, Tine test} endDate=2021-09-28T08:32:43
+PR-373 Procedure ref={EN-353,CN-172} stat=completed date=2021-09-28T08:17:43 codes={Urine protein test} endDate=2021-09-28T08:32:43
+PR-374 Procedure ref={EN-353,CN-172} stat=completed date=2021-09-28T08:17:43 codes={Physical examination procedure} endDate=2021-09-28T08:32:43
+PR-382 Procedure ref={EN-381,CN-172} stat=completed date=2021-10-26T08:17:43 codes={Evaluation of uterine fundal height} endDate=2021-10-26T08:32:43
+PR-383 Procedure ref={EN-381,CN-172} stat=completed date=2021-10-26T08:17:43 codes={Auscultation of the fetal heart} endDate=2021-10-26T08:32:43
+PR-384 Procedure ref={EN-381,CN-172} stat=completed date=2021-10-26T08:17:43 codes={Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique} endDate=2021-10-26T08:32:43
+PR-390 Procedure ref={EN-389,CN-172} stat=completed date=2021-11-23T07:17:43 codes={Fetal anatomy study} endDate=2021-11-23T07:32:43
+PR-391 Procedure ref={EN-389,CN-172} stat=completed date=2021-11-23T07:17:43 codes={Alpha-fetoprotein test - antenatal} endDate=2021-11-23T07:32:43
+PR-392 Procedure ref={EN-389,CN-172} stat=completed date=2021-11-23T07:17:43 codes={Evaluation of uterine fundal height} endDate=2021-11-23T07:32:43
+PR-393 Procedure ref={EN-389,CN-172} stat=completed date=2021-11-23T07:17:43 codes={Auscultation of the fetal heart} endDate=2021-11-23T07:32:43
+PR-399 Procedure ref={EN-398,CN-172} stat=completed date=2021-12-21T07:17:43 codes={Evaluation of uterine fundal height} endDate=2021-12-21T07:32:43
+PR-400 Procedure ref={EN-398,CN-172} stat=completed date=2021-12-21T07:17:43 codes={Auscultation of the fetal heart} endDate=2021-12-21T07:32:43
+PR-406 Procedure ref={EN-405,CN-172} stat=completed date=2022-01-18T07:17:43 codes={Evaluation of uterine fundal height} endDate=2022-01-18T07:32:43
+PR-407 Procedure ref={EN-405,CN-172} stat=completed date=2022-01-18T07:17:43 codes={Auscultation of the fetal heart} endDate=2022-01-18T07:32:43
+PR-413 Procedure ref={EN-412,CN-172} stat=completed date=2022-02-15T07:17:43 codes={Antenatal RhD antibody screening} endDate=2022-02-15T07:32:43
+PR-414 Procedure ref={EN-412,CN-172} stat=completed date=2022-02-15T07:17:43 codes={Passive immunization} endDate=2022-02-15T07:32:43
+PR-415 Procedure ref={EN-412,CN-172} stat=completed date=2022-02-15T07:17:43 codes={Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential} endDate=2022-02-15T07:32:43
+PR-416 Procedure ref={EN-412,CN-172} stat=completed date=2022-02-15T07:17:43 codes={Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens} endDate=2022-02-15T07:32:43
+PR-417 Procedure ref={EN-412,CN-172} stat=completed date=2022-02-15T07:17:43 codes={Urine screening for glucose} endDate=2022-02-15T07:32:43
+PR-418 Procedure ref={EN-412,CN-172} stat=completed date=2022-02-15T07:17:43 codes={Evaluation of uterine fundal height} endDate=2022-02-15T07:32:43
+PR-419 Procedure ref={EN-412,CN-172} stat=completed date=2022-02-15T07:17:43 codes={Auscultation of the fetal heart} endDate=2022-02-15T07:32:43
+PR-425 Procedure ref={EN-424,CN-172} stat=completed date=2022-03-15T08:17:43 codes={Evaluation of uterine fundal height} endDate=2022-03-15T08:32:43
+PR-426 Procedure ref={EN-424,CN-172} stat=completed date=2022-03-15T08:17:43 codes={Auscultation of the fetal heart} endDate=2022-03-15T08:32:43
+PR-432 Procedure ref={EN-431,CN-172} stat=completed date=2022-04-12T08:17:43 codes={Streptococcus pneumoniae group B antigen assay} endDate=2022-04-12T08:32:43
+PR-433 Procedure ref={EN-431,CN-172} stat=completed date=2022-04-12T08:17:43 codes={Evaluation of uterine fundal height} endDate=2022-04-12T08:32:43
+PR-434 Procedure ref={EN-431,CN-172} stat=completed date=2022-04-12T08:17:43 codes={Auscultation of the fetal heart} endDate=2022-04-12T08:32:43
+PR-440 Procedure ref={EN-439,CN-172} stat=completed date=2022-04-26T08:17:43 codes={Evaluation of uterine fundal height} endDate=2022-04-26T08:32:43
+PR-441 Procedure ref={EN-439,CN-172} stat=completed date=2022-04-26T08:17:43 codes={Auscultation of the fetal heart} endDate=2022-04-26T08:32:43
+PR-480 Procedure ref={EN-446} stat=completed date=2022-05-03T08:17:43 codes={Assessment of health and social care needs} endDate=2022-05-03T09:10:58
+PR-481 Procedure ref={EN-446} stat=completed date=2022-05-03T09:10:58 codes={Assessment of anxiety} endDate=2022-05-03T09:31:34
+PR-506 Procedure ref={EN-494} stat=completed date=2022-05-10T08:17:43 codes={Peripheral blood smear interpretation} endDate=2022-05-10T08:47:43
+PR-507 Procedure ref={EN-494} stat=completed date=2022-05-10T08:47:43 codes={Review of systems} endDate=2022-05-10T09:06:02
+PR-508 Procedure ref={EN-494} stat=completed date=2022-05-10T09:06:02 codes={Medication reconciliation} endDate=2022-05-10T09:25:45
+PR-509 Procedure ref={EN-494} stat=completed date=2022-05-10T09:25:45 codes={Brief general examination} endDate=2022-05-10T09:44:23
+PR-516 Procedure ref={EN-515,CN-172} stat=completed date=2022-05-17T08:17:43 codes={Evaluation of uterine fundal height} endDate=2022-05-17T08:32:43
+PR-517 Procedure ref={EN-515,CN-172} stat=completed date=2022-05-17T08:17:43 codes={Auscultation of the fetal heart} endDate=2022-05-17T08:32:43
+PR-523 Procedure ref={EN-522,CN-172} stat=completed date=2022-05-24T08:17:43 codes={Childbirth} endDate=2022-05-24T08:32:43
+PR-529 Procedure ref={EN-528} stat=completed date=2022-07-05T08:17:43 codes={Passive immunization} endDate=2022-07-05T08:32:43
+PR-530 Procedure ref={EN-528} stat=completed date=2022-07-05T08:17:43 codes={Physical examination procedure} endDate=2022-07-05T08:32:43
+PR-531 Procedure ref={EN-528} stat=completed date=2022-07-05T08:17:43 codes={Depression screening} endDate=2022-07-05T08:32:43
+PR-546 Procedure ref={EN-544,CN-172} stat=completed date=2023-09-26T08:17:43 codes={Standard pregnancy test} endDate=2023-09-26T08:32:43
+PR-547 Procedure ref={EN-544,CN-172} stat=completed date=2023-09-26T08:17:43 codes={Ultrasound scan for fetal viability} endDate=2023-09-26T08:32:43
+PR-548 Procedure ref={EN-544,CN-172} stat=completed date=2023-09-26T08:17:43 codes={Evaluation of uterine fundal height} endDate=2023-09-26T08:32:43
+PR-549 Procedure ref={EN-544,CN-172} stat=completed date=2023-09-26T08:17:43 codes={Auscultation of the fetal heart} endDate=2023-09-26T08:32:43
+PR-550 Procedure ref={EN-544,CN-172} stat=completed date=2023-09-26T08:17:43 codes={Blood group typing} endDate=2023-09-26T08:32:43
+PR-551 Procedure ref={EN-544,CN-172} stat=completed date=2023-09-26T08:17:43 codes={Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential} endDate=2023-09-26T08:32:43
+PR-552 Procedure ref={EN-544,CN-172} stat=completed date=2023-09-26T08:17:43 codes={Hepatitis B surface antigen measurement} endDate=2023-09-26T08:32:43
+PR-553 Procedure ref={EN-544,CN-172} stat=completed date=2023-09-26T08:17:43 codes={Human immunodeficiency virus antigen test} endDate=2023-09-26T08:32:43
+PR-554 Procedure ref={EN-544,CN-172} stat=completed date=2023-09-26T08:17:43 codes={Chlamydia antigen test} endDate=2023-09-26T08:32:43
+PR-555 Procedure ref={EN-544,CN-172} stat=completed date=2023-09-26T08:17:43 codes={Gonorrhea infection titer test} endDate=2023-09-26T08:32:43
+PR-556 Procedure ref={EN-544,CN-172} stat=completed date=2023-09-26T08:17:43 codes={Syphilis infectious titer test} endDate=2023-09-26T08:32:43
+PR-557 Procedure ref={EN-544,CN-172} stat=completed date=2023-09-26T08:17:43 codes={Urine culture} endDate=2023-09-26T08:32:43
+PR-558 Procedure ref={EN-544,CN-172} stat=completed date=2023-09-26T08:17:43 codes={Cytopathology procedure, preparation of smear, genital source} endDate=2023-09-26T08:32:43
+PR-559 Procedure ref={EN-544,CN-172} stat=completed date=2023-09-26T08:17:43 codes={Urine screening test for diabetes} endDate=2023-09-26T08:32:43
+PR-560 Procedure ref={EN-544,CN-172} stat=completed date=2023-09-26T08:17:43 codes={Hepatitis C antibody, confirmatory test} endDate=2023-09-26T08:32:43
+PR-561 Procedure ref={EN-544,CN-172} stat=completed date=2023-09-26T08:17:43 codes={Rubella screening test} endDate=2023-09-26T08:32:43
+PR-562 Procedure ref={EN-544,CN-172} stat=completed date=2023-09-26T08:17:43 codes={Measurement of Varicella-zoster virus antibody} endDate=2023-09-26T08:32:43
+PR-563 Procedure ref={EN-544,CN-172} stat=completed date=2023-09-26T08:17:43 codes={Skin test for tuberculosis, Tine test} endDate=2023-09-26T08:32:43
+PR-564 Procedure ref={EN-544,CN-172} stat=completed date=2023-09-26T08:17:43 codes={Urine protein test} endDate=2023-09-26T08:32:43
+PR-565 Procedure ref={EN-544,CN-172} stat=completed date=2023-09-26T08:17:43 codes={Physical examination procedure} endDate=2023-09-26T08:32:43
+PR-573 Procedure ref={EN-572,CN-172} stat=completed date=2023-10-24T08:17:43 codes={Evaluation of uterine fundal height} endDate=2023-10-24T08:32:43
+PR-574 Procedure ref={EN-572,CN-172} stat=completed date=2023-10-24T08:17:43 codes={Auscultation of the fetal heart} endDate=2023-10-24T08:32:43
+PR-575 Procedure ref={EN-572,CN-172} stat=completed date=2023-10-24T08:17:43 codes={Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using fluorescence in situ hybridization screening technique} endDate=2023-10-24T08:32:43
+PR-581 Procedure ref={EN-580,CN-172} stat=completed date=2023-11-21T07:17:43 codes={Fetal anatomy study} endDate=2023-11-21T07:32:43
+PR-582 Procedure ref={EN-580,CN-172} stat=completed date=2023-11-21T07:17:43 codes={Alpha-fetoprotein test - antenatal} endDate=2023-11-21T07:32:43
+PR-583 Procedure ref={EN-580,CN-172} stat=completed date=2023-11-21T07:17:43 codes={Evaluation of uterine fundal height} endDate=2023-11-21T07:32:43
+PR-584 Procedure ref={EN-580,CN-172} stat=completed date=2023-11-21T07:17:43 codes={Auscultation of the fetal heart} endDate=2023-11-21T07:32:43
+PR-590 Procedure ref={EN-589,CN-172} stat=completed date=2023-12-19T07:17:43 codes={Evaluation of uterine fundal height} endDate=2023-12-19T07:32:43
+PR-591 Procedure ref={EN-589,CN-172} stat=completed date=2023-12-19T07:17:43 codes={Auscultation of the fetal heart} endDate=2023-12-19T07:32:43
+PR-597 Procedure ref={EN-596,CN-172} stat=completed date=2024-01-16T07:17:43 codes={Evaluation of uterine fundal height} endDate=2024-01-16T07:32:43
+PR-598 Procedure ref={EN-596,CN-172} stat=completed date=2024-01-16T07:17:43 codes={Auscultation of the fetal heart} endDate=2024-01-16T07:32:43
+PR-604 Procedure ref={EN-603,CN-172} stat=completed date=2024-02-13T07:17:43 codes={Antenatal RhD antibody screening} endDate=2024-02-13T07:32:43
+PR-605 Procedure ref={EN-603,CN-172} stat=completed date=2024-02-13T07:17:43 codes={Passive immunization} endDate=2024-02-13T07:32:43
+PR-606 Procedure ref={EN-603,CN-172} stat=completed date=2024-02-13T07:17:43 codes={Hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential} endDate=2024-02-13T07:32:43
+PR-607 Procedure ref={EN-603,CN-172} stat=completed date=2024-02-13T07:17:43 codes={Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae antigens} endDate=2024-02-13T07:32:43
+PR-608 Procedure ref={EN-603,CN-172} stat=completed date=2024-02-13T07:17:43 codes={Urine screening for glucose} endDate=2024-02-13T07:32:43
+PR-609 Procedure ref={EN-603,CN-172} stat=completed date=2024-02-13T07:17:43 codes={Evaluation of uterine fundal height} endDate=2024-02-13T07:32:43
+PR-610 Procedure ref={EN-603,CN-172} stat=completed date=2024-02-13T07:17:43 codes={Auscultation of the fetal heart} endDate=2024-02-13T07:32:43
+PR-616 Procedure ref={EN-615,CN-172} stat=completed date=2024-03-12T08:17:43 codes={Evaluation of uterine fundal height} endDate=2024-03-12T08:32:43
+PR-617 Procedure ref={EN-615,CN-172} stat=completed date=2024-03-12T08:17:43 codes={Auscultation of the fetal heart} endDate=2024-03-12T08:32:43
+PR-623 Procedure ref={EN-622,CN-172} stat=completed date=2024-04-09T08:17:43 codes={Streptococcus pneumoniae group B antigen assay} endDate=2024-04-09T08:32:43
+PR-624 Procedure ref={EN-622,CN-172} stat=completed date=2024-04-09T08:17:43 codes={Evaluation of uterine fundal height} endDate=2024-04-09T08:32:43
+PR-625 Procedure ref={EN-622,CN-172} stat=completed date=2024-04-09T08:17:43 codes={Auscultation of the fetal heart} endDate=2024-04-09T08:32:43
+PR-631 Procedure ref={EN-630,CN-172} stat=completed date=2024-04-23T08:17:43 codes={Childbirth} endDate=2024-04-23T08:32:43
+PR-637 Procedure ref={EN-636} stat=completed date=2024-06-04T08:17:43 codes={Passive immunization} endDate=2024-06-04T08:32:43
+PR-638 Procedure ref={EN-636} stat=completed date=2024-06-04T08:17:43 codes={Physical examination procedure} endDate=2024-06-04T08:32:43
+PR-639 Procedure ref={EN-636} stat=completed date=2024-06-04T08:17:43 codes={Depression screening} endDate=2024-06-04T08:32:43
+OB-19 Observation ref={EN-18} stat=final date=2014-11-25T08:27:19 codes={Choriogonadotropin (pregnancy test) (Presence) in Urine (value = Negative (qualifier value))} category=Procedure
+OB-20 Observation ref={EN-18} stat=final date=2014-11-25T08:47:19 codes={Glucose (Mass/volume) in Urine by Test strip (value = 9.7512 mg/dL)} category=Laboratory
+OB-21 Observation ref={EN-18} stat=final date=2014-11-25T08:47:19 codes={Ketones (Presence) in Urine by Test strip (value = Urine ketones not detected)} category=Laboratory
+OB-22 Observation ref={EN-18} stat=final date=2014-11-25T08:47:19 codes={Specific gravity of Urine by Test strip (value = 1.0055 {nominal})} category=Laboratory
+OB-23 Observation ref={EN-18} stat=final date=2014-11-25T08:47:19 codes={pH of Urine by Test strip (value = 5.1193 pH)} category=Laboratory
+OB-24 Observation ref={EN-18} stat=final date=2014-11-25T08:47:19 codes={Protein (Mass/volume) in Urine by Test strip (value = 12.548 mg/dL)} category=Laboratory
+OB-25 Observation ref={EN-18} stat=final date=2014-11-25T08:47:19 codes={Nitrite (Presence) in Urine by Test strip (value = Nitrite detected in urine)} category=Laboratory
+OB-26 Observation ref={EN-18} stat=final date=2014-11-25T08:47:19 codes={Hemoglobin (Presence) in Urine by Test strip (value = Urine blood test = +)} category=Laboratory
+OB-27 Observation ref={EN-18} stat=final date=2014-11-25T08:47:19 codes={Leukocyte esterase (Presence) in Urine by Test strip (value = Urine leukocyte test one plus)} category=Laboratory
+OB-28 Observation ref={EN-18} stat=final date=2014-11-25T08:47:19 codes={WBCs (value = 38.907 /(HPF))} category=Laboratory
+OB-29 Observation ref={EN-18} stat=final date=2014-11-25T08:47:19 codes={RBCs (value = 2.8617 /(HPF))} category=Laboratory
+OB-30 Observation ref={EN-18} stat=final date=2014-11-25T08:47:19 codes={Epithelial Cells (value = 1.1949 /(HPF))} category=Laboratory
+OB-31 Observation ref={EN-18} stat=final date=2014-11-25T08:47:19 codes={Casts (value = Urine microscopy: no casts)} category=Laboratory
+OB-32 Observation ref={EN-18} stat=final date=2014-11-25T08:47:19 codes={Mucus Threads (value = Mucus in urine)} category=Laboratory
+OB-33 Observation ref={EN-18} stat=final date=2014-11-25T08:47:19 codes={Bacteria (value = Finding of presence of bacteria)} category=Laboratory
+OB-34 Observation ref={EN-18} stat=final date=2014-11-25T08:47:19 codes={Bacteria identified in Urine by Culture (value = Greater than 100,000 colony forming units per mL Escherichia coli)} category=Laboratory
+OB-52 Observation ref={EN-51} stat=final date=2014-11-26T02:59:51 codes={Choriogonadotropin (pregnancy test) (Presence) in Urine (value = Negative (qualifier value))} category=Procedure
+OB-53 Observation ref={EN-51} stat=final date=2014-11-26T03:19:51 codes={Glucose (Mass/volume) in Urine by Test strip (value = 10.438 mg/dL)} category=Laboratory
+OB-54 Observation ref={EN-51} stat=final date=2014-11-26T03:19:51 codes={Ketones (Presence) in Urine by Test strip (value = Urine ketones not detected)} category=Laboratory
+OB-55 Observation ref={EN-51} stat=final date=2014-11-26T03:19:51 codes={Specific gravity of Urine by Test strip (value = 1.0223 {nominal})} category=Laboratory
+OB-56 Observation ref={EN-51} stat=final date=2014-11-26T03:19:51 codes={pH of Urine by Test strip (value = 6.6801 pH)} category=Laboratory
+OB-57 Observation ref={EN-51} stat=final date=2014-11-26T03:19:51 codes={Protein (Mass/volume) in Urine by Test strip (value = 10.91 mg/dL)} category=Laboratory
+OB-58 Observation ref={EN-51} stat=final date=2014-11-26T03:19:51 codes={Nitrite (Presence) in Urine by Test strip (value = Nitrite detected in urine)} category=Laboratory
+OB-59 Observation ref={EN-51} stat=final date=2014-11-26T03:19:51 codes={Hemoglobin (Presence) in Urine by Test strip (value = Urine blood test = +)} category=Laboratory
+OB-60 Observation ref={EN-51} stat=final date=2014-11-26T03:19:51 codes={Leukocyte esterase (Presence) in Urine by Test strip (value = Urine leukocyte test one plus)} category=Laboratory
+OB-61 Observation ref={EN-51} stat=final date=2014-11-26T03:19:51 codes={WBCs (value = 20.089 /(HPF))} category=Laboratory
+OB-62 Observation ref={EN-51} stat=final date=2014-11-26T03:19:51 codes={RBCs (value = 1.9453 /(HPF))} category=Laboratory
+OB-63 Observation ref={EN-51} stat=final date=2014-11-26T03:19:51 codes={Epithelial Cells (value = 1.1961 /(HPF))} category=Laboratory
+OB-64 Observation ref={EN-51} stat=final date=2014-11-26T03:19:51 codes={Casts (value = Urine microscopy: no casts)} category=Laboratory
+OB-65 Observation ref={EN-51} stat=final date=2014-11-26T03:19:51 codes={Mucus Threads (value = Mucus in urine)} category=Laboratory
+OB-66 Observation ref={EN-51} stat=final date=2014-11-26T03:19:51 codes={Bacteria (value = Finding of presence of bacteria)} category=Laboratory
+OB-67 Observation ref={EN-51} stat=final date=2014-11-26T03:19:51 codes={Bacteria identified in Urine by Culture (value = Greater than 100,000 colony forming units per mL Escherichia coli)} category=Laboratory
+OB-85 Observation ref={EN-84} stat=final date=2014-11-27T00:26:56 codes={Choriogonadotropin (pregnancy test) (Presence) in Urine (value = Negative (qualifier value))} category=Procedure
+OB-86 Observation ref={EN-84} stat=final date=2014-11-27T00:46:56 codes={Glucose (Mass/volume) in Urine by Test strip (value = 4.8925 mg/dL)} category=Laboratory
+OB-87 Observation ref={EN-84} stat=final date=2014-11-27T00:46:56 codes={Ketones (Presence) in Urine by Test strip (value = Urine ketones not detected)} category=Laboratory
+OB-88 Observation ref={EN-84} stat=final date=2014-11-27T00:46:56 codes={Specific gravity of Urine by Test strip (value = 1.0279 {nominal})} category=Laboratory
+OB-89 Observation ref={EN-84} stat=final date=2014-11-27T00:46:56 codes={pH of Urine by Test strip (value = 6.6855 pH)} category=Laboratory
+OB-90 Observation ref={EN-84} stat=final date=2014-11-27T00:46:56 codes={Protein (Mass/volume) in Urine by Test strip (value = 4.6757 mg/dL)} category=Laboratory
+OB-91 Observation ref={EN-84} stat=final date=2014-11-27T00:46:56 codes={Nitrite (Presence) in Urine by Test strip (value = Nitrite detected in urine)} category=Laboratory
+OB-92 Observation ref={EN-84} stat=final date=2014-11-27T00:46:56 codes={Hemoglobin (Presence) in Urine by Test strip (value = Urine blood test = +)} category=Laboratory
+OB-93 Observation ref={EN-84} stat=final date=2014-11-27T00:46:56 codes={Leukocyte esterase (Presence) in Urine by Test strip (value = Urine leukocyte test one plus)} category=Laboratory
+OB-94 Observation ref={EN-84} stat=final date=2014-11-27T00:46:56 codes={WBCs (value = 29.908 /(HPF))} category=Laboratory
+OB-95 Observation ref={EN-84} stat=final date=2014-11-27T00:46:56 codes={RBCs (value = 2.6843 /(HPF))} category=Laboratory
+OB-96 Observation ref={EN-84} stat=final date=2014-11-27T00:46:56 codes={Epithelial Cells (value = 1.8613 /(HPF))} category=Laboratory
+OB-97 Observation ref={EN-84} stat=final date=2014-11-27T00:46:56 codes={Casts (value = Urine microscopy: no casts)} category=Laboratory
+OB-98 Observation ref={EN-84} stat=final date=2014-11-27T00:46:56 codes={Mucus Threads (value = Mucus in urine)} category=Laboratory
+OB-99 Observation ref={EN-84} stat=final date=2014-11-27T00:46:56 codes={Bacteria (value = Finding of presence of bacteria)} category=Laboratory
+OB-100 Observation ref={EN-84} stat=final date=2014-11-27T00:46:56 codes={Bacteria identified in Urine by Culture (value = Greater than 100,000 colony forming units per mL Klebsiella oxytoca)} category=Laboratory
+OB-129 Observation ref={EN-125} stat=final date=2016-04-26T08:17:43 codes={Body Height (value = 159.7 cm)} category=Vital
+OB-130 Observation ref={EN-125} stat=final date=2016-04-26T08:17:43 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 3 {score})} category=Vital
+OB-131 Observation ref={EN-125} stat=final date=2016-04-26T08:17:43 codes={Body Weight (value = 49.1 kg)} category=Vital
+OB-132 Observation ref={EN-125} stat=final date=2016-04-26T08:17:43 codes={Body mass index (BMI) (value = 19.26 kg/m2)} category=Vital
+OB-133 Observation ref={EN-125} stat=final date=2016-04-26T08:17:43 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 68 mm(Hg),Systolic Blood Pressure 116 mm(Hg)} category=Vital
+OB-134 Observation ref={EN-125} stat=final date=2016-04-26T08:17:43 codes={Heart rate (value = 70 /min)} category=Vital
+OB-135 Observation ref={EN-125} stat=final date=2016-04-26T08:17:43 codes={Respiratory rate (value = 15 /min)} category=Vital
+OB-136 Observation ref={EN-125} stat=final date=2016-04-26T08:17:43 codes={Leukocytes (#/volume) in Blood by Automated count (value = 3.9557 10*3/uL)} category=Laboratory
+OB-137 Observation ref={EN-125} stat=final date=2016-04-26T08:17:43 codes={Erythrocytes (#/volume) in Blood by Automated count (value = 3.941 10*6/uL)} category=Laboratory
+OB-138 Observation ref={EN-125} stat=final date=2016-04-26T08:17:43 codes={Hemoglobin (Mass/volume) in Blood (value = 12.732 g/dL)} category=Laboratory
+OB-139 Observation ref={EN-125} stat=final date=2016-04-26T08:17:43 codes={Hematocrit (Volume Fraction) of Blood by Automated count (value = 40.333 %)} category=Laboratory
+OB-140 Observation ref={EN-125} stat=final date=2016-04-26T08:17:43 codes={MCV (Entitic volume) by Automated count (value = 91.771 fL)} category=Laboratory
+OB-141 Observation ref={EN-125} stat=final date=2016-04-26T08:17:43 codes={MCH (Entitic mass) by Automated count (value = 30.371 pg)} category=Laboratory
+OB-142 Observation ref={EN-125} stat=final date=2016-04-26T08:17:43 codes={MCHC (Mass/volume) by Automated count (value = 33.878 g/dL)} category=Laboratory
+OB-143 Observation ref={EN-125} stat=final date=2016-04-26T08:17:43 codes={Erythrocyte distribution width (Entitic volume) by Automated count (value = 41.035 fL)} category=Laboratory
+OB-144 Observation ref={EN-125} stat=final date=2016-04-26T08:17:43 codes={Platelets (#/volume) in Blood by Automated count (value = 361.2 10*3/uL)} category=Laboratory
+OB-145 Observation ref={EN-125} stat=final date=2016-04-26T08:17:43 codes={Platelet distribution width (Entitic volume) in Blood by Automated count (value = 272.16 fL)} category=Laboratory
+OB-146 Observation ref={EN-125} stat=final date=2016-04-26T08:17:43 codes={Platelet mean volume (Entitic volume) in Blood by Automated count (value = 10.265 fL)} category=Laboratory
+OB-147 Observation ref={EN-125} stat=final date=2016-04-26T08:17:43 codes={Tobacco smoking status (value = Ex-smoker)} category=Social
+OB-148 Observation ref={EN-125} stat=final date=2016-04-26T09:04:51 codes={Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences (PRAPARE),Question= Within the last year, have you been afraid of your partner or ex-partner? Answer= No,Question= Do you feel physically and emotionally safe where you currently live? Answer= Yes,Question= Are you a refugee? Answer= No,Question= In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Answer= No,Question= Stress level Answer= Not at all,Question= How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Answer= 5 or more times a week,Question= Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Answer= No,Question= In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Answer= Food,What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 104420 /a,Question= Primary insurance Answer= Private insurance,Question= Employment status - current Answer= Unemployed,Question= Highest level of education Answer= High school diploma or GED,Address 997 Hoeger Heights Unit 5,Question= Are you worried about losing your housing? Answer= No,Question= Housing status Answer= I have housing,How many people are living or staying at this address? 8 {#},Question= Preferred language Answer= English,Question= Have you been discharged from the armed forces of the United States? Answer= No,Question= At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? Answer= No,Question= Race Answer= White,Question= Do you consider yourself Hispanic/Latino? Answer= No} category=Survey
+OB-149 Observation ref={EN-125} stat=final date=2016-04-26T09:44:21 codes={Total score (value = 0 {score})} category=Survey
+OB-150 Observation ref={EN-125} stat=final date=2016-04-26T10:23:23 codes={Patient Health Questionnaire 2 item total score (Reported) (value = 1 {score})} category=Survey
+OB-151 Observation ref={EN-125} stat=final date=2016-04-26T10:59:59 codes={Total score (value = 8 {score})} category=Survey
+OB-306 Observation ref={EN-301} stat=final date=2019-04-30T08:17:43 codes={Body Height (value = 159.7 cm)} category=Vital
+OB-307 Observation ref={EN-301} stat=final date=2019-04-30T08:17:43 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 1 {score})} category=Vital
+OB-308 Observation ref={EN-301} stat=final date=2019-04-30T08:17:43 codes={Body Weight (value = 54 kg)} category=Vital
+OB-309 Observation ref={EN-301} stat=final date=2019-04-30T08:17:43 codes={Body mass index (BMI) (value = 21.17 kg/m2)} category=Vital
+OB-310 Observation ref={EN-301} stat=final date=2019-04-30T08:17:43 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 73 mm(Hg),Systolic Blood Pressure 104 mm(Hg)} category=Vital
+OB-311 Observation ref={EN-301} stat=final date=2019-04-30T08:17:43 codes={Heart rate (value = 90 /min)} category=Vital
+OB-312 Observation ref={EN-301} stat=final date=2019-04-30T08:17:43 codes={Respiratory rate (value = 15 /min)} category=Vital
+OB-313 Observation ref={EN-301} stat=final date=2019-04-30T08:17:43 codes={Tobacco smoking status (value = Ex-smoker)} category=Social
+OB-314 Observation ref={EN-301} stat=final date=2019-04-30T08:57:57 codes={Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences (PRAPARE),Question= Within the last year, have you been afraid of your partner or ex-partner? Answer= No,Question= Do you feel physically and emotionally safe where you currently live? Answer= No,Question= Are you a refugee? Answer= No,Question= In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Answer= No,Question= Stress level Answer= Quite a bit,Question= How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Answer= 5 or more times a week,Question= Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Answer= No,Question= In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Answer= Food,What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 104420 /a,Question= Primary insurance Answer= Private insurance,Question= Employment status - current Answer= Part-time or temporary work,Question= Highest level of education Answer= High school diploma or GED,Address 997 Hoeger Heights Unit 5,Question= Are you worried about losing your housing? Answer= No,Question= Housing status Answer= I have housing,How many people are living or staying at this address? 8 {#},Question= Preferred language Answer= English,Question= Have you been discharged from the armed forces of the United States? Answer= No,Question= At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? Answer= No,Question= Race Answer= White,Question= Do you consider yourself Hispanic/Latino? Answer= No} category=Survey
+OB-315 Observation ref={EN-301} stat=final date=2019-04-30T09:38:29 codes={Total score (AUDIT-C) (value = 2 {score})} category=Survey
+OB-450 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Hemoglobin A1c/Hemoglobin.total in Blood (value = 5.84 %)} category=Laboratory
+OB-451 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Body Height (value = 159.7 cm)} category=Vital
+OB-452 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 4 {score})} category=Vital
+OB-453 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Body Weight (value = 58.8 kg)} category=Vital
+OB-454 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Body mass index (BMI) (value = 23.07 kg/m2)} category=Vital
+OB-455 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 74 mm(Hg),Systolic Blood Pressure 117 mm(Hg)} category=Vital
+OB-456 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Heart rate (value = 88 /min)} category=Vital
+OB-457 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Respiratory rate (value = 14 /min)} category=Vital
+OB-458 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Glucose (Mass/volume) in Blood (value = 83.91 mg/dL)} category=Laboratory
+OB-459 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Urea nitrogen (Mass/volume) in Blood (value = 13.6 mg/dL)} category=Laboratory
+OB-460 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Creatinine (Mass/volume) in Blood (value = 0.78 mg/dL)} category=Laboratory
+OB-461 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Calcium (Mass/volume) in Blood (value = 9.3 mg/dL)} category=Laboratory
+OB-462 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Sodium (Moles/volume) in Blood (value = 143.85 mmol/L)} category=Laboratory
+OB-463 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Potassium (Moles/volume) in Blood (value = 5.09 mmol/L)} category=Laboratory
+OB-464 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Chloride (Moles/volume) in Blood (value = 102.11 mmol/L)} category=Laboratory
+OB-465 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Carbon dioxide, total (Moles/volume) in Blood (value = 25.62 mmol/L)} category=Laboratory
+OB-466 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Leukocytes (#/volume) in Blood by Automated count (value = 5.8722 10*3/uL)} category=Laboratory
+OB-467 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Erythrocytes (#/volume) in Blood by Automated count (value = 4.888 10*6/uL)} category=Laboratory
+OB-468 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Hemoglobin (Mass/volume) in Blood (value = 14.315 g/dL)} category=Laboratory
+OB-469 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Hematocrit (Volume Fraction) of Blood by Automated count (value = 36.804 %)} category=Laboratory
+OB-470 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={MCV (Entitic volume) by Automated count (value = 93.046 fL)} category=Laboratory
+OB-471 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={MCH (Entitic mass) by Automated count (value = 29.936 pg)} category=Laboratory
+OB-472 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={MCHC (Mass/volume) by Automated count (value = 35.083 g/dL)} category=Laboratory
+OB-473 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Erythrocyte distribution width (Entitic volume) by Automated count (value = 42.958 fL)} category=Laboratory
+OB-474 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Platelets (#/volume) in Blood by Automated count (value = 363.36 10*3/uL)} category=Laboratory
+OB-475 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Platelet distribution width (Entitic volume) in Blood by Automated count (value = 515.76 fL)} category=Laboratory
+OB-476 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Platelet mean volume (Entitic volume) in Blood by Automated count (value = 11.414 fL)} category=Laboratory
+OB-477 Observation ref={EN-446} stat=final date=2022-05-03T08:17:43 codes={Tobacco smoking status (value = Ex-smoker)} category=Social
+OB-478 Observation ref={EN-446} stat=final date=2022-05-03T09:10:58 codes={Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences (PRAPARE),Question= Within the last year, have you been afraid of your partner or ex-partner? Answer= No,Question= Do you feel physically and emotionally safe where you currently live? Answer= Yes,Question= Are you a refugee? Answer= No,Question= In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Answer= No,Question= Stress level Answer= Not at all,Question= How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Answer= 5 or more times a week,Question= Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Answer= No,Question= In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Answer= Food,What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 104420 /a,Question= Primary insurance Answer= Private insurance,Question= Employment status - current Answer= Full-time work,Question= Highest level of education Answer= High school diploma or GED,Address 997 Hoeger Heights Unit 5,Question= Are you worried about losing your housing? Answer= No,Question= Housing status Answer= I have housing,How many people are living or staying at this address? 8 {#},Question= Preferred language Answer= English,Question= Have you been discharged from the armed forces of the United States? Answer= No,Question= At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? Answer= No,Question= Race Answer= White,Question= Do you consider yourself Hispanic/Latino? Answer= No} category=Survey
+OB-479 Observation ref={EN-446} stat=final date=2022-05-03T09:31:34 codes={Generalized anxiety disorder 7 item total score (Reported.PHQ) (value = 1 {score})} category=Survey
+OB-495 Observation ref={EN-494} stat=final date=2022-05-10T08:17:43 codes={Hemoglobin (Mass/volume) in Blood (value = 11.817 g/dL)} category=Laboratory
+OB-496 Observation ref={EN-494} stat=final date=2022-05-10T08:17:43 codes={Hematocrit (Volume Fraction) of Blood (value = 33.605 %)} category=Laboratory
+OB-497 Observation ref={EN-494} stat=final date=2022-05-10T08:17:43 codes={Leukocytes (#/volume) in Blood by Automated count (value = 6.9205 10*3/uL)} category=Laboratory
+OB-498 Observation ref={EN-494} stat=final date=2022-05-10T08:17:43 codes={Erythrocytes (#/volume) in Blood by Automated count (value = 4.1276 10*6/uL)} category=Laboratory
+OB-499 Observation ref={EN-494} stat=final date=2022-05-10T08:17:43 codes={MCV (Entitic volume) by Automated count (value = 87.169 fL)} category=Laboratory
+OB-500 Observation ref={EN-494} stat=final date=2022-05-10T08:17:43 codes={MCH (Entitic mass) by Automated count (value = 30.645 pg)} category=Laboratory
+OB-501 Observation ref={EN-494} stat=final date=2022-05-10T08:17:43 codes={MCHC (Mass/volume) by Automated count (value = 33.767 g/dL)} category=Laboratory
+OB-502 Observation ref={EN-494} stat=final date=2022-05-10T08:17:43 codes={Erythrocyte distribution width (Entitic volume) by Automated count (value = 39.321 fL)} category=Laboratory
+OB-503 Observation ref={EN-494} stat=final date=2022-05-10T08:17:43 codes={Platelets (#/volume) in Blood by Automated count (value = 282.1 10*3/uL)} category=Laboratory
+OB-504 Observation ref={EN-494} stat=final date=2022-05-10T08:17:43 codes={Platelet distribution width (Entitic volume) in Blood by Automated count (value = 364.06 fL)} category=Laboratory
+OB-505 Observation ref={EN-494} stat=final date=2022-05-10T08:17:43 codes={Platelet mean volume (Entitic volume) in Blood by Automated count (value = 10.007 fL)} category=Laboratory
+IM-159 Immunization ref={EN-125} stat=completed date=2016-04-26T08:17:43 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-160 Immunization ref={EN-125} stat=completed date=2016-04-26T08:17:43 codes={Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed} primarySource=True
+IM-161 Immunization ref={EN-125} stat=completed date=2016-04-26T08:17:43 codes={Hep B, adult} primarySource=True
+IM-162 Immunization ref={EN-125} stat=completed date=2016-04-26T08:17:43 codes={meningococcal MCV4P} primarySource=True
+IM-319 Immunization ref={EN-301} stat=completed date=2019-04-30T08:17:43 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-484 Immunization ref={EN-446} stat=completed date=2022-05-03T08:17:43 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+MD-327 Medication ref={} stat=active codes={Etonogestrel 68 MG Drug Implant} 
+MD-338 Medication ref={} stat=active codes={Etonogestrel 68 MG Drug Implant} 
+MA-331 MedicationAdministration ref={EN-325} stat=completed date=2019-07-10T08:17:43 codes={Etonogestrel 68 MG Drug Implant} 
+MA-342 MedicationAdministration ref={EN-336} stat=completed date=2020-07-04T08:42:41 codes={Etonogestrel 68 MG Drug Implant} 

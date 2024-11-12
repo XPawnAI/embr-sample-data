@@ -1,0 +1,246 @@
+PT-1 Patient ref={} stat=living codes={} name=Melba Marylou Wilkinson gender=female birthDate=2011-10-17 address=1073 Mueller Village, Leominster, MA, 01420 maritalStatus=Never Married multipleBirthBoolean=False communication=English (United States)
+EN-2 Encounter ref={} stat=finished date=2014-12-05T12:19:20 codes={Encounter for symptom,Streptococcal sore throat,ambulatory} provider=performer Dr. Ronald Emard facility=UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC endDate=2014-12-05T12:34:20
+EN-12 Encounter ref={} stat=finished date=2015-03-23T18:19:20 codes={Well child visit,ambulatory} provider=performer Dr. Christopher Mohr facility=CEDAR STREET FAMILY CLINIC INC endDate=2015-03-23T18:34:20
+EN-30 Encounter ref={} stat=finished date=2015-08-20T18:19:20 codes={Emergency room admission,Laceration - injury,emergency} provider=performer Dr. Jamar Howe facility=BEACON HOSPICE, AN AMEDISYS COMPANY endDate=2015-08-20T19:19:20
+EN-43 Encounter ref={} stat=finished date=2015-09-21T18:19:20 codes={Well child visit,ambulatory} provider=performer Dr. Christopher Mohr facility=CEDAR STREET FAMILY CLINIC INC endDate=2015-09-21T18:34:20
+EN-63 Encounter ref={} stat=finished date=2015-09-28T18:19:20 codes={Encounter for check up,Patient referral for dental care,ambulatory} provider=performer Dr. Ronald Emard facility=UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC endDate=2015-09-28T22:01:55
+EN-82 Encounter ref={} stat=finished date=2016-09-26T18:19:20 codes={Well child visit,ambulatory} provider=performer Dr. Christopher Mohr facility=CEDAR STREET FAMILY CLINIC INC endDate=2016-09-26T18:34:20
+EN-103 Encounter ref={} stat=finished date=2016-11-19T17:19:20 codes={Encounter for symptom,Otitis media,ambulatory} provider=performer Dr. Ronald Emard facility=UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC endDate=2016-11-19T17:34:20
+EN-115 Encounter ref={} stat=finished date=2017-10-02T18:19:20 codes={Well child visit,ambulatory} provider=performer Dr. Christopher Mohr facility=CEDAR STREET FAMILY CLINIC INC endDate=2017-10-02T18:34:20
+EN-144 Encounter ref={} stat=finished date=2018-10-08T18:19:20 codes={Well child visit,ambulatory} provider=performer Dr. Christopher Mohr facility=CEDAR STREET FAMILY CLINIC INC endDate=2018-10-08T18:34:20
+EN-160 Encounter ref={} stat=finished date=2019-10-14T18:19:20 codes={Well child visit,ambulatory} provider=performer Dr. Christopher Mohr facility=CEDAR STREET FAMILY CLINIC INC endDate=2019-10-14T18:34:20
+EN-178 Encounter ref={} stat=finished date=2019-10-21T18:19:20 codes={Encounter for check up,Gingivitis,ambulatory} provider=performer Dr. Ronald Emard facility=UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC endDate=2019-10-22T01:14:10
+EN-207 Encounter ref={} stat=finished date=2020-10-19T18:19:20 codes={Well child visit,ambulatory} provider=performer Dr. Christopher Mohr facility=CEDAR STREET FAMILY CLINIC INC endDate=2020-10-19T18:34:20
+EN-223 Encounter ref={} stat=finished date=2021-10-25T18:19:20 codes={Well child visit,ambulatory} provider=performer Dr. Christopher Mohr facility=CEDAR STREET FAMILY CLINIC INC endDate=2021-10-25T18:34:20
+EN-239 Encounter ref={} stat=finished date=2022-10-31T18:19:20 codes={Well child visit,ambulatory} provider=performer Dr. Christopher Mohr facility=CEDAR STREET FAMILY CLINIC INC endDate=2022-10-31T18:34:20
+EN-271 Encounter ref={} stat=finished date=2023-10-30T18:19:20 codes={Administration of vaccine to produce active immunity,ambulatory} provider=performer Dr. Ronald Emard facility=UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC endDate=2023-10-30T18:34:20
+EN-277 Encounter ref={} stat=finished date=2023-11-06T17:19:20 codes={Well child visit,ambulatory} provider=performer Dr. Christopher Mohr facility=CEDAR STREET FAMILY CLINIC INC endDate=2023-11-06T17:36:31
+EN-306 Encounter ref={} stat=finished date=2023-11-20T17:19:20 codes={Administration of vaccine to produce active immunity,ambulatory} provider=performer Dr. Ronald Emard facility=UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC endDate=2023-11-20T17:34:20
+EN-312 Encounter ref={} stat=finished date=2023-11-20T17:19:20 codes={Encounter for check up,Patient referral for dental care,ambulatory} provider=performer Dr. Ronald Emard facility=UMASS MEMORIAL HEALTHALLIANCE CLINTON HOSPITAL INC endDate=2023-11-20T20:39:27
+CN-3 Condition ref={EN-2} stat=confirmed date=2014-12-05T12:19:20 codes={Streptococcal sore throat} onsetDateTime=2014-12-05T12:19:20 abatementDateTime=2014-12-18T20:19:20
+CN-13 Condition ref={EN-12} stat=confirmed date=2015-03-23T18:19:20 codes={Medication review due} onsetDateTime=2015-03-23T18:19:20 abatementDateTime=2015-09-21T18:19:20
+CN-31 Condition ref={EN-30} stat=confirmed date=2015-08-20T18:19:20 codes={Laceration - injury} onsetDateTime=2015-08-20T18:19:20 abatementDateTime=2015-09-15T18:29:26
+CN-32 Condition ref={EN-30} stat=confirmed date=2015-08-20T18:19:20 codes={Laceration of hand} onsetDateTime=2015-08-20T18:19:20 abatementDateTime=2015-09-15T18:29:26
+CN-64 Condition ref={EN-63} stat=confirmed date=2015-09-28T21:33:19 codes={Primary dental caries} onsetDateTime=2015-09-28T21:33:19 abatementDateTime=2015-09-28T21:49:45
+CN-83 Condition ref={EN-82} stat=confirmed date=2016-09-26T18:19:20 codes={Medication review due} onsetDateTime=2016-09-26T18:19:20 abatementDateTime=2016-09-26T18:19:20
+CN-104 Condition ref={EN-103} stat=confirmed date=2016-11-19T17:19:20 codes={Otitis media} onsetDateTime=2016-11-19T17:19:20 abatementDateTime=2017-10-02T18:19:20
+CN-116 Condition ref={EN-115} stat=confirmed date=2017-10-02T18:19:20 codes={Medication review due} onsetDateTime=2017-10-02T18:19:20 abatementDateTime=2017-10-02T18:19:20
+CN-145 Condition ref={EN-144} stat=confirmed date=2018-10-08T18:19:20 codes={Medication review due} onsetDateTime=2018-10-08T18:19:20 abatementDateTime=2019-10-14T18:19:20
+CN-161 Condition ref={EN-160} stat=confirmed date=2019-10-14T18:19:20 codes={Gingivitis} onsetDateTime=2019-10-14T18:19:20 abatementDateTime=2019-10-22T00:28:14
+CN-179 Condition ref={EN-178} stat=confirmed date=2019-10-21T21:20:34 codes={Gingival disease} onsetDateTime=2019-10-21T21:20:34 abatementDateTime=2019-10-21T23:25:16
+CN-208 Condition ref={EN-207} stat=confirmed date=2020-10-19T18:19:20 codes={Medication review due} onsetDateTime=2020-10-19T18:19:20 abatementDateTime=2021-10-25T18:19:20
+CN-240 Condition ref={EN-239} stat=confirmed date=2022-10-31T18:19:20 codes={Medication review due} onsetDateTime=2022-10-31T18:19:20 abatementDateTime=2022-10-31T18:19:20
+CN-278 Condition ref={EN-277} stat=confirmed date=2023-11-06T17:19:20 codes={Medication review due} onsetDateTime=2023-11-06T17:19:20 abatementDateTime=2023-11-06T17:19:20
+DR-139 DiagnosticReport ref={EN-115,OB-125,OB-126,OB-127,OB-128,OB-129,OB-130,OB-131,OB-132,OB-133,OB-134,OB-135} stat=final date=2017-10-02T18:19:20 codes={CBC panel - Blood by Automated count} category=['v2-0074:LAB Laboratory'] provider=CEDAR STREET FAMILY CLINIC INC
+DR-266 DiagnosticReport ref={EN-239,OB-249,OB-250,OB-251,OB-252,OB-253,OB-254,OB-255,OB-256,OB-257,OB-258,OB-259} stat=final date=2022-10-31T18:19:20 codes={CBC panel - Blood by Automated count} category=['v2-0074:LAB Laboratory'] provider=CEDAR STREET FAMILY CLINIC INC
+DR-300 DiagnosticReport ref={EN-277,OB-288} stat=final date=2023-11-06T17:36:31 codes={Generalized anxiety disorder 7 item} 
+DR-301 DiagnosticReport ref={EN-277,OB-289} stat=final date=2023-11-06T18:18:17 codes={Patient Health Questionnaire-9: Modified for Teens (Reported.PHQ.Teen)} 
+DV-73 Device ref={} stat=active codes={Dental x-ray system} deviceName=Dental x-ray system
+DV-192 Device ref={} stat=active codes={Dental x-ray system} deviceName=Dental x-ray system
+DV-193 Device ref={} stat=active codes={Operating room (environment)} deviceName=Operating room (environment)
+SD-74 SupplyDelivery ref={} stat=completed date=2015-09-28T19:27:57 codes={Dental equipment} type=Device quantity=[1]
+SD-75 SupplyDelivery ref={} stat=completed date=2015-09-28T19:27:57 codes={Conventional release periodontal gel} type=Device quantity=[1]
+SD-76 SupplyDelivery ref={} stat=completed date=2015-09-28T19:27:57 codes={Dental floss} type=Device quantity=[1]
+SD-194 SupplyDelivery ref={} stat=completed date=2019-10-21T19:31:39 codes={Dental equipment} type=Device quantity=[1]
+SD-195 SupplyDelivery ref={} stat=completed date=2019-10-21T19:31:39 codes={Conventional release periodontal gel} type=Device quantity=[1]
+SD-196 SupplyDelivery ref={} stat=completed date=2019-10-21T19:31:39 codes={Dental floss} type=Device quantity=[1]
+SD-320 SupplyDelivery ref={} stat=completed date=2023-11-20T18:22:23 codes={Dental equipment} type=Device quantity=[1]
+SD-321 SupplyDelivery ref={} stat=completed date=2023-11-20T18:22:23 codes={Conventional release periodontal gel} type=Device quantity=[1]
+SD-322 SupplyDelivery ref={} stat=completed date=2023-11-20T18:22:23 codes={Dental floss} type=Device quantity=[1]
+IS-77 ImagingStudy ref={EN-63} stat=available date=2015-09-28T20:37:38 codes={Dental plain X-ray bitewing,Digital Radiography,Structure of region of internal part of mouth,Digital Intra-Oral X-Ray Image} 
+IS-202 ImagingStudy ref={EN-178} stat=available date=2019-10-21T20:48:40 codes={Dental plain X-ray bitewing,Digital Radiography,Structure of region of internal part of mouth,Digital Intra-Oral X-Ray Image} 
+CP-38 CarePlan ref={EN-30,CN-32} stat=completed date=2015-08-20T18:19:20 codes={Dressing change management at BEACON HOSPICE, AN AMEDISYS COMPANY,Behavior to prevent infection (observable entity) at BEACON HOSPICE, AN AMEDISYS COMPANY,careplan-category assess-plan,Wound care,Dressing change management,Behavior to prevent infection (observable entity)} text=Care Plan for Wound care.Care plan is meant to treat Laceration of hand.Activities: Wound careWound care intent=order endDate=2015-09-15T18:29:26
+MR-5 MedicationRequest ref={EN-2,CN-3} stat=stopped date=2014-12-05T12:19:20 codes={Penicillin V Potassium 250 MG Oral Tablet} intent=order requester=Dr. Ronald Emard
+MR-34 MedicationRequest ref={EN-30} stat=stopped date=2015-08-20T18:29:26 codes={Ibuprofen 100 MG Oral Tablet} intent=order requester=Dr. Jamar Howe dosageInstruction= Take as needed.
+MR-105 MedicationRequest ref={EN-103} stat=stopped date=2016-11-19T17:19:20 codes={Amoxicillin 500 MG Oral Tablet} intent=order requester=Dr. Ronald Emard dosageInstruction=3 for 1.0 d sct:418577003 Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value)
+MR-108 MedicationRequest ref={EN-103} stat=stopped date=2016-11-19T17:19:20 codes={Ibuprofen 100 MG Oral Tablet} intent=order requester=Dr. Ronald Emard dosageInstruction= Take as needed.
+MR-198 MedicationRequest ref={EN-178,CN-161,MD-197} stat=stopped date=2019-10-22T00:28:14 codes={} intent=order requester=Dr. Ronald Emard
+MR-324 MedicationRequest ref={EN-312,MD-323} stat=stopped date=2023-11-20T19:53:49 codes={} intent=order requester=Dr. Ronald Emard reasonCode=['sct:103697008 Patient referral for dental care']
+PR-33 Procedure ref={EN-30,CN-32} stat=completed date=2015-08-20T18:19:20 codes={Suture open wound} endDate=2015-08-20T18:29:26
+PR-56 Procedure ref={EN-43} stat=completed date=2015-09-21T18:19:20 codes={Medication reconciliation} endDate=2015-09-21T18:34:20
+PR-57 Procedure ref={EN-43} stat=completed date=2015-09-21T18:19:20 codes={Patient referral for dental care} endDate=2015-09-21T18:30:03
+PR-65 Procedure ref={EN-63} stat=completed date=2015-09-28T18:19:20 codes={Dental consultation and report} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2015-09-28T18:58:25
+PR-66 Procedure ref={EN-63} stat=completed date=2015-09-28T18:58:25 codes={Dental care} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2015-09-28T19:27:57
+PR-67 Procedure ref={EN-63} stat=completed date=2015-09-28T19:27:57 codes={Removal of supragingival plaque and calculus from all teeth using dental instrument} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2015-09-28T19:52:48
+PR-68 Procedure ref={EN-63} stat=completed date=2015-09-28T19:52:48 codes={Removal of subgingival plaque and calculus from all teeth using dental instrument} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2015-09-28T20:37:38
+PR-69 Procedure ref={EN-63} stat=completed date=2015-09-28T20:37:38 codes={Dental plain X-ray bitewing} endDate=2015-09-28T21:07:38
+PR-70 Procedure ref={EN-63} stat=completed date=2015-09-28T20:37:38 codes={Examination of gingivae} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2015-09-28T21:33:19
+PR-71 Procedure ref={EN-63,CN-64} stat=completed date=2015-09-28T21:33:19 codes={Application of composite dental filling material to dentin of tooth following fracture of tooth} endDate=2015-09-28T21:49:45
+PR-72 Procedure ref={EN-63} stat=completed date=2015-09-28T21:49:45 codes={Oral health education} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2015-09-28T22:01:55
+PR-93 Procedure ref={EN-82} stat=completed date=2016-09-26T18:19:20 codes={Medication reconciliation} endDate=2016-09-26T18:34:20
+PR-137 Procedure ref={EN-115} stat=completed date=2017-10-02T18:19:20 codes={Medication reconciliation} endDate=2017-10-02T18:34:20
+PR-171 Procedure ref={EN-160} stat=completed date=2019-10-14T18:19:20 codes={Medication reconciliation} endDate=2019-10-14T18:34:20
+PR-172 Procedure ref={EN-160,CN-161} stat=completed date=2019-10-14T18:19:20 codes={Patient referral for dental care} endDate=2019-10-14T18:33:07
+PR-180 Procedure ref={EN-178,CN-161} stat=completed date=2019-10-21T18:19:20 codes={Dental consultation and report} endDate=2019-10-21T18:56:09
+PR-181 Procedure ref={EN-178,CN-161} stat=completed date=2019-10-21T18:56:09 codes={Dental care} endDate=2019-10-21T19:31:39
+PR-182 Procedure ref={EN-178,CN-161} stat=completed date=2019-10-21T19:31:39 codes={Removal of supragingival plaque and calculus from all teeth using dental instrument} endDate=2019-10-21T20:21:26
+PR-183 Procedure ref={EN-178,CN-161} stat=completed date=2019-10-21T20:21:26 codes={Removal of subgingival plaque and calculus from all teeth using dental instrument} endDate=2019-10-21T20:48:40
+PR-184 Procedure ref={EN-178} stat=completed date=2019-10-21T20:48:40 codes={Dental plain X-ray bitewing} endDate=2019-10-21T21:18:40
+PR-185 Procedure ref={EN-178,CN-161} stat=completed date=2019-10-21T20:48:40 codes={Examination of gingivae} endDate=2019-10-21T21:20:34
+PR-186 Procedure ref={EN-178,CN-179} stat=completed date=2019-10-21T21:20:34 codes={Dental surgical procedure} endDate=2019-10-21T21:34:22
+PR-187 Procedure ref={EN-178,CN-179} stat=completed date=2019-10-21T21:34:22 codes={Dental application of desensitizing medicament} endDate=2019-10-21T22:24:33
+PR-188 Procedure ref={EN-178,CN-179} stat=completed date=2019-10-21T22:24:33 codes={Gingivectomy or gingivoplasty, per tooth} endDate=2019-10-21T23:25:16
+PR-189 Procedure ref={EN-178} stat=completed date=2019-10-21T23:25:16 codes={Postoperative care for dental procedure} endDate=2019-10-22T00:28:14
+PR-190 Procedure ref={EN-178,CN-161} stat=completed date=2019-10-22T00:28:14 codes={Dental fluoride treatment} endDate=2019-10-22T00:52:12
+PR-191 Procedure ref={EN-178,CN-161} stat=completed date=2019-10-22T00:52:12 codes={Oral health education} endDate=2019-10-22T01:14:10
+PR-233 Procedure ref={EN-223} stat=completed date=2021-10-25T18:19:20 codes={Medication reconciliation} endDate=2021-10-25T18:34:20
+PR-261 Procedure ref={EN-239} stat=completed date=2022-10-31T18:19:20 codes={Medication reconciliation} endDate=2022-10-31T18:34:20
+PR-290 Procedure ref={EN-277} stat=completed date=2023-11-06T17:19:20 codes={Medication reconciliation} endDate=2023-11-06T17:34:20
+PR-291 Procedure ref={EN-277} stat=completed date=2023-11-06T17:19:20 codes={Assessment of anxiety} endDate=2023-11-06T17:36:31
+PR-292 Procedure ref={EN-277} stat=completed date=2023-11-06T17:36:31 codes={Depression screening} endDate=2023-11-06T17:50:47
+PR-293 Procedure ref={EN-277} stat=completed date=2023-11-06T17:50:47 codes={Depression screening using Patient Health Questionnaire Nine Item score} endDate=2023-11-06T18:18:17
+PR-294 Procedure ref={EN-277} stat=completed date=2023-11-06T18:18:17 codes={Assessment of substance use} endDate=2023-11-06T18:28:18
+PR-295 Procedure ref={EN-277} stat=completed date=2023-11-06T18:28:18 codes={Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test} endDate=2023-11-06T18:52:39
+PR-296 Procedure ref={EN-277} stat=completed date=2023-11-06T18:52:39 codes={Anticipatory guidance} endDate=2023-11-06T18:59:43
+PR-297 Procedure ref={EN-277} stat=completed date=2023-11-06T18:59:43 codes={Patient referral for dental care} endDate=2023-11-06T19:05:37
+PR-313 Procedure ref={EN-312} stat=completed date=2023-11-20T17:19:20 codes={Dental consultation and report} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2023-11-20T17:58:56
+PR-314 Procedure ref={EN-312} stat=completed date=2023-11-20T17:58:56 codes={Dental care} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2023-11-20T18:22:23
+PR-315 Procedure ref={EN-312} stat=completed date=2023-11-20T18:22:23 codes={Removal of supragingival plaque and calculus from all teeth using dental instrument} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2023-11-20T18:35:01
+PR-316 Procedure ref={EN-312} stat=completed date=2023-11-20T18:35:01 codes={Removal of subgingival plaque and calculus from all teeth using dental instrument} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2023-11-20T19:03:26
+PR-317 Procedure ref={EN-312} stat=completed date=2023-11-20T19:03:26 codes={Examination of gingivae} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2023-11-20T19:53:49
+PR-318 Procedure ref={EN-312} stat=completed date=2023-11-20T19:53:49 codes={Dental fluoride treatment} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2023-11-20T20:30:22
+PR-319 Procedure ref={EN-312} stat=completed date=2023-11-20T20:30:22 codes={Oral health education} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2023-11-20T20:39:27
+OB-4 Observation ref={EN-2} stat=final date=2014-12-05T12:19:20 codes={Body temperature,Oral temperature} category=Vital valueQuantity=38.555 Cel
+OB-14 Observation ref={EN-12} stat=final date=2015-03-23T18:19:20 codes={Body Height (value = 104.5 cm)} category=Vital
+OB-15 Observation ref={EN-12} stat=final date=2015-03-23T18:19:20 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 1 {score})} category=Vital
+OB-16 Observation ref={EN-12} stat=final date=2015-03-23T18:19:20 codes={Body Weight (value = 19.5 kg)} category=Vital
+OB-17 Observation ref={EN-12} stat=final date=2015-03-23T18:19:20 codes={Weight-for-length Per age and sex (value = 94.513 %)} category=Vital
+OB-18 Observation ref={EN-12} stat=final date=2015-03-23T18:19:20 codes={Head Occipital-frontal circumference Percentile (value = 98.01 %)} category=Vital
+OB-19 Observation ref={EN-12} stat=final date=2015-03-23T18:19:20 codes={Head Occipital-frontal circumference (value = 51.7 cm)} category=Vital
+OB-20 Observation ref={EN-12} stat=final date=2015-03-23T18:19:20 codes={Body mass index (BMI) (value = 17.87 kg/m2)} category=Vital
+OB-21 Observation ref={EN-12} stat=final date=2015-03-23T18:19:20 codes={Body mass index (BMI) Per age and sex (value = 93.742 %)} category=Vital
+OB-22 Observation ref={EN-12} stat=final date=2015-03-23T18:19:20 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 82 mm(Hg),Systolic Blood Pressure 112 mm(Hg)} category=Vital
+OB-23 Observation ref={EN-12} stat=final date=2015-03-23T18:19:20 codes={Heart rate (value = 68 /min)} category=Vital
+OB-24 Observation ref={EN-12} stat=final date=2015-03-23T18:19:20 codes={Respiratory rate (value = 14 /min)} category=Vital
+OB-25 Observation ref={EN-12} stat=final date=2015-03-23T18:19:20 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-44 Observation ref={EN-43} stat=final date=2015-09-21T18:19:20 codes={Body Height (value = 108.3 cm)} category=Vital
+OB-45 Observation ref={EN-43} stat=final date=2015-09-21T18:19:20 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 1 {score})} category=Vital
+OB-46 Observation ref={EN-43} stat=final date=2015-09-21T18:19:20 codes={Body Weight (value = 20.8 kg)} category=Vital
+OB-47 Observation ref={EN-43} stat=final date=2015-09-21T18:19:20 codes={Weight-for-length Per age and sex (value = 94.513 %)} category=Vital
+OB-48 Observation ref={EN-43} stat=final date=2015-09-21T18:19:20 codes={Head Occipital-frontal circumference Percentile (value = 98.01 %)} category=Vital
+OB-49 Observation ref={EN-43} stat=final date=2015-09-21T18:19:20 codes={Head Occipital-frontal circumference (value = 51.7 cm)} category=Vital
+OB-50 Observation ref={EN-43} stat=final date=2015-09-21T18:19:20 codes={Body mass index (BMI) (value = 17.74 kg/m2)} category=Vital
+OB-51 Observation ref={EN-43} stat=final date=2015-09-21T18:19:20 codes={Body mass index (BMI) Per age and sex (value = 93.536 %)} category=Vital
+OB-52 Observation ref={EN-43} stat=final date=2015-09-21T18:19:20 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 86 mm(Hg),Systolic Blood Pressure 105 mm(Hg)} category=Vital
+OB-53 Observation ref={EN-43} stat=final date=2015-09-21T18:19:20 codes={Heart rate (value = 98 /min)} category=Vital
+OB-54 Observation ref={EN-43} stat=final date=2015-09-21T18:19:20 codes={Respiratory rate (value = 13 /min)} category=Vital
+OB-55 Observation ref={EN-43} stat=final date=2015-09-21T18:19:20 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-84 Observation ref={EN-82} stat=final date=2016-09-26T18:19:20 codes={Body Height (value = 116 cm)} category=Vital
+OB-85 Observation ref={EN-82} stat=final date=2016-09-26T18:19:20 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 4 {score})} category=Vital
+OB-86 Observation ref={EN-82} stat=final date=2016-09-26T18:19:20 codes={Body Weight (value = 24.3 kg)} category=Vital
+OB-87 Observation ref={EN-82} stat=final date=2016-09-26T18:19:20 codes={Body mass index (BMI) (value = 18.04 kg/m2)} category=Vital
+OB-88 Observation ref={EN-82} stat=final date=2016-09-26T18:19:20 codes={Body mass index (BMI) Per age and sex (value = 94.291 %)} category=Vital
+OB-89 Observation ref={EN-82} stat=final date=2016-09-26T18:19:20 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 76 mm(Hg),Systolic Blood Pressure 113 mm(Hg)} category=Vital
+OB-90 Observation ref={EN-82} stat=final date=2016-09-26T18:19:20 codes={Heart rate (value = 93 /min)} category=Vital
+OB-91 Observation ref={EN-82} stat=final date=2016-09-26T18:19:20 codes={Respiratory rate (value = 14 /min)} category=Vital
+OB-92 Observation ref={EN-82} stat=final date=2016-09-26T18:19:20 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-117 Observation ref={EN-115} stat=final date=2017-10-02T18:19:20 codes={Body Height (value = 123.9 cm)} category=Vital
+OB-118 Observation ref={EN-115} stat=final date=2017-10-02T18:19:20 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 1 {score})} category=Vital
+OB-119 Observation ref={EN-115} stat=final date=2017-10-02T18:19:20 codes={Body Weight (value = 28 kg)} category=Vital
+OB-120 Observation ref={EN-115} stat=final date=2017-10-02T18:19:20 codes={Body mass index (BMI) (value = 18.25 kg/m2)} category=Vital
+OB-121 Observation ref={EN-115} stat=final date=2017-10-02T18:19:20 codes={Body mass index (BMI) Per age and sex (value = 93.077 %)} category=Vital
+OB-122 Observation ref={EN-115} stat=final date=2017-10-02T18:19:20 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 81 mm(Hg),Systolic Blood Pressure 96 mm(Hg)} category=Vital
+OB-123 Observation ref={EN-115} stat=final date=2017-10-02T18:19:20 codes={Heart rate (value = 89 /min)} category=Vital
+OB-124 Observation ref={EN-115} stat=final date=2017-10-02T18:19:20 codes={Respiratory rate (value = 15 /min)} category=Vital
+OB-125 Observation ref={EN-115} stat=final date=2017-10-02T18:19:20 codes={Leukocytes (#/volume) in Blood by Automated count (value = 7.8794 10*3/uL)} category=Laboratory
+OB-126 Observation ref={EN-115} stat=final date=2017-10-02T18:19:20 codes={Erythrocytes (#/volume) in Blood by Automated count (value = 4.9864 10*6/uL)} category=Laboratory
+OB-127 Observation ref={EN-115} stat=final date=2017-10-02T18:19:20 codes={Hemoglobin (Mass/volume) in Blood (value = 15.819 g/dL)} category=Laboratory
+OB-128 Observation ref={EN-115} stat=final date=2017-10-02T18:19:20 codes={Hematocrit (Volume Fraction) of Blood by Automated count (value = 44.802 %)} category=Laboratory
+OB-129 Observation ref={EN-115} stat=final date=2017-10-02T18:19:20 codes={MCV (Entitic volume) by Automated count (value = 94.228 fL)} category=Laboratory
+OB-130 Observation ref={EN-115} stat=final date=2017-10-02T18:19:20 codes={MCH (Entitic mass) by Automated count (value = 32.652 pg)} category=Laboratory
+OB-131 Observation ref={EN-115} stat=final date=2017-10-02T18:19:20 codes={MCHC (Mass/volume) by Automated count (value = 35.975 g/dL)} category=Laboratory
+OB-132 Observation ref={EN-115} stat=final date=2017-10-02T18:19:20 codes={Erythrocyte distribution width (Entitic volume) by Automated count (value = 40.34 fL)} category=Laboratory
+OB-133 Observation ref={EN-115} stat=final date=2017-10-02T18:19:20 codes={Platelets (#/volume) in Blood by Automated count (value = 406.09 10*3/uL)} category=Laboratory
+OB-134 Observation ref={EN-115} stat=final date=2017-10-02T18:19:20 codes={Platelet distribution width (Entitic volume) in Blood by Automated count (value = 373.91 fL)} category=Laboratory
+OB-135 Observation ref={EN-115} stat=final date=2017-10-02T18:19:20 codes={Platelet mean volume (Entitic volume) in Blood by Automated count (value = 9.5595 fL)} category=Laboratory
+OB-136 Observation ref={EN-115} stat=final date=2017-10-02T18:19:20 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-146 Observation ref={EN-144} stat=final date=2018-10-08T18:19:20 codes={Body Height (value = 131.3 cm)} category=Vital
+OB-147 Observation ref={EN-144} stat=final date=2018-10-08T18:19:20 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 0 {score})} category=Vital
+OB-148 Observation ref={EN-144} stat=final date=2018-10-08T18:19:20 codes={Body Weight (value = 35.9 kg)} category=Vital
+OB-149 Observation ref={EN-144} stat=final date=2018-10-08T18:19:20 codes={Body mass index (BMI) (value = 20.84 kg/m2)} category=Vital
+OB-150 Observation ref={EN-144} stat=final date=2018-10-08T18:19:20 codes={Body mass index (BMI) Per age and sex (value = 97.191 %)} category=Vital
+OB-151 Observation ref={EN-144} stat=final date=2018-10-08T18:19:20 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 82 mm(Hg),Systolic Blood Pressure 112 mm(Hg)} category=Vital
+OB-152 Observation ref={EN-144} stat=final date=2018-10-08T18:19:20 codes={Heart rate (value = 82 /min)} category=Vital
+OB-153 Observation ref={EN-144} stat=final date=2018-10-08T18:19:20 codes={Respiratory rate (value = 14 /min)} category=Vital
+OB-154 Observation ref={EN-144} stat=final date=2018-10-08T18:19:20 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-162 Observation ref={EN-160} stat=final date=2019-10-14T18:19:20 codes={Body Height (value = 138.1 cm)} category=Vital
+OB-163 Observation ref={EN-160} stat=final date=2019-10-14T18:19:20 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 2 {score})} category=Vital
+OB-164 Observation ref={EN-160} stat=final date=2019-10-14T18:19:20 codes={Body Weight (value = 40.7 kg)} category=Vital
+OB-165 Observation ref={EN-160} stat=final date=2019-10-14T18:19:20 codes={Body mass index (BMI) (value = 21.36 kg/m2)} category=Vital
+OB-166 Observation ref={EN-160} stat=final date=2019-10-14T18:19:20 codes={Body mass index (BMI) Per age and sex (value = 96.335 %)} category=Vital
+OB-167 Observation ref={EN-160} stat=final date=2019-10-14T18:19:20 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 78 mm(Hg),Systolic Blood Pressure 104 mm(Hg)} category=Vital
+OB-168 Observation ref={EN-160} stat=final date=2019-10-14T18:19:20 codes={Heart rate (value = 93 /min)} category=Vital
+OB-169 Observation ref={EN-160} stat=final date=2019-10-14T18:19:20 codes={Respiratory rate (value = 12 /min)} category=Vital
+OB-170 Observation ref={EN-160} stat=final date=2019-10-14T18:19:20 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-209 Observation ref={EN-207} stat=final date=2020-10-19T18:19:20 codes={Body Height (value = 144.5 cm)} category=Vital
+OB-210 Observation ref={EN-207} stat=final date=2020-10-19T18:19:20 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 2 {score})} category=Vital
+OB-211 Observation ref={EN-207} stat=final date=2020-10-19T18:19:20 codes={Body Weight (value = 43.4 kg)} category=Vital
+OB-212 Observation ref={EN-207} stat=final date=2020-10-19T18:19:20 codes={Body mass index (BMI) (value = 20.77 kg/m2)} category=Vital
+OB-213 Observation ref={EN-207} stat=final date=2020-10-19T18:19:20 codes={Body mass index (BMI) Per age and sex (value = 92.51 %)} category=Vital
+OB-214 Observation ref={EN-207} stat=final date=2020-10-19T18:19:20 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 84 mm(Hg),Systolic Blood Pressure 109 mm(Hg)} category=Vital
+OB-215 Observation ref={EN-207} stat=final date=2020-10-19T18:19:20 codes={Heart rate (value = 90 /min)} category=Vital
+OB-216 Observation ref={EN-207} stat=final date=2020-10-19T18:19:20 codes={Respiratory rate (value = 13 /min)} category=Vital
+OB-217 Observation ref={EN-207} stat=final date=2020-10-19T18:19:20 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-224 Observation ref={EN-223} stat=final date=2021-10-25T18:19:20 codes={Body Height (value = 150.4 cm)} category=Vital
+OB-225 Observation ref={EN-223} stat=final date=2021-10-25T18:19:20 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 0 {score})} category=Vital
+OB-226 Observation ref={EN-223} stat=final date=2021-10-25T18:19:20 codes={Body Weight (value = 47.9 kg)} category=Vital
+OB-227 Observation ref={EN-223} stat=final date=2021-10-25T18:19:20 codes={Body mass index (BMI) (value = 21.19 kg/m2)} category=Vital
+OB-228 Observation ref={EN-223} stat=final date=2021-10-25T18:19:20 codes={Body mass index (BMI) Per age and sex (value = 90.563 %)} category=Vital
+OB-229 Observation ref={EN-223} stat=final date=2021-10-25T18:19:20 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 81 mm(Hg),Systolic Blood Pressure 112 mm(Hg)} category=Vital
+OB-230 Observation ref={EN-223} stat=final date=2021-10-25T18:19:20 codes={Heart rate (value = 75 /min)} category=Vital
+OB-231 Observation ref={EN-223} stat=final date=2021-10-25T18:19:20 codes={Respiratory rate (value = 13 /min)} category=Vital
+OB-232 Observation ref={EN-223} stat=final date=2021-10-25T18:19:20 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-241 Observation ref={EN-239} stat=final date=2022-10-31T18:19:20 codes={Body Height (value = 157.2 cm)} category=Vital
+OB-242 Observation ref={EN-239} stat=final date=2022-10-31T18:19:20 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 2 {score})} category=Vital
+OB-243 Observation ref={EN-239} stat=final date=2022-10-31T18:19:20 codes={Body Weight (value = 54.2 kg)} category=Vital
+OB-244 Observation ref={EN-239} stat=final date=2022-10-31T18:19:20 codes={Body mass index (BMI) (value = 21.93 kg/m2)} category=Vital
+OB-245 Observation ref={EN-239} stat=final date=2022-10-31T18:19:20 codes={Body mass index (BMI) Per age and sex (value = 89.695 %)} category=Vital
+OB-246 Observation ref={EN-239} stat=final date=2022-10-31T18:19:20 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 81 mm(Hg),Systolic Blood Pressure 101 mm(Hg)} category=Vital
+OB-247 Observation ref={EN-239} stat=final date=2022-10-31T18:19:20 codes={Heart rate (value = 90 /min)} category=Vital
+OB-248 Observation ref={EN-239} stat=final date=2022-10-31T18:19:20 codes={Respiratory rate (value = 13 /min)} category=Vital
+OB-249 Observation ref={EN-239} stat=final date=2022-10-31T18:19:20 codes={Leukocytes (#/volume) in Blood by Automated count (value = 4.5317 10*3/uL)} category=Laboratory
+OB-250 Observation ref={EN-239} stat=final date=2022-10-31T18:19:20 codes={Erythrocytes (#/volume) in Blood by Automated count (value = 5.0929 10*6/uL)} category=Laboratory
+OB-251 Observation ref={EN-239} stat=final date=2022-10-31T18:19:20 codes={Hemoglobin (Mass/volume) in Blood (value = 12.443 g/dL)} category=Laboratory
+OB-252 Observation ref={EN-239} stat=final date=2022-10-31T18:19:20 codes={Hematocrit (Volume Fraction) of Blood by Automated count (value = 47.389 %)} category=Laboratory
+OB-253 Observation ref={EN-239} stat=final date=2022-10-31T18:19:20 codes={MCV (Entitic volume) by Automated count (value = 81.946 fL)} category=Laboratory
+OB-254 Observation ref={EN-239} stat=final date=2022-10-31T18:19:20 codes={MCH (Entitic mass) by Automated count (value = 29.558 pg)} category=Laboratory
+OB-255 Observation ref={EN-239} stat=final date=2022-10-31T18:19:20 codes={MCHC (Mass/volume) by Automated count (value = 35.114 g/dL)} category=Laboratory
+OB-256 Observation ref={EN-239} stat=final date=2022-10-31T18:19:20 codes={Erythrocyte distribution width (Entitic volume) by Automated count (value = 40.962 fL)} category=Laboratory
+OB-257 Observation ref={EN-239} stat=final date=2022-10-31T18:19:20 codes={Platelets (#/volume) in Blood by Automated count (value = 349.28 10*3/uL)} category=Laboratory
+OB-258 Observation ref={EN-239} stat=final date=2022-10-31T18:19:20 codes={Platelet distribution width (Entitic volume) in Blood by Automated count (value = 303.75 fL)} category=Laboratory
+OB-259 Observation ref={EN-239} stat=final date=2022-10-31T18:19:20 codes={Platelet mean volume (Entitic volume) in Blood by Automated count (value = 10.709 fL)} category=Laboratory
+OB-260 Observation ref={EN-239} stat=final date=2022-10-31T18:19:20 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-279 Observation ref={EN-277} stat=final date=2023-11-06T17:19:20 codes={Body Height (value = 164.2 cm)} category=Vital
+OB-280 Observation ref={EN-277} stat=final date=2023-11-06T17:19:20 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 3 {score})} category=Vital
+OB-281 Observation ref={EN-277} stat=final date=2023-11-06T17:19:20 codes={Body Weight (value = 60.6 kg)} category=Vital
+OB-282 Observation ref={EN-277} stat=final date=2023-11-06T17:19:20 codes={Body mass index (BMI) (value = 22.46 kg/m2)} category=Vital
+OB-283 Observation ref={EN-277} stat=final date=2023-11-06T17:19:20 codes={Body mass index (BMI) Per age and sex (value = 88.194 %)} category=Vital
+OB-284 Observation ref={EN-277} stat=final date=2023-11-06T17:19:20 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 82 mm(Hg),Systolic Blood Pressure 110 mm(Hg)} category=Vital
+OB-285 Observation ref={EN-277} stat=final date=2023-11-06T17:19:20 codes={Heart rate (value = 62 /min)} category=Vital
+OB-286 Observation ref={EN-277} stat=final date=2023-11-06T17:19:20 codes={Respiratory rate (value = 14 /min)} category=Vital
+OB-287 Observation ref={EN-277} stat=final date=2023-11-06T17:19:20 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-288 Observation ref={EN-277} stat=final date=2023-11-06T17:36:31 codes={Generalized anxiety disorder 7 item total score (Reported.PHQ) (value = 6 {score})} category=Survey
+OB-289 Observation ref={EN-277} stat=final date=2023-11-06T18:18:17 codes={Patient Health Questionnaire-9: Modified for Teens total score (Reported.PHQ.Teen) (value = 3 {score})} category=Survey
+IM-58 Immunization ref={EN-43} stat=completed date=2015-09-21T18:19:20 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-94 Immunization ref={EN-82} stat=completed date=2016-09-26T18:19:20 codes={varicella} primarySource=True
+IM-95 Immunization ref={EN-82} stat=completed date=2016-09-26T18:19:20 codes={IPV} primarySource=True
+IM-96 Immunization ref={EN-82} stat=completed date=2016-09-26T18:19:20 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-97 Immunization ref={EN-82} stat=completed date=2016-09-26T18:19:20 codes={DTaP} primarySource=True
+IM-98 Immunization ref={EN-82} stat=completed date=2016-09-26T18:19:20 codes={MMR} primarySource=True
+IM-138 Immunization ref={EN-115} stat=completed date=2017-10-02T18:19:20 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-155 Immunization ref={EN-144} stat=completed date=2018-10-08T18:19:20 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-173 Immunization ref={EN-160} stat=completed date=2019-10-14T18:19:20 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-218 Immunization ref={EN-207} stat=completed date=2020-10-19T18:19:20 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-234 Immunization ref={EN-223} stat=completed date=2021-10-25T18:19:20 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-262 Immunization ref={EN-239} stat=completed date=2022-10-31T18:19:20 codes={Tdap} primarySource=True
+IM-263 Immunization ref={EN-239} stat=completed date=2022-10-31T18:19:20 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-264 Immunization ref={EN-239} stat=completed date=2022-10-31T18:19:20 codes={HPV, quadrivalent} primarySource=True
+IM-265 Immunization ref={EN-239} stat=completed date=2022-10-31T18:19:20 codes={meningococcal MCV4P} primarySource=True
+IM-272 Immunization ref={EN-271} stat=completed date=2023-10-30T18:19:20 codes={COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose} primarySource=True
+IM-298 Immunization ref={EN-277} stat=completed date=2023-11-06T17:19:20 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-299 Immunization ref={EN-277} stat=completed date=2023-11-06T17:19:20 codes={HPV, quadrivalent} primarySource=True
+IM-307 Immunization ref={EN-306} stat=completed date=2023-11-20T17:19:20 codes={COVID-19, mRNA, LNP-S, PF, 30 mcg/0.3 mL dose} primarySource=True
+MD-197 Medication ref={} stat=active codes={sodium fluoride 0.0272 MG/MG Oral Gel} 
+MD-323 Medication ref={} stat=active codes={sodium fluoride 0.0272 MG/MG Oral Gel} 
+MA-201 MedicationAdministration ref={EN-178,CN-161} stat=completed date=2019-10-22T00:28:14 codes={sodium fluoride 0.0272 MG/MG Oral Gel} 
+MA-327 MedicationAdministration ref={EN-312} stat=completed date=2023-11-20T19:53:49 codes={sodium fluoride 0.0272 MG/MG Oral Gel,Patient referral for dental care} 

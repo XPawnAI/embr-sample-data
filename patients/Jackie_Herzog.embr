@@ -1,0 +1,324 @@
+PT-1 Patient ref={} stat=living codes={} name=Mr. Jackie Herzog gender=male birthDate=1997-12-15 address=663 Wilkinson Promenade, Lowell, MA, 01851 maritalStatus=Never Married multipleBirthBoolean=False communication=English (United States)
+EN-2 Encounter ref={} stat=finished date=2012-01-16T17:46:58 codes={Well child visit,ambulatory} provider=performer Dr. Erick Huel facility=LOWELL COMMUNITY HEALTH CENTER, INC. endDate=2012-01-16T18:01:58
+EN-9 Encounter ref={} stat=finished date=2012-03-18T18:46:58 codes={Emergency hospital admission,Chronic pain,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2012-03-18T19:46:58
+EN-15 Encounter ref={} stat=finished date=2012-05-15T18:46:58 codes={Emergency treatment,Chronic intractable migraine without aura,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2012-05-15T19:46:58
+EN-21 Encounter ref={} stat=finished date=2012-10-15T18:46:58 codes={Emergency treatment,Impacted molars,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2012-10-15T19:46:58
+EN-27 Encounter ref={} stat=finished date=2014-11-05T17:46:58 codes={Emergency hospital admission,Chronic pain,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2014-11-05T18:46:58
+EN-35 Encounter ref={} stat=finished date=2015-02-02T17:46:58 codes={Well child visit,ambulatory} provider=performer Dr. Erick Huel facility=LOWELL COMMUNITY HEALTH CENTER, INC. endDate=2015-02-02T18:06:08
+EN-64 Encounter ref={} stat=finished date=2015-02-16T17:46:58 codes={Encounter for check up,Gingivitis,ambulatory} provider=performer Dr. Alysha Koch facility=TEWKSBURY HOSPITAL endDate=2015-02-16T21:30:23
+EN-84 Encounter ref={} stat=finished date=2015-02-22T17:46:58 codes={Emergency treatment,Chronic intractable migraine without aura,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2015-02-22T18:46:58
+EN-93 Encounter ref={} stat=finished date=2015-05-26T18:46:58 codes={Emergency treatment,Impacted molars,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2015-05-26T19:46:58
+EN-103 Encounter ref={} stat=finished date=2015-07-09T18:46:58 codes={Emergency hospital admission,Chronic pain,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2015-07-09T19:46:58
+EN-112 Encounter ref={} stat=finished date=2015-09-21T18:46:58 codes={Emergency treatment,Chronic intractable migraine without aura,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2015-09-21T19:46:58
+EN-121 Encounter ref={} stat=finished date=2015-10-16T19:46:58 codes={Encounter for symptom,Viral sinusitis,ambulatory} provider=performer Dr. Alysha Koch facility=TEWKSBURY HOSPITAL endDate=2015-10-16T20:01:58
+EN-127 Encounter ref={} stat=finished date=2015-11-27T17:46:58 codes={Emergency treatment,Chronic intractable migraine without aura,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2015-11-27T18:46:58
+EN-136 Encounter ref={} stat=finished date=2016-02-08T17:46:58 codes={General examination of patient,ambulatory} provider=performer Dr. Erick Huel facility=LOWELL COMMUNITY HEALTH CENTER, INC. endDate=2016-02-08T18:28:43
+EN-168 Encounter ref={} stat=finished date=2016-02-14T17:46:58 codes={Emergency treatment,Chronic intractable migraine without aura,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2016-02-14T18:46:58
+EN-177 Encounter ref={} stat=finished date=2016-06-25T18:46:58 codes={Emergency treatment,Chronic intractable migraine without aura,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2016-06-25T19:46:58
+EN-186 Encounter ref={} stat=finished date=2017-01-26T17:46:58 codes={Emergency treatment,Impacted molars,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2017-01-26T18:46:58
+EN-196 Encounter ref={} stat=finished date=2017-02-13T17:46:58 codes={General examination of patient,ambulatory} provider=performer Dr. Erick Huel facility=LOWELL COMMUNITY HEALTH CENTER, INC. endDate=2017-02-13T18:43:00
+EN-225 Encounter ref={} stat=finished date=2017-02-27T17:46:58 codes={Encounter for check up,Patient referral for dental care,ambulatory} provider=performer Dr. Alysha Koch facility=TEWKSBURY HOSPITAL endDate=2017-02-27T20:26:43
+EN-242 Encounter ref={} stat=finished date=2017-03-25T18:46:58 codes={Emergency hospital admission,Chronic pain,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2017-03-25T19:46:58
+EN-251 Encounter ref={} stat=finished date=2017-05-31T18:46:58 codes={Emergency hospital admission,Chronic pain,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2017-05-31T19:46:58
+EN-260 Encounter ref={} stat=finished date=2017-07-21T18:46:58 codes={Emergency treatment,Chronic intractable migraine without aura,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2017-07-21T19:46:58
+EN-269 Encounter ref={} stat=finished date=2017-09-16T18:46:58 codes={Encounter for symptom,Otitis media,ambulatory} provider=performer Dr. Alysha Koch facility=TEWKSBURY HOSPITAL endDate=2017-09-16T19:01:58
+EN-281 Encounter ref={} stat=finished date=2017-10-22T18:46:58 codes={Emergency treatment,Chronic intractable migraine without aura,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2017-10-22T19:46:58
+EN-290 Encounter ref={} stat=finished date=2017-12-19T17:46:58 codes={Emergency hospital admission,Chronic pain,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2017-12-19T18:46:58
+EN-299 Encounter ref={} stat=finished date=2018-06-20T18:46:58 codes={Emergency hospital admission,Chronic pain,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2018-06-20T19:46:58
+EN-308 Encounter ref={} stat=finished date=2018-10-05T18:46:58 codes={Emergency treatment,Chronic intractable migraine without aura,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2018-10-05T19:46:58
+EN-317 Encounter ref={} stat=finished date=2019-02-28T17:46:58 codes={Emergency treatment,Impacted molars,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2019-02-28T18:46:58
+EN-327 Encounter ref={} stat=finished date=2019-10-03T18:46:58 codes={Emergency treatment,Chronic intractable migraine without aura,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2019-10-03T19:46:58
+EN-336 Encounter ref={} stat=finished date=2019-11-23T17:46:58 codes={Emergency treatment,Impacted molars,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2019-11-23T18:46:58
+EN-346 Encounter ref={} stat=finished date=2020-02-17T17:46:58 codes={General examination of patient,ambulatory} provider=performer Dr. Erick Huel facility=LOWELL COMMUNITY HEALTH CENTER, INC. endDate=2020-02-17T18:17:20
+EN-387 Encounter ref={} stat=finished date=2020-02-28T17:46:58 codes={Emergency treatment,Impacted molars,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2020-02-28T18:46:58
+EN-397 Encounter ref={} stat=finished date=2020-04-19T18:46:58 codes={Emergency treatment,Impacted molars,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2020-04-19T19:46:58
+EN-407 Encounter ref={} stat=finished date=2020-06-30T18:46:58 codes={Emergency hospital admission,Chronic pain,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2020-06-30T19:46:58
+EN-416 Encounter ref={} stat=finished date=2020-09-12T18:46:58 codes={Emergency treatment,Chronic intractable migraine without aura,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2020-09-12T19:46:58
+EN-425 Encounter ref={} stat=finished date=2020-10-26T18:46:58 codes={Emergency treatment,Chronic intractable migraine without aura,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2020-10-26T19:46:58
+EN-434 Encounter ref={} stat=finished date=2021-03-14T18:46:58 codes={Emergency treatment,Impacted molars,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2021-03-14T19:46:58
+EN-444 Encounter ref={} stat=finished date=2021-04-20T18:46:58 codes={Emergency hospital admission,Chronic pain,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2021-04-20T19:46:58
+EN-453 Encounter ref={} stat=finished date=2021-05-17T18:46:58 codes={Administration of vaccine to produce active immunity,ambulatory} provider=performer Dr. Alysha Koch facility=TEWKSBURY HOSPITAL endDate=2021-05-17T19:01:58
+EN-459 Encounter ref={} stat=finished date=2021-06-14T18:46:58 codes={Administration of vaccine to produce active immunity,ambulatory} provider=performer Dr. Alysha Koch facility=TEWKSBURY HOSPITAL endDate=2021-06-14T19:01:58
+EN-465 Encounter ref={} stat=finished date=2021-08-02T18:46:58 codes={Emergency treatment,Impacted molars,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2021-08-02T19:46:58
+EN-475 Encounter ref={} stat=finished date=2021-09-15T18:46:58 codes={Emergency treatment,Chronic intractable migraine without aura,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2021-09-15T19:46:58
+EN-484 Encounter ref={} stat=finished date=2021-11-28T17:46:58 codes={Emergency treatment,Chronic intractable migraine without aura,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2021-11-28T18:46:58
+EN-493 Encounter ref={} stat=finished date=2022-01-15T17:46:58 codes={Emergency room admission,Laceration - injury,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2022-01-15T18:46:58
+EN-506 Encounter ref={} stat=finished date=2022-01-19T04:46:58 codes={Encounter for symptom,Viral sinusitis,ambulatory} provider=performer Dr. Alysha Koch facility=TEWKSBURY HOSPITAL endDate=2022-01-19T05:01:58
+EN-512 Encounter ref={} stat=finished date=2022-02-03T17:46:58 codes={Emergency treatment,Chronic intractable migraine without aura,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2022-02-03T18:46:58
+EN-521 Encounter ref={} stat=finished date=2023-02-20T17:46:58 codes={General examination of patient,ambulatory} provider=performer Dr. Erick Huel facility=LOWELL COMMUNITY HEALTH CENTER, INC. endDate=2023-02-20T18:21:38
+EN-550 Encounter ref={} stat=finished date=2023-03-06T17:46:58 codes={Encounter for check up,Patient referral for dental care,ambulatory} provider=performer Dr. Alysha Koch facility=TEWKSBURY HOSPITAL endDate=2023-03-06T20:50:17
+EN-567 Encounter ref={} stat=finished date=2023-10-05T18:46:58 codes={Encounter for problem,Dependent drug abuse,ambulatory} provider=performer Dr. Alysha Koch facility=TEWKSBURY HOSPITAL endDate=2023-10-05T20:02:12
+EN-574 Encounter ref={} stat=finished date=2023-11-04T20:02:12 codes={Encounter for problem,Dependent drug abuse,ambulatory} provider=performer Dr. Alysha Koch facility=TEWKSBURY HOSPITAL endDate=2023-11-04T21:09:38
+EN-580 Encounter ref={} stat=finished date=2023-12-04T20:09:38 codes={Encounter for problem,Dependent drug abuse,ambulatory} provider=performer Dr. Alysha Koch facility=TEWKSBURY HOSPITAL endDate=2023-12-04T21:18:58
+EN-586 Encounter ref={} stat=finished date=2024-01-03T21:18:58 codes={Encounter for problem,Dependent drug abuse,ambulatory} provider=performer Dr. Alysha Koch facility=TEWKSBURY HOSPITAL endDate=2024-01-03T22:45:47
+EN-592 Encounter ref={} stat=finished date=2024-02-09T22:45:47 codes={Emergency room admission,Drug overdose,emergency} provider=performer Dr. September Abshire facility=WILLOW MANOR endDate=2024-02-10T07:45:47
+EN-600 Encounter ref={} stat=finished date=2024-02-24T07:45:47 codes={Encounter for problem,Dependent drug abuse,ambulatory} provider=performer Dr. Alysha Koch facility=TEWKSBURY HOSPITAL endDate=2024-02-24T09:06:52
+EN-606 Encounter ref={} stat=finished date=2024-03-25T10:06:52 codes={Encounter for problem,Dependent drug abuse,ambulatory} provider=performer Dr. Alysha Koch facility=TEWKSBURY HOSPITAL endDate=2024-03-25T11:20:34
+EN-612 Encounter ref={} stat=finished date=2024-04-24T11:20:34 codes={Encounter for problem,Dependent drug abuse,ambulatory} provider=performer Dr. Alysha Koch facility=TEWKSBURY HOSPITAL endDate=2024-04-24T12:37:03
+EN-618 Encounter ref={} stat=finished date=2024-05-24T12:37:03 codes={Encounter for problem,Dependent drug abuse,ambulatory} provider=performer Dr. Alysha Koch facility=TEWKSBURY HOSPITAL endDate=2024-05-24T14:04:53
+CN-10 Condition ref={EN-9} stat=confirmed date=2012-03-18T18:46:58 codes={Chronic pain} onsetDateTime=2012-03-18T18:46:58
+CN-16 Condition ref={EN-15} stat=confirmed date=2012-05-15T18:46:58 codes={Chronic intractable migraine without aura} onsetDateTime=2012-05-15T18:46:58
+CN-22 Condition ref={EN-21} stat=confirmed date=2012-10-15T18:46:58 codes={Impacted molars} onsetDateTime=2012-10-15T18:46:58
+CN-36 Condition ref={EN-35} stat=confirmed date=2015-02-02T17:46:58 codes={Medication review due} onsetDateTime=2015-02-02T17:46:58 abatementDateTime=2015-02-02T17:46:58
+CN-37 Condition ref={EN-35} stat=confirmed date=2015-02-02T19:41:58 codes={Gingivitis} onsetDateTime=2015-02-02T19:41:58 abatementDateTime=2015-02-16T20:41:35
+CN-122 Condition ref={EN-121} stat=confirmed date=2015-10-16T19:46:58 codes={Viral sinusitis} onsetDateTime=2015-10-16T19:46:58 abatementDateTime=2015-11-12T18:46:58
+CN-137 Condition ref={EN-136} stat=confirmed date=2016-02-08T17:46:58 codes={Medication review due} onsetDateTime=2016-02-08T17:46:58 abatementDateTime=2016-02-08T17:46:58
+CN-138 Condition ref={EN-136} stat=confirmed date=2016-02-08T18:28:43 codes={Only received primary school education} onsetDateTime=2016-02-08T18:28:43
+CN-139 Condition ref={EN-136} stat=confirmed date=2016-02-08T18:28:43 codes={Full-time employment} onsetDateTime=2016-02-08T18:28:43 abatementDateTime=2023-02-20T18:21:38
+CN-140 Condition ref={EN-136} stat=confirmed date=2016-02-08T18:28:43 codes={Stress} onsetDateTime=2016-02-08T18:28:43 abatementDateTime=2017-02-13T18:43:00
+CN-141 Condition ref={EN-136} stat=confirmed date=2016-02-08T18:28:43 codes={Reports of violence in the environment} onsetDateTime=2016-02-08T18:28:43 abatementDateTime=2017-02-13T18:43:00
+CN-142 Condition ref={EN-136} stat=confirmed date=2016-02-08T18:28:43 codes={Victim of intimate partner abuse} onsetDateTime=2016-02-08T18:28:43 abatementDateTime=2017-02-13T18:43:00
+CN-197 Condition ref={EN-196} stat=confirmed date=2017-02-13T17:46:58 codes={Medication review due} onsetDateTime=2017-02-13T17:46:58 abatementDateTime=2017-02-13T17:46:58
+CN-198 Condition ref={EN-196} stat=confirmed date=2017-02-13T18:43:00 codes={Social isolation} onsetDateTime=2017-02-13T18:43:00 abatementDateTime=2023-02-20T18:21:38
+CN-270 Condition ref={EN-269} stat=confirmed date=2017-09-16T18:46:58 codes={Otitis media} onsetDateTime=2017-09-16T18:46:58 abatementDateTime=2020-02-17T17:46:58
+CN-347 Condition ref={EN-346} stat=confirmed date=2020-02-17T17:46:58 codes={Medication review due} onsetDateTime=2020-02-17T17:46:58 abatementDateTime=2020-02-17T17:46:58
+CN-348 Condition ref={EN-346} stat=confirmed date=2020-02-17T18:17:20 codes={Stress} onsetDateTime=2020-02-17T18:17:20 abatementDateTime=2023-02-20T18:21:38
+CN-494 Condition ref={EN-493} stat=confirmed date=2022-01-15T17:46:58 codes={Laceration - injury} onsetDateTime=2022-01-15T17:46:58 abatementDateTime=2022-02-01T18:10:38
+CN-495 Condition ref={EN-493} stat=confirmed date=2022-01-15T17:46:58 codes={Laceration of hand} onsetDateTime=2022-01-15T17:46:58 abatementDateTime=2022-02-01T18:10:38
+CN-507 Condition ref={EN-506} stat=confirmed date=2022-01-19T04:46:58 codes={Viral sinusitis} onsetDateTime=2022-01-19T04:46:58 abatementDateTime=2022-02-11T04:46:58
+CN-522 Condition ref={EN-521} stat=confirmed date=2023-02-20T17:46:58 codes={Medication review due} onsetDateTime=2023-02-20T17:46:58 abatementDateTime=2023-02-20T17:46:58
+CN-523 Condition ref={EN-521} stat=confirmed date=2023-02-20T18:21:38 codes={Part-time employment} onsetDateTime=2023-02-20T18:21:38
+CN-524 Condition ref={EN-521} stat=confirmed date=2023-02-20T19:34:22 codes={Unhealthy alcohol drinking behavior} onsetDateTime=2023-02-20T19:34:22
+CN-568 Condition ref={EN-567} stat=confirmed date=2023-10-05T18:46:58 codes={Dependent drug abuse} onsetDateTime=2023-10-05T18:46:58
+CN-593 Condition ref={EN-592} stat=confirmed date=2024-02-09T22:45:47 codes={Drug overdose} onsetDateTime=2024-02-09T22:45:47 abatementDateTime=2024-02-10T07:45:47
+DR-58 DiagnosticReport ref={EN-35,OB-47} stat=final date=2015-02-02T18:06:08 codes={Generalized anxiety disorder 7 item} 
+DR-59 DiagnosticReport ref={EN-35,OB-48} stat=final date=2015-02-02T18:47:27 codes={Patient Health Questionnaire-9: Modified for Teens (Reported.PHQ.Teen)} 
+DR-162 DiagnosticReport ref={EN-136,OB-153} stat=final date=2016-02-08T19:05:03 codes={Patient Health Questionnaire 2 item (Reported)} 
+DR-163 DiagnosticReport ref={EN-136,OB-154} stat=final date=2016-02-08T19:37:08 codes={Drug Abuse Screening Test-10} 
+DR-219 DiagnosticReport ref={EN-196,OB-209} stat=final date=2017-02-13T19:21:27 codes={Patient Health Questionnaire 2 item (Reported)} 
+DR-220 DiagnosticReport ref={EN-196,OB-210} stat=final date=2017-02-13T20:00:21 codes={Alcohol Use Disorder Identification Test - Consumption (AUDIT-C)} 
+DR-380 DiagnosticReport ref={EN-346,OB-356,OB-357,OB-358,OB-359,OB-360,OB-361,OB-362,OB-363,OB-364,OB-365,OB-366} stat=final date=2020-02-17T17:46:58 codes={CBC panel - Blood by Automated count} category=['v2-0074:LAB Laboratory'] provider=LOWELL COMMUNITY HEALTH CENTER, INC.
+DR-381 DiagnosticReport ref={EN-346,OB-369} stat=final date=2020-02-17T18:37:06 codes={Generalized anxiety disorder 7 item} 
+DR-382 DiagnosticReport ref={EN-346,OB-370} stat=final date=2020-02-17T19:08:55 codes={Patient Health Questionnaire 2 item (Reported)} 
+DR-544 DiagnosticReport ref={EN-521,OB-534} stat=final date=2023-02-20T18:55:04 codes={Patient Health Questionnaire 2 item (Reported)} 
+DR-545 DiagnosticReport ref={EN-521,OB-535} stat=final date=2023-02-20T19:34:22 codes={Alcohol Use Disorder Identification Test - Consumption (AUDIT-C)} 
+DV-233 Device ref={} stat=active codes={Dental x-ray system} deviceName=Dental x-ray system
+DV-558 Device ref={} stat=active codes={Dental x-ray system} deviceName=Dental x-ray system
+SD-72 SupplyDelivery ref={} stat=completed date=2015-02-16T18:58:45 codes={Dental equipment} type=Device quantity=[1]
+SD-73 SupplyDelivery ref={} stat=completed date=2015-02-16T18:58:45 codes={Conventional release periodontal gel} type=Device quantity=[1]
+SD-74 SupplyDelivery ref={} stat=completed date=2015-02-16T18:58:45 codes={Dental floss} type=Device quantity=[1]
+SD-234 SupplyDelivery ref={} stat=completed date=2017-02-27T18:38:22 codes={Dental equipment} type=Device quantity=[1]
+SD-235 SupplyDelivery ref={} stat=completed date=2017-02-27T18:38:22 codes={Conventional release periodontal gel} type=Device quantity=[1]
+SD-236 SupplyDelivery ref={} stat=completed date=2017-02-27T18:38:22 codes={Dental floss} type=Device quantity=[1]
+SD-559 SupplyDelivery ref={} stat=completed date=2023-03-06T18:51:16 codes={Dental equipment} type=Device quantity=[1]
+SD-560 SupplyDelivery ref={} stat=completed date=2023-03-06T18:51:16 codes={Conventional release periodontal gel} type=Device quantity=[1]
+SD-561 SupplyDelivery ref={} stat=completed date=2023-03-06T18:51:16 codes={Dental floss} type=Device quantity=[1]
+IS-237 ImagingStudy ref={EN-225} stat=available date=2017-02-27T19:29:23 codes={Dental plain X-ray bitewing,Digital Radiography,Structure of region of internal part of mouth,Digital Intra-Oral X-Ray Image} 
+IS-562 ImagingStudy ref={EN-550} stat=available date=2023-03-06T19:45:34 codes={Dental plain X-ray bitewing,Digital Radiography,Structure of region of internal part of mouth,Digital Intra-Oral X-Ray Image} 
+CP-4 CarePlan ref={EN-2} stat=active date=2012-01-16T17:46:58 codes={Calorie restricted diet at LOWELL COMMUNITY HEALTH CENTER, INC.,Increased physical activity at LOWELL COMMUNITY HEALTH CENTER, INC.,careplan-category assess-plan,Weight management program,Calorie restricted diet,Increased physical activity} text=Care Plan for Weight management program.Activities: Weight management programWeight management program intent=order
+CP-501 CarePlan ref={EN-493,CN-495} stat=completed date=2022-01-15T17:46:58 codes={Dressing change management at WILLOW MANOR,Behavior to prevent infection (observable entity) at WILLOW MANOR,careplan-category assess-plan,Wound care,Dressing change management,Behavior to prevent infection (observable entity)} text=Care Plan for Wound care.Care plan is meant to treat Laceration of hand.Activities: Wound careWound care intent=order endDate=2022-02-01T18:10:38
+CP-595 CarePlan ref={EN-592} stat=active date=2024-02-10T07:45:47 codes={Drug addiction counseling at WILLOW MANOR,Drug detoxification at WILLOW MANOR,Drug addiction therapy at WILLOW MANOR,careplan-category assess-plan,Care plan,Drug addiction counseling,Drug detoxification,Drug addiction therapy} text=Care Plan for Care plan.Activities: Care planCare planCare plan intent=order
+MR-28 MedicationRequest ref={EN-27} stat=stopped date=2014-11-05T17:46:58 codes={Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet} intent=order requester=Dr. September Abshire
+MR-76 MedicationRequest ref={EN-64,CN-37,MD-75} stat=stopped date=2015-02-16T20:41:35 codes={} intent=order requester=Dr. Alysha Koch
+MR-86 MedicationRequest ref={EN-84} stat=stopped date=2015-02-22T17:46:58 codes={Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet} intent=order requester=Dr. September Abshire
+MR-96 MedicationRequest ref={EN-93} stat=stopped date=2015-05-26T18:46:58 codes={Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet} intent=order requester=Dr. September Abshire
+MR-105 MedicationRequest ref={EN-103} stat=stopped date=2015-07-09T18:46:58 codes={Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet} intent=order requester=Dr. September Abshire
+MR-114 MedicationRequest ref={EN-112} stat=stopped date=2015-09-21T18:46:58 codes={Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet} intent=order requester=Dr. September Abshire
+MR-129 MedicationRequest ref={EN-127} stat=stopped date=2015-11-27T17:46:58 codes={Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet} intent=order requester=Dr. September Abshire
+MR-170 MedicationRequest ref={EN-168} stat=stopped date=2016-02-14T17:46:58 codes={Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet} intent=order requester=Dr. September Abshire
+MR-179 MedicationRequest ref={EN-177} stat=stopped date=2016-06-25T18:46:58 codes={Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet} intent=order requester=Dr. September Abshire
+MR-189 MedicationRequest ref={EN-186} stat=stopped date=2017-01-26T17:46:58 codes={Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet} intent=order requester=Dr. September Abshire
+MR-244 MedicationRequest ref={EN-242} stat=stopped date=2017-03-25T18:46:58 codes={Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet} intent=order requester=Dr. September Abshire
+MR-253 MedicationRequest ref={EN-251} stat=stopped date=2017-05-31T18:46:58 codes={Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet} intent=order requester=Dr. September Abshire
+MR-262 MedicationRequest ref={EN-260} stat=stopped date=2017-07-21T18:46:58 codes={Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet} intent=order requester=Dr. September Abshire
+MR-271 MedicationRequest ref={EN-269} stat=stopped date=2017-09-16T18:46:58 codes={Amoxicillin 250 MG Oral Capsule} intent=order requester=Dr. Alysha Koch dosageInstruction=2 for 1.0 d sct:418577003 Take at regular intervals. Complete the prescribed course unless otherwise directed (qualifier value)
+MR-274 MedicationRequest ref={EN-269} stat=stopped date=2017-09-16T18:46:58 codes={Naproxen sodium 220 MG Oral Tablet} intent=order requester=Dr. Alysha Koch dosageInstruction= Take as needed.
+MR-283 MedicationRequest ref={EN-281} stat=stopped date=2017-10-22T18:46:58 codes={Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet} intent=order requester=Dr. September Abshire
+MR-292 MedicationRequest ref={EN-290} stat=stopped date=2017-12-19T17:46:58 codes={Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet} intent=order requester=Dr. September Abshire
+MR-301 MedicationRequest ref={EN-299} stat=stopped date=2018-06-20T18:46:58 codes={Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet} intent=order requester=Dr. September Abshire
+MR-310 MedicationRequest ref={EN-308} stat=stopped date=2018-10-05T18:46:58 codes={Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet} intent=order requester=Dr. September Abshire
+MR-320 MedicationRequest ref={EN-317} stat=stopped date=2019-02-28T17:46:58 codes={Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet} intent=order requester=Dr. September Abshire
+MR-329 MedicationRequest ref={EN-327} stat=stopped date=2019-10-03T18:46:58 codes={Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet} intent=order requester=Dr. September Abshire
+MR-339 MedicationRequest ref={EN-336} stat=stopped date=2019-11-23T17:46:58 codes={Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet} intent=order requester=Dr. September Abshire
+MR-390 MedicationRequest ref={EN-387} stat=stopped date=2020-02-28T17:46:58 codes={Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet} intent=order requester=Dr. September Abshire
+MR-400 MedicationRequest ref={EN-397} stat=stopped date=2020-04-19T18:46:58 codes={Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet} intent=order requester=Dr. September Abshire
+MR-409 MedicationRequest ref={EN-407} stat=stopped date=2020-06-30T18:46:58 codes={Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet} intent=order requester=Dr. September Abshire
+MR-418 MedicationRequest ref={EN-416} stat=stopped date=2020-09-12T18:46:58 codes={Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet} intent=order requester=Dr. September Abshire
+MR-427 MedicationRequest ref={EN-425} stat=stopped date=2020-10-26T18:46:58 codes={Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet} intent=order requester=Dr. September Abshire
+MR-437 MedicationRequest ref={EN-434} stat=stopped date=2021-03-14T18:46:58 codes={Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet} intent=order requester=Dr. September Abshire
+MR-446 MedicationRequest ref={EN-444} stat=stopped date=2021-04-20T18:46:58 codes={Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet} intent=order requester=Dr. September Abshire
+MR-468 MedicationRequest ref={EN-465} stat=stopped date=2021-08-02T18:46:58 codes={Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet} intent=order requester=Dr. September Abshire
+MR-477 MedicationRequest ref={EN-475} stat=stopped date=2021-09-15T18:46:58 codes={Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet} intent=order requester=Dr. September Abshire
+MR-486 MedicationRequest ref={EN-484} stat=stopped date=2021-11-28T17:46:58 codes={Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet} intent=order requester=Dr. September Abshire
+MR-497 MedicationRequest ref={EN-493} stat=stopped date=2022-01-15T18:10:38 codes={Naproxen sodium 220 MG Oral Tablet} intent=order requester=Dr. September Abshire dosageInstruction= Take as needed.
+MR-514 MedicationRequest ref={EN-512} stat=stopped date=2022-02-03T17:46:58 codes={Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet} intent=order requester=Dr. September Abshire
+PR-49 Procedure ref={EN-35} stat=completed date=2015-02-02T17:46:58 codes={Medication reconciliation} endDate=2015-02-02T18:01:58
+PR-50 Procedure ref={EN-35} stat=completed date=2015-02-02T17:46:58 codes={Assessment of anxiety} endDate=2015-02-02T18:06:08
+PR-51 Procedure ref={EN-35} stat=completed date=2015-02-02T18:06:08 codes={Depression screening} endDate=2015-02-02T18:17:29
+PR-52 Procedure ref={EN-35} stat=completed date=2015-02-02T18:17:29 codes={Depression screening using Patient Health Questionnaire Nine Item score} endDate=2015-02-02T18:47:27
+PR-53 Procedure ref={EN-35} stat=completed date=2015-02-02T18:47:27 codes={Assessment of substance use} endDate=2015-02-02T18:59:51
+PR-54 Procedure ref={EN-35} stat=completed date=2015-02-02T18:59:51 codes={Assessment using Car, Relax, Alone, Forget, Friends, Trouble Screening Test} endDate=2015-02-02T19:28:39
+PR-55 Procedure ref={EN-35} stat=completed date=2015-02-02T19:28:39 codes={Anticipatory guidance} endDate=2015-02-02T19:41:58
+PR-56 Procedure ref={EN-35,CN-37} stat=completed date=2015-02-02T19:41:58 codes={Patient referral for dental care} endDate=2015-02-02T19:54:27
+PR-65 Procedure ref={EN-64,CN-37} stat=completed date=2015-02-16T17:46:58 codes={Dental consultation and report} endDate=2015-02-16T18:21:24
+PR-66 Procedure ref={EN-64,CN-37} stat=completed date=2015-02-16T18:21:24 codes={Dental care} endDate=2015-02-16T18:58:45
+PR-67 Procedure ref={EN-64,CN-37} stat=completed date=2015-02-16T18:58:45 codes={Removal of supragingival plaque and calculus from all teeth using dental instrument} endDate=2015-02-16T19:27:07
+PR-68 Procedure ref={EN-64,CN-37} stat=completed date=2015-02-16T19:27:07 codes={Removal of subgingival plaque and calculus from all teeth using dental instrument} endDate=2015-02-16T19:56:49
+PR-69 Procedure ref={EN-64,CN-37} stat=completed date=2015-02-16T19:56:49 codes={Examination of gingivae} endDate=2015-02-16T20:41:35
+PR-70 Procedure ref={EN-64,CN-37} stat=completed date=2015-02-16T20:41:35 codes={Dental fluoride treatment} endDate=2015-02-16T21:16:31
+PR-71 Procedure ref={EN-64,CN-37} stat=completed date=2015-02-16T21:16:31 codes={Oral health education} endDate=2015-02-16T21:30:23
+PR-95 Procedure ref={EN-93} stat=completed date=2015-05-26T18:46:58 codes={Extraction of wisdom tooth} endDate=2015-05-26T19:01:58
+PR-155 Procedure ref={EN-136} stat=completed date=2016-02-08T17:46:58 codes={Medication reconciliation} endDate=2016-02-08T18:01:58
+PR-156 Procedure ref={EN-136} stat=completed date=2016-02-08T17:46:58 codes={Assessment of health and social care needs} endDate=2016-02-08T18:28:43
+PR-157 Procedure ref={EN-136} stat=completed date=2016-02-08T18:28:43 codes={Depression screening} endDate=2016-02-08T18:40:13
+PR-158 Procedure ref={EN-136} stat=completed date=2016-02-08T18:40:13 codes={Depression screening} endDate=2016-02-08T19:05:03
+PR-159 Procedure ref={EN-136} stat=completed date=2016-02-08T19:05:03 codes={Assessment of substance use} endDate=2016-02-08T19:16:07
+PR-160 Procedure ref={EN-136} stat=completed date=2016-02-08T19:16:07 codes={Screening for drug abuse} endDate=2016-02-08T19:37:08
+PR-188 Procedure ref={EN-186} stat=completed date=2017-01-26T17:46:58 codes={Extraction of wisdom tooth} endDate=2017-01-26T18:01:58
+PR-211 Procedure ref={EN-196} stat=completed date=2017-02-13T17:46:58 codes={Medication reconciliation} endDate=2017-02-13T18:01:58
+PR-212 Procedure ref={EN-196} stat=completed date=2017-02-13T17:46:58 codes={Assessment of health and social care needs} endDate=2017-02-13T18:43:00
+PR-213 Procedure ref={EN-196} stat=completed date=2017-02-13T18:43:00 codes={Depression screening} endDate=2017-02-13T18:55:48
+PR-214 Procedure ref={EN-196} stat=completed date=2017-02-13T18:55:48 codes={Depression screening} endDate=2017-02-13T19:21:27
+PR-215 Procedure ref={EN-196} stat=completed date=2017-02-13T19:21:27 codes={Assessment of substance use} endDate=2017-02-13T19:31:49
+PR-216 Procedure ref={EN-196} stat=completed date=2017-02-13T19:31:49 codes={Assessment using Alcohol Use Disorders Identification Test - Consumption} endDate=2017-02-13T20:00:21
+PR-217 Procedure ref={EN-196} stat=completed date=2017-02-13T20:00:21 codes={Patient referral for dental care} endDate=2017-02-13T20:08:21
+PR-226 Procedure ref={EN-225} stat=completed date=2017-02-27T17:46:58 codes={Dental consultation and report} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2017-02-27T18:17:03
+PR-227 Procedure ref={EN-225} stat=completed date=2017-02-27T18:17:03 codes={Dental care} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2017-02-27T18:38:22
+PR-228 Procedure ref={EN-225} stat=completed date=2017-02-27T18:38:22 codes={Removal of supragingival plaque and calculus from all teeth using dental instrument} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2017-02-27T19:07:26
+PR-229 Procedure ref={EN-225} stat=completed date=2017-02-27T19:07:26 codes={Removal of subgingival plaque and calculus from all teeth using dental instrument} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2017-02-27T19:29:23
+PR-230 Procedure ref={EN-225} stat=completed date=2017-02-27T19:29:23 codes={Dental plain X-ray bitewing} endDate=2017-02-27T19:59:23
+PR-231 Procedure ref={EN-225} stat=completed date=2017-02-27T19:29:23 codes={Examination of gingivae} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2017-02-27T20:10:01
+PR-232 Procedure ref={EN-225} stat=completed date=2017-02-27T20:10:01 codes={Oral health education} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2017-02-27T20:26:43
+PR-319 Procedure ref={EN-317} stat=completed date=2019-02-28T17:46:58 codes={Extraction of wisdom tooth} endDate=2019-02-28T18:01:58
+PR-338 Procedure ref={EN-336} stat=completed date=2019-11-23T17:46:58 codes={Extraction of wisdom tooth} endDate=2019-11-23T18:01:58
+PR-371 Procedure ref={EN-346} stat=completed date=2020-02-17T17:46:58 codes={Medication reconciliation} endDate=2020-02-17T18:01:58
+PR-372 Procedure ref={EN-346} stat=completed date=2020-02-17T17:46:58 codes={Assessment of health and social care needs} endDate=2020-02-17T18:17:20
+PR-373 Procedure ref={EN-346} stat=completed date=2020-02-17T18:17:20 codes={Assessment of anxiety} endDate=2020-02-17T18:37:06
+PR-374 Procedure ref={EN-346} stat=completed date=2020-02-17T18:37:06 codes={Depression screening} endDate=2020-02-17T18:47:09
+PR-375 Procedure ref={EN-346} stat=completed date=2020-02-17T18:47:09 codes={Depression screening} endDate=2020-02-17T19:08:55
+PR-389 Procedure ref={EN-387} stat=completed date=2020-02-28T17:46:58 codes={Extraction of wisdom tooth} endDate=2020-02-28T18:01:58
+PR-399 Procedure ref={EN-397} stat=completed date=2020-04-19T18:46:58 codes={Extraction of wisdom tooth} endDate=2020-04-19T19:01:58
+PR-436 Procedure ref={EN-434} stat=completed date=2021-03-14T18:46:58 codes={Extraction of wisdom tooth} endDate=2021-03-14T19:01:58
+PR-467 Procedure ref={EN-465} stat=completed date=2021-08-02T18:46:58 codes={Extraction of wisdom tooth} endDate=2021-08-02T19:01:58
+PR-496 Procedure ref={EN-493,CN-495} stat=completed date=2022-01-15T17:46:58 codes={Suture open wound} endDate=2022-01-15T18:10:38
+PR-536 Procedure ref={EN-521} stat=completed date=2023-02-20T17:46:58 codes={Medication reconciliation} endDate=2023-02-20T18:01:58
+PR-537 Procedure ref={EN-521} stat=completed date=2023-02-20T17:46:58 codes={Assessment of health and social care needs} endDate=2023-02-20T18:21:38
+PR-538 Procedure ref={EN-521} stat=completed date=2023-02-20T18:21:38 codes={Depression screening} endDate=2023-02-20T18:33:13
+PR-539 Procedure ref={EN-521} stat=completed date=2023-02-20T18:33:13 codes={Depression screening} endDate=2023-02-20T18:55:04
+PR-540 Procedure ref={EN-521} stat=completed date=2023-02-20T18:55:04 codes={Assessment of substance use} endDate=2023-02-20T19:07:02
+PR-541 Procedure ref={EN-521} stat=completed date=2023-02-20T19:07:02 codes={Assessment using Alcohol Use Disorders Identification Test - Consumption} endDate=2023-02-20T19:34:22
+PR-542 Procedure ref={EN-521} stat=completed date=2023-02-20T19:34:22 codes={Patient referral for dental care} endDate=2023-02-20T19:45:06
+PR-551 Procedure ref={EN-550} stat=completed date=2023-03-06T17:46:58 codes={Dental consultation and report} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2023-03-06T18:16:31
+PR-552 Procedure ref={EN-550} stat=completed date=2023-03-06T18:16:31 codes={Dental care} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2023-03-06T18:51:16
+PR-553 Procedure ref={EN-550} stat=completed date=2023-03-06T18:51:16 codes={Removal of supragingival plaque and calculus from all teeth using dental instrument} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2023-03-06T19:29:31
+PR-554 Procedure ref={EN-550} stat=completed date=2023-03-06T19:29:31 codes={Removal of subgingival plaque and calculus from all teeth using dental instrument} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2023-03-06T19:45:34
+PR-555 Procedure ref={EN-550} stat=completed date=2023-03-06T19:45:34 codes={Dental plain X-ray bitewing} endDate=2023-03-06T20:15:34
+PR-556 Procedure ref={EN-550} stat=completed date=2023-03-06T19:45:34 codes={Examination of gingivae} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2023-03-06T20:44:43
+PR-557 Procedure ref={EN-550} stat=completed date=2023-03-06T20:44:43 codes={Oral health education} reasonCode=['sct:103697008 Patient referral for dental care'] endDate=2023-03-06T20:50:17
+PR-569 Procedure ref={EN-567,CN-568} stat=completed date=2023-10-05T18:46:58 codes={Rehabilitation therapy} endDate=2023-10-05T20:02:12
+PR-575 Procedure ref={EN-574,CN-568} stat=completed date=2023-11-04T20:02:12 codes={Rehabilitation therapy} endDate=2023-11-04T21:09:38
+PR-581 Procedure ref={EN-580,CN-568} stat=completed date=2023-12-04T20:09:38 codes={Rehabilitation therapy} endDate=2023-12-04T21:18:58
+PR-587 Procedure ref={EN-586,CN-568} stat=completed date=2024-01-03T21:18:58 codes={Rehabilitation therapy} endDate=2024-01-03T22:45:47
+PR-601 Procedure ref={EN-600,CN-568} stat=completed date=2024-02-24T07:45:47 codes={Rehabilitation therapy} endDate=2024-02-24T09:06:52
+PR-607 Procedure ref={EN-606,CN-568} stat=completed date=2024-03-25T10:06:52 codes={Rehabilitation therapy} endDate=2024-03-25T11:20:34
+PR-613 Procedure ref={EN-612,CN-568} stat=completed date=2024-04-24T11:20:34 codes={Rehabilitation therapy} endDate=2024-04-24T12:37:03
+PR-619 Procedure ref={EN-618,CN-568} stat=completed date=2024-05-24T12:37:03 codes={Rehabilitation therapy} endDate=2024-05-24T14:04:53
+OB-38 Observation ref={EN-35} stat=final date=2015-02-02T17:46:58 codes={Body Height (value = 166.8 cm)} category=Vital
+OB-39 Observation ref={EN-35} stat=final date=2015-02-02T17:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 2 {score})} category=Vital
+OB-40 Observation ref={EN-35} stat=final date=2015-02-02T17:46:58 codes={Body Weight (value = 87.5 kg)} category=Vital
+OB-41 Observation ref={EN-35} stat=final date=2015-02-02T17:46:58 codes={Body mass index (BMI) (value = 31.46 kg/m2)} category=Vital
+OB-42 Observation ref={EN-35} stat=final date=2015-02-02T17:46:58 codes={Body mass index (BMI) Per age and sex (value = 98.015 %)} category=Vital
+OB-43 Observation ref={EN-35} stat=final date=2015-02-02T17:46:58 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 80 mm(Hg),Systolic Blood Pressure 122 mm(Hg)} category=Vital
+OB-44 Observation ref={EN-35} stat=final date=2015-02-02T17:46:58 codes={Heart rate (value = 82 /min)} category=Vital
+OB-45 Observation ref={EN-35} stat=final date=2015-02-02T17:46:58 codes={Respiratory rate (value = 15 /min)} category=Vital
+OB-46 Observation ref={EN-35} stat=final date=2015-02-02T17:46:58 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-47 Observation ref={EN-35} stat=final date=2015-02-02T18:06:08 codes={Generalized anxiety disorder 7 item total score (Reported.PHQ) (value = 4 {score})} category=Survey
+OB-48 Observation ref={EN-35} stat=final date=2015-02-02T18:47:27 codes={Patient Health Questionnaire-9: Modified for Teens total score (Reported.PHQ.Teen) (value = 0 {score})} category=Survey
+OB-85 Observation ref={EN-84} stat=final date=2015-02-22T17:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 7 {score})} category=Vital
+OB-94 Observation ref={EN-93} stat=final date=2015-05-26T18:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 7 {score})} category=Vital
+OB-104 Observation ref={EN-103} stat=final date=2015-07-09T18:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 9 {score})} category=Vital
+OB-113 Observation ref={EN-112} stat=final date=2015-09-21T18:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 5 {score})} category=Vital
+OB-128 Observation ref={EN-127} stat=final date=2015-11-27T17:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 7 {score})} category=Vital
+OB-143 Observation ref={EN-136} stat=final date=2016-02-08T17:46:58 codes={Body Height (value = 167.7 cm)} category=Vital
+OB-144 Observation ref={EN-136} stat=final date=2016-02-08T17:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 3 {score})} category=Vital
+OB-145 Observation ref={EN-136} stat=final date=2016-02-08T17:46:58 codes={Body Weight (value = 81.5 kg)} category=Vital
+OB-146 Observation ref={EN-136} stat=final date=2016-02-08T17:46:58 codes={Body mass index (BMI) (value = 28.95 kg/m2)} category=Vital
+OB-147 Observation ref={EN-136} stat=final date=2016-02-08T17:46:58 codes={Body mass index (BMI) Per age and sex (value = 94.892 %)} category=Vital
+OB-148 Observation ref={EN-136} stat=final date=2016-02-08T17:46:58 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 80 mm(Hg),Systolic Blood Pressure 123 mm(Hg)} category=Vital
+OB-149 Observation ref={EN-136} stat=final date=2016-02-08T17:46:58 codes={Heart rate (value = 92 /min)} category=Vital
+OB-150 Observation ref={EN-136} stat=final date=2016-02-08T17:46:58 codes={Respiratory rate (value = 13 /min)} category=Vital
+OB-151 Observation ref={EN-136} stat=final date=2016-02-08T17:46:58 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-152 Observation ref={EN-136} stat=final date=2016-02-08T18:28:43 codes={Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences (PRAPARE),Question= Within the last year, have you been afraid of your partner or ex-partner? Answer= Yes,Question= Do you feel physically and emotionally safe where you currently live? Answer= No,Question= Are you a refugee? Answer= No,Question= In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Answer= No,Question= Stress level Answer= Somewhat,Question= How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Answer= 3 to 5 times a week,Question= Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Answer= No,Question= In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Answer= Clothing,What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 29985 /a,Question= Primary insurance Answer= Private insurance,Question= Employment status - current Answer= Full-time work,Question= Highest level of education Answer= Less than high school degree,Address 663 Wilkinson Promenade,Question= Are you worried about losing your housing? Answer= No,Question= Housing status Answer= I have housing,How many people are living or staying at this address? 3 {#},Question= Preferred language Answer= English,Question= Have you been discharged from the armed forces of the United States? Answer= No,Question= At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? Answer= No,Question= Race Answer= White,Question= Do you consider yourself Hispanic/Latino? Answer= No} category=Survey
+OB-153 Observation ref={EN-136} stat=final date=2016-02-08T19:05:03 codes={Patient Health Questionnaire 2 item total score (Reported) (value = 2 {score})} category=Survey
+OB-154 Observation ref={EN-136} stat=final date=2016-02-08T19:37:08 codes={Total score (value = 1 {score})} category=Survey
+OB-169 Observation ref={EN-168} stat=final date=2016-02-14T17:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 7 {score})} category=Vital
+OB-178 Observation ref={EN-177} stat=final date=2016-06-25T18:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 5 {score})} category=Vital
+OB-187 Observation ref={EN-186} stat=final date=2017-01-26T17:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 3 {score})} category=Vital
+OB-199 Observation ref={EN-196} stat=final date=2017-02-13T17:46:58 codes={Body Height (value = 168.2 cm)} category=Vital
+OB-200 Observation ref={EN-196} stat=final date=2017-02-13T17:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 2 {score})} category=Vital
+OB-201 Observation ref={EN-196} stat=final date=2017-02-13T17:46:58 codes={Body Weight (value = 76 kg)} category=Vital
+OB-202 Observation ref={EN-196} stat=final date=2017-02-13T17:46:58 codes={Body mass index (BMI) (value = 26.85 kg/m2)} category=Vital
+OB-203 Observation ref={EN-196} stat=final date=2017-02-13T17:46:58 codes={Body mass index (BMI) Per age and sex (value = 87.009 %)} category=Vital
+OB-204 Observation ref={EN-196} stat=final date=2017-02-13T17:46:58 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 83 mm(Hg),Systolic Blood Pressure 116 mm(Hg)} category=Vital
+OB-205 Observation ref={EN-196} stat=final date=2017-02-13T17:46:58 codes={Heart rate (value = 64 /min)} category=Vital
+OB-206 Observation ref={EN-196} stat=final date=2017-02-13T17:46:58 codes={Respiratory rate (value = 13 /min)} category=Vital
+OB-207 Observation ref={EN-196} stat=final date=2017-02-13T17:46:58 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-208 Observation ref={EN-196} stat=final date=2017-02-13T18:43:00 codes={Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences (PRAPARE),Question= Within the last year, have you been afraid of your partner or ex-partner? Answer= No,Question= Do you feel physically and emotionally safe where you currently live? Answer= Yes,Question= Are you a refugee? Answer= No,Question= In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Answer= No,Question= Stress level Answer= Not at all,Question= How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Answer= Less than once a week,Question= Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Answer= No,Question= In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Answer= I choose not to answer this question,What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 29985 /a,Question= Primary insurance Answer= Private insurance,Question= Employment status - current Answer= Full-time work,Question= Highest level of education Answer= Less than high school degree,Address 663 Wilkinson Promenade,Question= Are you worried about losing your housing? Answer= No,Question= Housing status Answer= I have housing,How many people are living or staying at this address? 3 {#},Question= Preferred language Answer= English,Question= Have you been discharged from the armed forces of the United States? Answer= No,Question= At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? Answer= No,Question= Race Answer= White,Question= Do you consider yourself Hispanic/Latino? Answer= No} category=Survey
+OB-209 Observation ref={EN-196} stat=final date=2017-02-13T19:21:27 codes={Patient Health Questionnaire 2 item total score (Reported) (value = 0 {score})} category=Survey
+OB-210 Observation ref={EN-196} stat=final date=2017-02-13T20:00:21 codes={Total score (AUDIT-C) (value = 2 {score})} category=Survey
+OB-243 Observation ref={EN-242} stat=final date=2017-03-25T18:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 5 {score})} category=Vital
+OB-252 Observation ref={EN-251} stat=final date=2017-05-31T18:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 6 {score})} category=Vital
+OB-261 Observation ref={EN-260} stat=final date=2017-07-21T18:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 7 {score})} category=Vital
+OB-282 Observation ref={EN-281} stat=final date=2017-10-22T18:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 7 {score})} category=Vital
+OB-291 Observation ref={EN-290} stat=final date=2017-12-19T17:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 8 {score})} category=Vital
+OB-300 Observation ref={EN-299} stat=final date=2018-06-20T18:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 5 {score})} category=Vital
+OB-309 Observation ref={EN-308} stat=final date=2018-10-05T18:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 5 {score})} category=Vital
+OB-318 Observation ref={EN-317} stat=final date=2019-02-28T17:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 7 {score})} category=Vital
+OB-328 Observation ref={EN-327} stat=final date=2019-10-03T18:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 7 {score})} category=Vital
+OB-337 Observation ref={EN-336} stat=final date=2019-11-23T17:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 4 {score})} category=Vital
+OB-349 Observation ref={EN-346} stat=final date=2020-02-17T17:46:58 codes={Body Height (value = 168.4 cm)} category=Vital
+OB-350 Observation ref={EN-346} stat=final date=2020-02-17T17:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 1 {score})} category=Vital
+OB-351 Observation ref={EN-346} stat=final date=2020-02-17T17:46:58 codes={Body Weight (value = 76.8 kg)} category=Vital
+OB-352 Observation ref={EN-346} stat=final date=2020-02-17T17:46:58 codes={Body mass index (BMI) (value = 27.08 kg/m2)} category=Vital
+OB-353 Observation ref={EN-346} stat=final date=2020-02-17T17:46:58 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 81 mm(Hg),Systolic Blood Pressure 106 mm(Hg)} category=Vital
+OB-354 Observation ref={EN-346} stat=final date=2020-02-17T17:46:58 codes={Heart rate (value = 85 /min)} category=Vital
+OB-355 Observation ref={EN-346} stat=final date=2020-02-17T17:46:58 codes={Respiratory rate (value = 15 /min)} category=Vital
+OB-356 Observation ref={EN-346} stat=final date=2020-02-17T17:46:58 codes={Leukocytes (#/volume) in Blood by Automated count (value = 5.7195 10*3/uL)} category=Laboratory
+OB-357 Observation ref={EN-346} stat=final date=2020-02-17T17:46:58 codes={Erythrocytes (#/volume) in Blood by Automated count (value = 4.4099 10*6/uL)} category=Laboratory
+OB-358 Observation ref={EN-346} stat=final date=2020-02-17T17:46:58 codes={Hemoglobin (Mass/volume) in Blood (value = 16.26 g/dL)} category=Laboratory
+OB-359 Observation ref={EN-346} stat=final date=2020-02-17T17:46:58 codes={Hematocrit (Volume Fraction) of Blood by Automated count (value = 40.122 %)} category=Laboratory
+OB-360 Observation ref={EN-346} stat=final date=2020-02-17T17:46:58 codes={MCV (Entitic volume) by Automated count (value = 92.173 fL)} category=Laboratory
+OB-361 Observation ref={EN-346} stat=final date=2020-02-17T17:46:58 codes={MCH (Entitic mass) by Automated count (value = 30.445 pg)} category=Laboratory
+OB-362 Observation ref={EN-346} stat=final date=2020-02-17T17:46:58 codes={MCHC (Mass/volume) by Automated count (value = 35.117 g/dL)} category=Laboratory
+OB-363 Observation ref={EN-346} stat=final date=2020-02-17T17:46:58 codes={Erythrocyte distribution width (Entitic volume) by Automated count (value = 42 fL)} category=Laboratory
+OB-364 Observation ref={EN-346} stat=final date=2020-02-17T17:46:58 codes={Platelets (#/volume) in Blood by Automated count (value = 261.62 10*3/uL)} category=Laboratory
+OB-365 Observation ref={EN-346} stat=final date=2020-02-17T17:46:58 codes={Platelet distribution width (Entitic volume) in Blood by Automated count (value = 404.91 fL)} category=Laboratory
+OB-366 Observation ref={EN-346} stat=final date=2020-02-17T17:46:58 codes={Platelet mean volume (Entitic volume) in Blood by Automated count (value = 11.138 fL)} category=Laboratory
+OB-367 Observation ref={EN-346} stat=final date=2020-02-17T17:46:58 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-368 Observation ref={EN-346} stat=final date=2020-02-17T18:17:20 codes={Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences (PRAPARE),Question= Within the last year, have you been afraid of your partner or ex-partner? Answer= No,Question= Do you feel physically and emotionally safe where you currently live? Answer= Yes,Question= Are you a refugee? Answer= No,Question= In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Answer= No,Question= Stress level Answer= A little bit,Question= How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Answer= Less than once a week,Question= Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Answer= No,Question= In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Answer= Clothing,What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 29985 /a,Question= Primary insurance Answer= Private insurance,Question= Employment status - current Answer= Full-time work,Question= Highest level of education Answer= Less than high school degree,Address 663 Wilkinson Promenade,Question= Are you worried about losing your housing? Answer= No,Question= Housing status Answer= I have housing,How many people are living or staying at this address? 3 {#},Question= Preferred language Answer= English,Question= Have you been discharged from the armed forces of the United States? Answer= No,Question= At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? Answer= No,Question= Race Answer= White,Question= Do you consider yourself Hispanic/Latino? Answer= No} category=Survey
+OB-369 Observation ref={EN-346} stat=final date=2020-02-17T18:37:06 codes={Generalized anxiety disorder 7 item total score (Reported.PHQ) (value = 1 {score})} category=Survey
+OB-370 Observation ref={EN-346} stat=final date=2020-02-17T19:08:55 codes={Patient Health Questionnaire 2 item total score (Reported) (value = 2 {score})} category=Survey
+OB-388 Observation ref={EN-387} stat=final date=2020-02-28T17:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 7 {score})} category=Vital
+OB-398 Observation ref={EN-397} stat=final date=2020-04-19T18:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 3 {score})} category=Vital
+OB-408 Observation ref={EN-407} stat=final date=2020-06-30T18:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 9 {score})} category=Vital
+OB-417 Observation ref={EN-416} stat=final date=2020-09-12T18:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 5 {score})} category=Vital
+OB-426 Observation ref={EN-425} stat=final date=2020-10-26T18:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 7 {score})} category=Vital
+OB-435 Observation ref={EN-434} stat=final date=2021-03-14T18:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 7 {score})} category=Vital
+OB-445 Observation ref={EN-444} stat=final date=2021-04-20T18:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 5 {score})} category=Vital
+OB-466 Observation ref={EN-465} stat=final date=2021-08-02T18:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 5 {score})} category=Vital
+OB-476 Observation ref={EN-475} stat=final date=2021-09-15T18:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 4 {score})} category=Vital
+OB-485 Observation ref={EN-484} stat=final date=2021-11-28T17:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 8 {score})} category=Vital
+OB-513 Observation ref={EN-512} stat=final date=2022-02-03T17:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 5 {score})} category=Vital
+OB-525 Observation ref={EN-521} stat=final date=2023-02-20T17:46:58 codes={Body Height (value = 168.4 cm)} category=Vital
+OB-526 Observation ref={EN-521} stat=final date=2023-02-20T17:46:58 codes={Pain severity - 0-10 verbal numeric rating - Reported (value = 1 {score})} category=Vital
+OB-527 Observation ref={EN-521} stat=final date=2023-02-20T17:46:58 codes={Body Weight (value = 76.8 kg)} category=Vital
+OB-528 Observation ref={EN-521} stat=final date=2023-02-20T17:46:58 codes={Body mass index (BMI) (value = 27.08 kg/m2)} category=Vital
+OB-529 Observation ref={EN-521} stat=final date=2023-02-20T17:46:58 codes={Blood pressure panel with all children optional,Diastolic Blood Pressure 81 mm(Hg),Systolic Blood Pressure 113 mm(Hg)} category=Vital
+OB-530 Observation ref={EN-521} stat=final date=2023-02-20T17:46:58 codes={Heart rate (value = 67 /min)} category=Vital
+OB-531 Observation ref={EN-521} stat=final date=2023-02-20T17:46:58 codes={Respiratory rate (value = 12 /min)} category=Vital
+OB-532 Observation ref={EN-521} stat=final date=2023-02-20T17:46:58 codes={Tobacco smoking status (value = Never smoked tobacco)} category=Social
+OB-533 Observation ref={EN-521} stat=final date=2023-02-20T18:21:38 codes={Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences (PRAPARE),Question= Within the last year, have you been afraid of your partner or ex-partner? Answer= No,Question= Do you feel physically and emotionally safe where you currently live? Answer= Yes,Question= Are you a refugee? Answer= No,Question= In the past year, have you spent more than 2 nights in a row in a jail, prison, detention center, or juvenile correctional facility? Answer= No,Question= Stress level Answer= Not at all,Question= How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone, visiting friends or family, going to church or club meetings)? Answer= 5 or more times a week,Question= Has lack of transportation kept you from medical appointments, meetings, work, or from getting things needed for daily living Answer= No,Question= In the past year, have you or any family members you live with been unable to get any of the following when it was really needed? Answer= Utilities,What was your best estimate of the total income of all family members from all sources, before taxes, in last year? 29985 /a,Question= Primary insurance Answer= Private insurance,Question= Employment status - current Answer= Part-time or temporary work,Question= Highest level of education Answer= Less than high school degree,Address 663 Wilkinson Promenade,Question= Are you worried about losing your housing? Answer= No,Question= Housing status Answer= I have housing,How many people are living or staying at this address? 3 {#},Question= Preferred language Answer= English,Question= Have you been discharged from the armed forces of the United States? Answer= No,Question= At any point in the past 2 years, has season or migrant farm work been your or your family's main source of income? Answer= No,Question= Race Answer= White,Question= Do you consider yourself Hispanic/Latino? Answer= No} category=Survey
+OB-534 Observation ref={EN-521} stat=final date=2023-02-20T18:55:04 codes={Patient Health Questionnaire 2 item total score (Reported) (value = 0 {score})} category=Survey
+OB-535 Observation ref={EN-521} stat=final date=2023-02-20T19:34:22 codes={Total score (AUDIT-C) (value = 6 {score})} category=Survey
+IM-57 Immunization ref={EN-35} stat=completed date=2015-02-02T17:46:58 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-161 Immunization ref={EN-136} stat=completed date=2016-02-08T17:46:58 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-218 Immunization ref={EN-196} stat=completed date=2017-02-13T17:46:58 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-376 Immunization ref={EN-346} stat=completed date=2020-02-17T17:46:58 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+IM-377 Immunization ref={EN-346} stat=completed date=2020-02-17T17:46:58 codes={Td (adult), 5 Lf tetanus toxoid, preservative free, adsorbed} primarySource=True
+IM-378 Immunization ref={EN-346} stat=completed date=2020-02-17T17:46:58 codes={Hep B, adult} primarySource=True
+IM-379 Immunization ref={EN-346} stat=completed date=2020-02-17T17:46:58 codes={meningococcal MCV4P} primarySource=True
+IM-454 Immunization ref={EN-453} stat=completed date=2021-05-17T18:46:58 codes={COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose} primarySource=True
+IM-460 Immunization ref={EN-459} stat=completed date=2021-06-14T18:46:58 codes={COVID-19, mRNA, LNP-S, PF, 100 mcg/0.5mL dose or 50 mcg/0.25mL dose} primarySource=True
+IM-543 Immunization ref={EN-521} stat=completed date=2023-02-20T17:46:58 codes={Influenza, seasonal, injectable, preservative free} primarySource=True
+MD-75 Medication ref={} stat=active codes={sodium fluoride 0.0272 MG/MG Oral Gel} 
+MA-79 MedicationAdministration ref={EN-64,CN-37} stat=completed date=2015-02-16T20:41:35 codes={sodium fluoride 0.0272 MG/MG Oral Gel} 
