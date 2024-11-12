@@ -13,7 +13,7 @@ Medical data for Generative AI
 - All files are under 120,000 tokens for gpt-4o-mini usage
 
 ## Downloads
-- 100 Synthetic Patient Records [Download .zip From Release](https://github.com/XPawnAI/embr-sample-data/releases/download/release/100-embr-records.zip)
+- 100 Synthetic Patient Records [Download .zip From Release](https://github.com/XPawnAI/embr-sample-data/releases/download/release/100-embr-records-v0.0.2.zip)
 - 1000 Synthetic Patient Records (Coming Soon)
 
 > **Note**: A separate repository for converting FHIR data to EMBR format will be available soon at [xpawnai/embr](https://github.com/XPawnAI/embr).
