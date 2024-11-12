@@ -2,7 +2,7 @@
 
 <img src="https://www.xpawn.ai/_next/image?url=%2Fimages%2Fembr.png&w=3840&q=75" width="80">
 
-Medical data for Generative AI
+Medical data for Generative AI - [Click for Summary Example](https://github.com/XPawnAI/embr-sample-data/blob/main/notebooks/patient-summary.ipynb)
 
 ### Details
 
